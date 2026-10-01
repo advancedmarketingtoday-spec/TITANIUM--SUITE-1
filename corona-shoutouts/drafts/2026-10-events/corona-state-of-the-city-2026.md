@@ -128,6 +128,12 @@ Do not deploy this schema until the page and details are approved. Omit unverifi
 }
 ```
 
+## Second verification pass — October 1, 2026
+
+The organizer’s visible agenda still confirms October 8, 6 p.m. pre-show, 6:30 p.m. address and 7 p.m. reception. Its generated calendar link suggests 8:30 p.m. as an end, but the visible agenda does not establish that end time; keep endDate omitted until confirmed. The RSVP destination remains linked; no booking was attempted.
+
+**Organizer artwork candidate:** [Direct asset reference](https://org-images.withapps.io/34/resources/fbe3817452c5675f4060ed6c6491dbcd.jpeg). Discovered in the organizer page’s image metadata, not visually inspected or licensed. Inspect the full-resolution artwork, verify dates/text and obtain rights-holder permission plus required creator credit before embedding. This link is a review candidate, not approval to reuse or hotlink. Keep image URLs out of public schema until cleared.
+
 ## Independence notice
 
 Corona Shoutouts is an independently operated community publication. It is not affiliated with, sponsored by, or endorsed by the City of Corona.
