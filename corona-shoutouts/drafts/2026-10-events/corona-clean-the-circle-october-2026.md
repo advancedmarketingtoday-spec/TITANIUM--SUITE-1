@@ -131,6 +131,14 @@ Do not deploy this schema until the page and details are approved. Omit unverifi
 }
 ```
 
+## Second verification pass — October 1, 2026
+
+The City description again confirms October 17, check-in 7:30 a.m., cleanup 8–10 a.m., registration deadline October 14 at 5 p.m. and waiver rules. The generated calendar export contains a zero-duration midnight time inconsistent with the explicit description; do not import it into article metadata. The registration link below is organizer-linked; capacity and final arrival instructions remain unverified.
+
+**Organizer artwork candidate:** [Direct asset reference](https://org-images.withapps.io/34/pool/937f189887e7ae4f227ef506e19b52f1.jpg). Discovered in the organizer page’s image metadata, not visually inspected or licensed. Inspect the full-resolution artwork, verify dates/text and obtain rights-holder permission plus required creator credit before embedding. This link is a review candidate, not approval to reuse or hotlink. Keep image URLs out of public schema until cleared.
+
+**Organizer-linked registration:** [Corona recreation catalog](https://secure.rec1.com/CA/corona-ca/catalog?filter=c2VhcmNoPTM5NzI5NTA=). No sign-up or personal information was submitted.
+
 ## Independence notice
 
 Corona Shoutouts is an independently operated community publication. It is not affiliated with, sponsored by, or endorsed by the City of Corona.
