@@ -65,3 +65,35 @@ Omitted. No multiple independent, dated, location-matched review evidence was ga
 2. Verify the five Shell records in a real browser or by phone.
 3. Confirm candidates with official brand locators or direct contact; dedupe; resolve brand conflicts.
 4. Decide city-limit policy for Temescal Valley addresses.
+
+## Second pass update (2026-10-01 02:35 UTC, OpenClaw)
+All items below remain UNVERIFIED unless stated. Secondary sources are aggregators, not official.
+
+### Website category
+- https://coronashoutouts.com/sitemap.xml lists only one URL (/n/corona-shoutouts-welcome-issue-1). https://coronashoutouts.com/directory returns 404. /categories shows no category list to automated fetch. A "Gas Stations" category and its ID are NOT confirmed. Needs Letterman/site admin access or a real browser. No ID invented.
+
+### Shell records (official locator pages still return only a title to automated fetch; browser tool unavailable)
+| Address | New finding | Source | Status |
+|---|---|---|---|
+| 230 S Lincoln Ave | Phone (951) 735-3638 listed; hours not shown | https://www.way.com/gas-station/details/7487057/Shell-in-Corona-230-S-Lincoln-Ave- ; https://www.yelp.com/biz/shell-corona | unverified (secondary) |
+| 111 N Lincoln Ave | Phone (951) 734-8853 in local listing; one listing shows this address under 7-Eleven (possible brand/listing conflict) | https://roadnow.com/i15/gas-stations-california-0 | unresolved |
+| 1825 W 6th St | "Shell Car Wash" listing associated with address; no station phone found | https://www.storelocators.com/store-lists/shell/california | unverified (note: a 7-Eleven is listed at 1698 W 6th St, a different address) |
+| 4721 Green River Rd | listing exists; no phone/hours found | https://www.way.com/gas-station/details/7387788/Shell-in-Corona-4721-Green-River-Rd- | unresolved |
+| 3905 Bedford Canyon Rd | nothing new found | n/a | unresolved |
+Next: confirm all five via the official locator in a real browser or by phone.
+
+### Candidate source URLs (aggregator pages from the search; per-address mapping is approximate)
+- Chevron 117 E 4th St: https://www.superpages.com/corona-ca/convenience-stores
+- Chevron 1315 Magnolia Ave: https://www.way.com/gas/stations/corona-ca ; https://www.loc8nearme.com/california/corona/chevron/300111/
+- Chevron 309 S Main St: https://www.yellowpages.com/central-corona-corona-ca/gas-stations?page=3
+- Chevron 130 W Foothill Pkwy: https://www.way.com/gas/stations/coronita-ca (Coronita page: confirm city limits)
+- ARCO 800 Serfas Club Dr: https://www.superpages.com/corona-ca/convenience-stores ; https://www.way.com/gas/stations/corona-ca
+- ARCO 785 N Main St: https://www.loc8nearme.com/california/corona/gas-stations/
+- ARCO 1205 S Main St; Mobil 304 S Main St; Valero 1610 W 6th St: https://www.yellowpages.com/corona-ca/gas-stations
+- ARCO 23760 and 4688/19570 Temescal Canyon Rd: https://www.way.com/gas/stations/temescal-valley-ca (Temescal Valley page: likely not Corona city)
+- ARCO 12150 Temescal Canyon Rd: https://www.yellowpages.com/central-corona-corona-ca/gas-stations?page=3
+- 76 4350 Green River Rd; Mobil 616 Paseo Grande: https://www.loc8nearme.com/california/corona/gas-stations/
+- Mobil 1204 Magnolia Ave: https://www.superpages.com/corona-ca/convenience-stores
+- 431 N McKinley St: https://www.exxonmobilfuels.com/en/find-gas-station/circle-k-09431-corona-ca-200310714 — this page is a Circle K, so the "Mobil" label is a likely brand conflict.
+- Mobil 2261 Eagle Glen Pkwy: https://www.way.com/gas/stations/temescal-valley-ca
+- Official locators still to use: https://www.valero.com/find-gas-station ; https://www.arco.com/en-us/southwest/find-a-station ; https://www.76.com/
