@@ -12,7 +12,7 @@ Recheck every field before publication. Fuel prices are intentionally omitted.
 ### Costco Gasoline - 480 N McKinley St, Corona, CA 92879
 | Field | Value | Status |
 |---|---|---|
-| Phone (warehouse) | (951) 279-2989 | listed on source page |
+| Phone (warehouse; not gas-specific) | (951) 279-1190 | official warehouse contact; (951) 279-2989 is the food court |
 | Gas hours | Mon-Fri 5:30am-10:00pm; Sat 6:00am-8:30pm; Sun 6:00am-7:30pm | matches issue starter data |
 | Warehouse hours | Executive: Mon-Fri 9am-8:30pm, Sat 9am-7pm, Sun 9am-6pm. Gold Star/Business: Mon-Fri 10am-8:30pm, Sat 9:30am-7pm, Sun 10am-6pm | listed |
 | Fuel types | Regular and premium listed | listed (others unverified) |
