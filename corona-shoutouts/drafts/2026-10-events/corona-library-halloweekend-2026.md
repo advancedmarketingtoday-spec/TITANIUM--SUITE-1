@@ -130,6 +130,12 @@ Do not deploy this schema until the page and details are approved. Omit unverifi
 }
 ```
 
+## Second verification pass — October 1, 2026
+
+The official library listing still confirms October 9 beginning at 5:30 p.m., South Main Street and the listed activities. No visible end time or reservation requirement was established. Calendar-generated defaults are not used to fill missing schedule facts.
+
+**Organizer artwork candidate:** [Direct asset reference](https://org-images.withapps.io/34/resources/08587edf04e513daccdfd578159a79c2.png). Discovered in the organizer page’s image metadata, not visually inspected or licensed. Inspect the full-resolution artwork, verify dates/text and obtain rights-holder permission plus required creator credit before embedding. This link is a review candidate, not approval to reuse or hotlink. Keep image URLs out of public schema until cleared.
+
 ## Independence notice
 
 Corona Shoutouts is an independently operated community publication. It is not affiliated with, sponsored by, or endorsed by the City of Corona.
