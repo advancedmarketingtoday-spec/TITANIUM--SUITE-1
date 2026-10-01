@@ -133,6 +133,12 @@ Do not deploy this schema until the page and details are approved. Omit unverifi
 }
 ```
 
+## Second verification pass — October 1, 2026
+
+The City organizer’s Eventbrite page again confirms October 10, 9 a.m.–noon, free admission, the Police Department address and announced program. A ticket control is not proof that registration is required; no booking was attempted.
+
+**Organizer artwork candidate:** [Direct asset reference](https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1193191225%252F360106957117%252F1%252Foriginal.20260910-183157%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.496%26fp-y%3D0.44%26s%3Dbcff2d60d309e12ace2d4daf729b890b&w=940&q=75). Discovered in the organizer page’s image metadata, not visually inspected or licensed. Inspect the full-resolution artwork, verify dates/text and obtain rights-holder permission plus required creator credit before embedding. This link is a review candidate, not approval to reuse or hotlink. Keep image URLs out of public schema until cleared.
+
 ## Independence notice
 
 Corona Shoutouts is an independently operated community publication. It is not affiliated with, sponsored by, or endorsed by the City of Corona.
