@@ -1,0 +1,36 @@
+{
+  "name": "corona-shoutouts-community",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --hostname 0.0.0.0",
+    "build": "next build",
+    "start": "next start --hostname 0.0.0.0",
+    "lint": "eslint .",
+    "typecheck": "next typegen && tsc --noEmit",
+    "test": "vitest run",
+    "test:e2e": "playwright test",
+    "db:test:start": "node scripts/test-db.mjs",
+    "review": "node scripts/review.mjs"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "2.117.2",
+    "next": "16.3.8",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "server-only": "0.0.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.63.0",
+    "@types/node": "26.6.4",
+    "@types/pg": "8.23.1",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "eslint": "9.39.5",
+    "eslint-config-next": "16.3.8",
+    "pg": "8.23.1",
+    "typescript": "6.0.3",
+    "vitest": "5.0.3"
+  },
+  "type": "module"
+}
