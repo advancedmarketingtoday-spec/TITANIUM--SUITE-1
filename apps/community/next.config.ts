@@ -1,4 +1,9 @@
 import type { NextConfig } from "next";
+if (process.env.VERCEL_ENV === "production") {
+  throw new Error(
+    "This branch is authorized for private Preview deployments only.",
+  );
+}
 const config: NextConfig = {
   poweredByHeader: false,
   allowedDevOrigins: ["127.0.0.1"],

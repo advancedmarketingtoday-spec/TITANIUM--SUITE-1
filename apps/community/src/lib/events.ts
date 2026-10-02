@@ -66,6 +66,7 @@ export type EventRecord = {
   imageRights: string | null;
   approvedAt: string | null;
   publishedAt: string | null;
+  developmentTest?: boolean;
 };
 const transitions: Record<ContentState, readonly ContentState[]> = {
   RESEARCH: ["VERIFICATION_NEEDED", "VERIFIED", "DRAFT", "ARCHIVED"],
@@ -92,6 +93,7 @@ export function canTransition(
 }
 export function isPublicEvent(event: EventRecord) {
   return (
+    !event.developmentTest &&
     event.state === "PUBLISHED" &&
     event.verificationStatus === "VERIFIED" &&
     !!event.verifiedAt &&

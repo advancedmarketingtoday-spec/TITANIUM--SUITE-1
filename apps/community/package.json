@@ -11,7 +11,9 @@
     "test": "vitest run",
     "test:e2e": "playwright test",
     "db:test:start": "node scripts/test-db.mjs",
-    "review": "node scripts/review.mjs"
+    "review": "node scripts/review.mjs",
+    "db:preview:local": "node scripts/local-preview-db.mjs",
+    "check:development": "node scripts/check-development.mjs"
   },
   "dependencies": {
     "@supabase/supabase-js": "2.117.2",

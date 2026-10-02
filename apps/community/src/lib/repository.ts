@@ -7,6 +7,7 @@ import {
   type EventRecord,
 } from "./events";
 import { sampleEvents } from "./sample-events";
+import { previewConfiguration } from "./preview-config";
 export function parseRecord(row: Record<string, unknown>): EventRecord | null {
   const text = (key: string) =>
     typeof row[key] === "string" && row[key] ? (row[key] as string) : null;
@@ -71,6 +72,7 @@ export function parseRecord(row: Record<string, unknown>): EventRecord | null {
     imageRights: text("image_rights"),
     approvedAt: approved,
     publishedAt: published,
+    developmentTest: row.is_development === true,
   };
 }
 export async function getEvents(): Promise<{
@@ -78,19 +80,61 @@ export async function getEvents(): Promise<{
   preview: boolean;
   unavailable: boolean;
 }> {
-  if (process.env.COMMUNITY_PREVIEW === "true")
+  const configuration = previewConfiguration(process.env);
+  if (!configuration.allowed)
+    return { events: [], preview: configuration.preview, unavailable: true };
+  if (configuration.mode === "fixtures")
     return { events: sampleEvents, preview: true, unavailable: false };
   const url = process.env.SUPABASE_URL,
     key = process.env.SUPABASE_ANON_KEY;
-  if (!url || !key) return { events: [], preview: false, unavailable: false };
+  if (!url || !key)
+    return {
+      events: [],
+      preview: configuration.preview,
+      unavailable: configuration.preview,
+    };
   try {
     const client = createClient(url, key, {
       auth: { persistSession: false, autoRefreshToken: false },
     });
+    if (configuration.mode === "database") {
+      const email = process.env.COMMUNITY_PREVIEW_EMAIL,
+        password = process.env.COMMUNITY_PREVIEW_PASSWORD;
+      if (!email || !password)
+        return { events: [], preview: true, unavailable: true };
+      const { data: session, error: loginError } =
+        await client.auth.signInWithPassword({ email, password });
+      if (loginError || !session.user)
+        return { events: [], preview: true, unavailable: true };
+      const { data: member, error: roleError } = await client
+        .from("community_members")
+        .select("role")
+        .eq("user_id", session.user.id)
+        .single();
+      if (roleError || member?.role !== "previewer")
+        return { events: [], preview: true, unavailable: true };
+      const { data, error } = await client
+        .from("community_events")
+        .select("*")
+        .eq("is_development", true)
+        .in("state", ["DRAFT", "VERIFIED"])
+        .order("starts_at");
+      if (error) return { events: [], preview: true, unavailable: true };
+      const events = (data || [])
+        .map(parseRecord)
+        .filter(
+          (e): e is EventRecord =>
+            !!e &&
+            e.developmentTest === true &&
+            ["DRAFT", "VERIFIED"].includes(e.state),
+        );
+      return { events, preview: true, unavailable: false };
+    }
     const { data, error } = await client
       .from("community_events")
       .select("*")
       .eq("state", "PUBLISHED")
+      .eq("is_development", false)
       .order("starts_at");
     if (error) return { events: [], preview: false, unavailable: true };
     const events = (data || [])
@@ -98,6 +142,6 @@ export async function getEvents(): Promise<{
       .filter((e): e is EventRecord => !!e && isPublicEvent(e));
     return { events, preview: false, unavailable: false };
   } catch {
-    return { events: [], preview: false, unavailable: true };
+    return { events: [], preview: configuration.preview, unavailable: true };
   }
 }

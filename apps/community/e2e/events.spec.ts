@@ -113,6 +113,7 @@ test("source-backed list, filters, calendar and detail", async ({
       () => document.documentElement.scrollWidth <= window.innerWidth,
     ),
   ).toBe(true);
+  await expect(page.locator('link[rel="canonical"]')).toHaveCount(0);
   await page.screenshot({
     path: `test-results/detail-${testInfo.project.name}.png`,
     fullPage: true,
@@ -127,4 +128,18 @@ test("unknown events stay inaccessible and preview is not indexable", async ({
   await expect(
     page.getByRole("heading", { name: "We couldn’t find that event." }),
   ).toBeVisible();
+});
+
+test("private fitness routes are absent and no sitemap is exposed", async ({
+  page,
+  request,
+}) => {
+  for (const path of ["/fitness", "/api/fitness", "/sitemap.xml"]) {
+    const response = await request.get(path);
+    expect(response.status()).toBe(404);
+  }
+  await page.goto("/events");
+  await expect(page.locator('link[rel="canonical"]')).toHaveCount(0);
+  const robots = await request.get("/robots.txt");
+  expect(await robots.text()).toContain("Disallow: /");
 });

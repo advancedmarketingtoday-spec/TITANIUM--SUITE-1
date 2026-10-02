@@ -27,7 +27,7 @@ if (existing) {
       "--label",
       "corona.phase1.test=true",
       "-e",
-      "POSTGRES_PASSWORD=local-test-only",
+      "POSTGRES_HOST_AUTH_METHOD=trust",
       "-e",
       "POSTGRES_DB=corona_phase1_test",
       "-p",

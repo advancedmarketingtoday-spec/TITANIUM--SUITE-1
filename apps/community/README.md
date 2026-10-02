@@ -78,10 +78,18 @@ npm run test:e2e
 npm run build
 ```
 
-The test DB launcher uses a checksum-pinned PostgreSQL 17 image and a marked container bound only to loopback port 55432. Its fixed password is an intentionally disposable local test setting, not an application credential. The tests refuse any database except `corona_phase1_test`; they reset that test database's schemas. Do not put real data there. Starting the marked container is repeatable. Tests never use application database variables.
+The test DB launcher uses a checksum-pinned PostgreSQL 17 image and a marked container bound only to loopback port 55432. It uses trust authentication only for the isolated local test container, with no password or application credential committed. The tests refuse any database except `corona_phase1_test`; they reset that test database's schemas. Do not put real data there. Starting the marked container is repeatable. Tests never use application database variables.
 
-Playwright uses `/usr/bin/chromium` in this cloud environment. Set `PLAYWRIGHT_CHROMIUM_EXECUTABLE_PATH` if Chromium is elsewhere. Browser tests build and start the application themselves on local port 3000; leave that port free. They assert search, category/school/sport filters, date buttons, empty states, calendar navigation, details, missing end time, source links, no preview JSON-LD, 404 behavior, noindex headers and no horizontal overflow at 1440px/390px widths.
+Playwright uses `/usr/bin/chromium` in this cloud environment. Set `PLAYWRIGHT_CHROMIUM_EXECUTABLE_PATH` if Chromium is elsewhere. Browser tests build and start the application themselves on local port 3010 (override `COMMUNITY_E2E_PORT` if needed); leave that port free. They assert search, category/school/sport filters, date buttons, empty states, calendar navigation, details, missing end time, source links, no preview JSON-LD, 404 behavior, noindex headers and no horizontal overflow at 1440px/390px widths.
 
 ## Preview deployment preparation
 
 For a future separately authorized Vercel preview, select root directory `apps/community`, framework Next.js, install `npm ci`, build `npm run build`, and Node 24. Require platform access protection and keep existing production domains and Letterman disconnected. Keep `COMMUNITY_PREVIEW` unset/false for public data mode. No Vercel project, deployment or domain configuration was created. Authorization is still required before deploying or changing indexing/publication behavior.
+
+
+## Authorized private preview preparation
+
+See `PREVIEW-SETUP.md` for the database-backed development preview, labeled seed,
+restricted previewer account, hosted API checks and protected Vercel deployment
+requirements. This does not authorize production operations. Existing local
+fixture mode remains available without connecting any database.

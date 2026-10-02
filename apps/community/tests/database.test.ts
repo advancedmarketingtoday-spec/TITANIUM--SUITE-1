@@ -5,12 +5,13 @@ types.setTypeParser(1184, (value) => value);
 import { readFileSync } from "node:fs";
 // Only a disposable local test database. Never reads application credentials.
 const connectionString =
-  "postgresql://postgres:local-test-only@127.0.0.1:55432/corona_phase1_test";
+  "postgresql://postgres@127.0.0.1:55432/corona_phase1_test";
 const admin = new Client({ connectionString }),
   actor = new Client({ connectionString });
 const editor = "00000000-0000-0000-0000-000000000001",
   reviewer = "00000000-0000-0000-0000-000000000002",
-  outsider = "00000000-0000-0000-0000-000000000003";
+  outsider = "00000000-0000-0000-0000-000000000003",
+  previewer = "00000000-0000-0000-0000-000000000004";
 let id: string;
 async function identity(user: string | null, role = "authenticated") {
   await actor.query("reset role");
@@ -62,14 +63,21 @@ beforeAll(async () => {
       "utf8",
     ),
   );
-  await admin.query("insert into auth.users(id) values ($1),($2),($3)", [
+  await admin.query(
+    readFileSync(
+      "supabase/migrations/202610010002_development_preview.sql",
+      "utf8",
+    ),
+  );
+  await admin.query("insert into auth.users(id) values ($1),($2),($3),($4)", [
     editor,
     reviewer,
     outsider,
+    previewer,
   ]);
   await admin.query(
-    "insert into community_members values ($1,'editor'),($2,'reviewer')",
-    [editor, reviewer],
+    "insert into community_members values ($1,'editor'),($2,'reviewer'),($3,'previewer')",
+    [editor, reviewer, previewer],
   );
 });
 afterAll(async () => {
@@ -284,5 +292,112 @@ describe("PostgreSQL migration and RLS", () => {
     await admin.query("insert into community_members values ($1,'reviewer')", [
       reviewer,
     ]);
+  });
+  it("rejects VERIFIED -> PUBLISHED at the database boundary", async () => {
+    await identity(reviewer);
+    await admin.query(
+      "update community_events set state='VERIFIED',verification_status='VERIFIED',verified_at=now() where id=$1",
+      [id],
+    );
+    await expect(transition("PUBLISHED")).rejects.toThrow(
+      "Invalid content transition",
+    );
+  });
+  it("unauthenticated users cannot verify, approve or publish", async () => {
+    await identity(null, "anon");
+    await expect(verify()).rejects.toThrow("permission denied");
+    for (const state of ["APPROVED", "PUBLISHED"])
+      await expect(transition(state)).rejects.toThrow("permission denied");
+  });
+  it("previewers see only labeled draft/verified test records and cannot write or review", async () => {
+    await admin.query(
+      "update community_events set is_development=true,development_label='DEVELOPMENT TEST' where id=$1",
+      [id],
+    );
+    await identity(previewer);
+    expect((await actor.query("select * from community_events")).rowCount).toBe(
+      1,
+    );
+    await expect(transition("APPROVED")).rejects.toThrow(
+      "Staff access required",
+    );
+    await expect(verify()).rejects.toThrow("Staff access required");
+    expect(
+      (
+        await actor.query(
+          "update community_events set title='Test edit' where id=$1",
+          [id],
+        )
+      ).rowCount,
+    ).toBe(0);
+    await expect(
+      actor.query(
+        "insert into community_events(slug,title,starts_at,category,source_url) values ('viewer-write','Test write',now(),'Community','https://example.org')",
+      ),
+    ).rejects.toThrow("row-level security");
+    await identity(null, "anon");
+    expect((await actor.query("select * from community_events")).rowCount).toBe(
+      0,
+    );
+  });
+  it("test records stay excluded from public routes even after test-only publication", async () => {
+    await admin.query(
+      "update community_events set is_development=true,development_label='DEVELOPMENT TEST' where id=$1",
+      [id],
+    );
+    await approve();
+    await transition("PUBLISHED");
+    await identity(null, "anon");
+    expect((await actor.query("select * from community_events")).rowCount).toBe(
+      0,
+    );
+    await identity(outsider);
+    expect((await actor.query("select * from community_events")).rowCount).toBe(
+      0,
+    );
+    await identity(previewer);
+    expect((await actor.query("select * from community_events")).rowCount).toBe(
+      0,
+    );
+  });
+  it("seed refuses unmarked databases and preserves DRAFT provenance and rights", async () => {
+    const seed = readFileSync("supabase/development/seed.sql", "utf8");
+    await expect(admin.query(seed)).rejects.toThrow(
+      "confirmed development project marker",
+    );
+    await admin.query("rollback");
+    await admin.query(
+      "insert into community_preview_environment(project_class,project_ref) values ('development','local-test')",
+    );
+    await admin.query(seed);
+    await admin.query(seed);
+    const rows = (
+      await admin.query(
+        "select * from community_events where is_development=true",
+      )
+    ).rows;
+    expect(rows).toHaveLength(1);
+    expect(rows[0]).toMatchObject({
+      state: "DRAFT",
+      verification_status: "VERIFIED",
+      approved_at: null,
+      published_at: null,
+      image_url: null,
+    });
+    expect(rows[0].source_url).toContain("community.coronaca.gov");
+    expect(rows[0].verified_at).toBeTruthy();
+    expect(rows[0].image_rights).toContain("No image used");
+    await admin.query("delete from community_preview_environment");
+  });
+  it("a real private-schema test sentinel is inaccessible to public, staff and previewers", async () => {
+    await admin.query(
+      "create table if not exists private_fitness.isolation_test_sentinel(id integer)",
+    );
+    for (const user of [null, editor, reviewer, previewer]) {
+      await identity(user, user ? "authenticated" : "anon");
+      await expect(
+        actor.query("select * from private_fitness.isolation_test_sentinel"),
+      ).rejects.toThrow("permission denied for schema private_fitness");
+    }
   });
 });
