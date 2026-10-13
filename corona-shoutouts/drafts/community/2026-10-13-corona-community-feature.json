@@ -1,0 +1,168 @@
+{
+  "status": "draft",
+  "publication": "Corona Shoutouts",
+  "title": "Corona, CA Spotlight: Neighbors Helping Neighbors at Settlement House",
+  "date": "2026-10-13",
+  "timezone": "America/Los_Angeles",
+  "generated_at": "2026-10-13T07:06:10-07:00",
+  "theme": "Corona Local Business & Community Spotlight",
+  "topic_type": "documented nonprofit",
+  "seo_summary": "Meet Corona-Norco Settlement House, a longtime Corona nonprofit, and learn how to volunteer or support its October 17 Empty Bowl fundraiser.",
+  "readiness": "BLOCKED — MISSING CLEARED IMAGES",
+  "publication_ready": false,
+  "human_review_required": true,
+  "delivery": {
+    "destination": "GitHub draft handoff for Hermes/OpenClaw/Letterman",
+    "direct_letterman_delivery": false,
+    "auto_publish": false
+  },
+  "sources": [
+    {
+      "url": "https://settlementhouse.net/",
+      "retrieved_at": "2026-10-13",
+      "supports": "Current October 17, 2026 event date, time, venue, pricing, inclusions and purchase methods; direct HTTP 200; older event page differs."
+    },
+    {
+      "url": "https://settlementhouse.net/about/",
+      "retrieved_at": "2026-10-13",
+      "supports": "1912 origin, Woman’s Improvement Club, citrus workers, 1918 name and service boundaries."
+    },
+    {
+      "url": "https://settlementhouse.net/our-mission/",
+      "retrieved_at": "2026-10-13",
+      "supports": "Pantry and store hours, eligibility, visit frequency and store proceeds."
+    },
+    {
+      "url": "https://settlementhouse.net/volunteer/",
+      "retrieved_at": "2026-10-13",
+      "supports": "Roles, age rule and contact method."
+    },
+    {
+      "url": "https://www.coronaca.gov/community/getting-involved/non-profits",
+      "retrieved_at": "2026-10-13",
+      "supports": "City listing, address, phone and pantry hours."
+    },
+    {
+      "url": "https://settlementhouse.net/empty-bowls-event/",
+      "retrieved_at": "2026-10-13",
+      "supports": "Review discrepancy only: page shows October 11, 2025; not used for 2026 event details."
+    }
+  ],
+  "featured_image": {
+    "status": "missing_cleared_image",
+    "url": null,
+    "source_page": null,
+    "creator": null,
+    "license_or_permission": null,
+    "credit": null,
+    "alt": "Corona-Norco Settlement House in Corona, California",
+    "caption": "Pending actual photo and permission; confirm location."
+  },
+  "inline_images": [
+    {
+      "slot": 1,
+      "status": "placeholder",
+      "url": "[IMAGE_URL_1]",
+      "alt": "Exterior of Corona-Norco Settlement House on South Vicentia Avenue in Corona, California",
+      "source_page": null,
+      "creator": null,
+      "license_or_permission": null,
+      "credit": null,
+      "direct_url_accessibility": "not_applicable_placeholder",
+      "rights_evidence": "No reusable license or permission obtained. Organizer website says All Rights Reserved.",
+      "restrictions": "Do not insert organizer photos without permission; confirm identity, location and consent for recognizable people; label archival/illustrative assets honestly."
+    },
+    {
+      "slot": 2,
+      "status": "placeholder",
+      "url": "[IMAGE_URL_2]",
+      "alt": "Corona-Norco Settlement House volunteers organizing donated goods for community support",
+      "source_page": null,
+      "creator": null,
+      "license_or_permission": null,
+      "credit": null,
+      "direct_url_accessibility": "not_applicable_placeholder",
+      "rights_evidence": "No reusable license or permission obtained. Organizer website says All Rights Reserved.",
+      "restrictions": "Do not insert organizer photos without permission; confirm identity, location and consent for recognizable people; label archival/illustrative assets honestly."
+    }
+  ],
+  "image_review": {
+    "candidate_source_page": "https://settlementhouse.net/",
+    "candidate_urls": [
+      "https://settlementhouse.net/wp-content/uploads/2018/09/14956604_1344381468919372_3070968794526458480_n-300x169.jpg",
+      "https://settlementhouse.net/wp-content/uploads/2026/08/IMG_0828-1024x552.jpeg"
+    ],
+    "retrieved_at": "2026-10-13",
+    "permission_found": false,
+    "decision": "Not inserted; attribution alone is not permission."
+  },
+  "counts": {
+    "inline_figure_slots": 2,
+    "actual_inline_photos": 0,
+    "photo_placeholders": 2,
+    "featured_photos": 0,
+    "structured_subsections": 3,
+    "visible_word_count": 649,
+    "opening_word_count": 54,
+    "meta_description_characters": 140,
+    "word_count_method": "Visible HTML text, including headings, bullets, placeholder captions and footer; excludes comments and tags."
+  },
+  "link_verification": [
+    {
+      "url": "https://coronashoutouts.com/a/corona-weather",
+      "html_href": "/a/corona-weather",
+      "checked_at": "2026-10-13",
+      "status": "unverified_access_blocked",
+      "evidence": "Web retrieval failed; direct request returned HTTP 403. User-provided destination retained; availability not established."
+    },
+    {
+      "url": "https://coronashoutouts.com/articles",
+      "checked_at": "2026-10-13",
+      "status": "unverified_access_blocked",
+      "evidence": "Web retrieval failed; direct request returned HTTP 403."
+    },
+    {
+      "url": null,
+      "html_href": "[SPORTS_BRIEFING_URL]",
+      "checked_at": "2026-10-13",
+      "status": "placeholder",
+      "evidence": "No published Corona Shoutouts sports briefing article/index verified. Public search found no usable destination; repository sports drafts are not public article links."
+    }
+  ],
+  "duplicate_check": {
+    "repository": "advancedmarketingtoday-spec/TITANIUM--SUITE-1",
+    "branch": "main",
+    "head_checked": "87b34db9ef21db88f61e16b9f9dad61c4b73e0c3",
+    "community_directory": "Absent at check",
+    "repository_search": "Settlement House search returned zero results; draft tree reviewed.",
+    "public_article_index": "Could not inspect due to HTTP 403; public duplication check incomplete."
+  },
+  "repository_instructions": {
+    "read": [
+      "README.md",
+      "corona-shoutouts/README.md",
+      "corona-shoutouts/corona-shoutouts-soul.md"
+    ],
+    "agents_files": "None found in recursive tree.",
+    "precedence": "Current draft-only, sourced reporting, answer-first and 2–3 subsection instructions take precedence over older style/schedule examples."
+  },
+  "remaining_gaps": [
+    "Two rights-cleared inline photos and a separate featured image are missing.",
+    "Weather Hub availability remains unverified due to HTTP 403.",
+    "Replace [SPORTS_BRIEFING_URL] with a verified published Corona Shoutouts sports destination.",
+    "Organizer homepage has current 2026 fundraiser details; separate event page still shows 2025. Confirm with organizer before release.",
+    "Ticket price for ages 10–17, attendance restrictions and live purchase availability not established; ask organizer.",
+    "Public article-index duplicate check could not be completed."
+  ],
+  "editorial_notes": {
+    "firsthand_claims": false,
+    "invented_quotes": false,
+    "business_rating_claim": false,
+    "content_state_control": "HTML comment and JSON status are draft; downstream API must explicitly guarantee draft state before any write.",
+    "skills_applied": [
+      "Create Letterman Articles",
+      "Research",
+      "Humanizer"
+    ]
+  }
+}
