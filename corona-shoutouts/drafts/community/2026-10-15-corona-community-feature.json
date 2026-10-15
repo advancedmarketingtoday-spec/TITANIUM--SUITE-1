@@ -1,0 +1,215 @@
+{
+  "status": "draft",
+  "publication": "Corona Shoutouts",
+  "title": "Dos Lagos & Corona Weekend Planner: October 16–18, 2026",
+  "date": "2026-10-15",
+  "timezone": "America/Los_Angeles",
+  "generated_at": "2026-10-15T07:02:00-07:00",
+  "theme": "Dos Lagos & Corona Weekend Planner",
+  "weekend": {
+    "start": "2026-10-16",
+    "end": "2026-10-18",
+    "timezone": "America/Los_Angeles"
+  },
+  "seo_summary": "Plan October 16–18 in Corona with Dos Lagos lakeside time, Clean the Circle volunteering, library browsing and Eagle Glen Park.",
+  "readiness": "BLOCKED — MISSING CLEARED IMAGES",
+  "publication_ready": false,
+  "human_review_required": true,
+  "delivery": {
+    "destination": "GitHub draft handoff for Hermes/OpenClaw/Letterman",
+    "direct_letterman_delivery": false,
+    "auto_publish": false
+  },
+  "sources": [
+    {
+      "url": "https://community.coronaca.gov/coronaca_main/260112147",
+      "retrieved_at": "2026-10-15",
+      "supports": "City calendar: October 17 cleanup, registration closes October 15 at 4 p.m., time, age rules, clothing and supplies."
+    },
+    {
+      "url": "https://secure.rec1.com/CA/corona-ca/catalog?filter=c2VhcmNoPTM5NzI5NTA%3D",
+      "retrieved_at": "2026-10-15",
+      "supports": "Linked registration portal opened but dynamic catalog did not expose live capacity or fee; no enrollment performed."
+    },
+    {
+      "url": "https://shopdoslagos.com/events/",
+      "retrieved_at": "2026-10-15",
+      "supports": "Upcoming calendar begins October 24; no October 16–18 Amphitheater event verified. Posted center hours and address."
+    },
+    {
+      "url": "https://shopdoslagos.com/about/",
+      "retrieved_at": "2026-10-15",
+      "supports": "Lakes, bridge, shopping/dining, address and management phone. All Rights Reserved notice."
+    },
+    {
+      "url": "https://www.coronaca.gov/departments/library",
+      "retrieved_at": "2026-10-15",
+      "supports": "Library address, regular Friday/Saturday hours, Sunday closure, phone and authoritative calendar link."
+    },
+    {
+      "url": "https://coronacalibrary.libcal.com/calendar",
+      "retrieved_at": "2026-10-15",
+      "supports": "Official library calendar displays Pacific timezone but no readable event results in retrieval."
+    },
+    {
+      "url": "https://www.coronaca.gov/departments/library/calendar",
+      "retrieved_at": "2026-10-15",
+      "supports": "Legacy city calendar route returned no items; not evidence there are no programs."
+    },
+    {
+      "url": "https://www.coronaca.gov/parks-facilities-directory/eagle-glen-park",
+      "retrieved_at": "2026-10-15",
+      "supports": "Park address, listed amenities, reservation link and phone; no operating hours or general admission fee stated."
+    }
+  ],
+  "coverage": [
+    {
+      "topic": "Clean the Circle",
+      "type": "scheduled_volunteer_event",
+      "date": "2026-10-17",
+      "time": "07:30 check-in; 08:00–10:00 America/Los_Angeles",
+      "location": "The Circle, Corona; exact staging and parking require participant instructions.",
+      "registration_deadline": "2026-10-15T16:00:00-07:00",
+      "admission": "No fee displayed; live capacity/checkout not verified.",
+      "age_rules": "All ages; under 14 accompanied; under 18 parent-signed waiver."
+    },
+    {
+      "topic": "Dos Lagos lakeside visit",
+      "type": "regular_amenity",
+      "scheduled_amphitheater_event": "No October 16–18 event verified; next listed event October 24.",
+      "admission": "No event ticket identified for suggested self-guided visit; purchases separate.",
+      "age_rules": "No special restrictions verified for the suggested visit."
+    },
+    {
+      "topic": "Corona Public Library browsing",
+      "type": "regular_amenity",
+      "scheduled_program": "Not verified; calendar requires dynamic rendering.",
+      "hours": "Friday 10 a.m.–8 p.m.; Saturday 10 a.m.–2 p.m.; Sunday closed."
+    },
+    {
+      "topic": "Eagle Glen Park",
+      "type": "regular_amenity",
+      "hours": "Not stated in directory; confirm access.",
+      "admission": "Not stated in directory; confirm reservation fees where applicable."
+    }
+  ],
+  "featured_image": {
+    "status": "missing_cleared_image",
+    "url": null,
+    "source_page": null,
+    "creator": null,
+    "license_or_permission": null,
+    "credit": null,
+    "alt": "Lakeside view at The Shops at Dos Lagos in Corona, California",
+    "caption": "Pending verified rights-cleared local photograph; label archival or illustrative imagery honestly."
+  },
+  "inline_images": [
+    {
+      "slot": 1,
+      "url": "[IMAGE_URL_1]",
+      "alt": "Grand Boulevard Circle in Corona, California, the area named for the Clean the Circle volunteer event",
+      "status": "placeholder",
+      "source_page": null,
+      "creator": null,
+      "license_or_permission": null,
+      "credit": null,
+      "direct_url_accessibility": "not_applicable_placeholder",
+      "rights_evidence": "No reusable license or permission established.",
+      "restrictions": "Replace only after verifying exact source, creator, license/permission, credit, direct URL and location; label archival images; obtain appropriate consent for recognizable people."
+    },
+    {
+      "slot": 2,
+      "url": "[IMAGE_URL_2]",
+      "alt": "Lakes and pedestrian bridge at The Shops at Dos Lagos in Corona, California",
+      "status": "placeholder",
+      "source_page": null,
+      "creator": null,
+      "license_or_permission": null,
+      "credit": null,
+      "direct_url_accessibility": "not_applicable_placeholder",
+      "rights_evidence": "No reusable license or permission established.",
+      "restrictions": "Replace only after verifying exact source, creator, license/permission, credit, direct URL and location; label archival images; obtain appropriate consent for recognizable people."
+    }
+  ],
+  "image_research": {
+    "checked_pages": [
+      "https://shopdoslagos.com/about/",
+      "https://www.coronaca.gov/parks-facilities-directory/eagle-glen-park"
+    ],
+    "reuse_permission": "Not established; Dos Lagos site says All Rights Reserved.",
+    "commons_search": "Dos Lagos/Corona California query produced an unrelated archival cat image, unsuitable for the article; not used.",
+    "decision": "Retain two explicit placeholders; no generated image or public photo passed off as documentary photography."
+  },
+  "link_verification": [
+    {
+      "url": "https://coronashoutouts.com/a/corona-weather",
+      "html_href": "/a/corona-weather",
+      "checked_at": "2026-10-15",
+      "status": "unverified_HTTP_403",
+      "evidence": "Web retrieval failed and direct HTTP check returned 403. User-provided URL retained; not declared broken."
+    },
+    {
+      "url": "https://coronashoutouts.com/articles",
+      "checked_at": "2026-10-15",
+      "status": "unverified_HTTP_403",
+      "evidence": "Web retrieval failed and direct HTTP check returned 403; public duplicate check incomplete."
+    },
+    {
+      "url": null,
+      "html_href": "[SPORTS_BRIEFING_URL]",
+      "checked_at": "2026-10-15",
+      "status": "placeholder",
+      "evidence": "Public searches and article index did not yield a verified published daily MaxPreps briefing destination. Repository drafts are not public article URLs."
+    }
+  ],
+  "counts": {
+    "inline_figure_slots": 2,
+    "actual_inline_photos": 0,
+    "photo_placeholders": 2,
+    "featured_photos": 0,
+    "structured_subsections": 3,
+    "activities_or_updates": 4,
+    "scheduled_events": 1,
+    "regular_amenities": 3,
+    "visible_word_count": 709,
+    "opening_word_count": 51,
+    "meta_description_characters": 127,
+    "word_count_method": "Visible HTML text including headings, bullets, placeholder captions and footer, excluding comments and tags."
+  },
+  "duplicate_check": {
+    "head_checked": "0cb83d186e4335c61d3421807b81696a16155d50",
+    "community_drafts_read": [
+      "corona-shoutouts/drafts/community/2026-10-13-corona-community-feature.html"
+    ],
+    "result": "Avoided repeating Tuesday’s Settlement House spotlight; this is the first weekend planner in the community directory. Earlier standalone Clean the Circle draft exists; only current event logistics summarized here.",
+    "target_paths": "Absent in checked recursive tree; no existing work overwritten.",
+    "public_check": "Incomplete due to 403."
+  },
+  "repository_instructions": {
+    "read": [
+      "README.md",
+      "corona-shoutouts/README.md",
+      "corona-shoutouts/corona-shoutouts-soul.md"
+    ],
+    "agents_files": "None in recursive tree",
+    "precedence": "Current user instructions override older scene-setting, length and schedule examples."
+  },
+  "remaining_gaps": [
+    "Two rights-cleared inline images and separate featured image missing.",
+    "Replace sports URL placeholder with verified published destination.",
+    "Weather Hub and public article index availability unverified due to HTTP 403.",
+    "Confirm cleanup registration capacity, any fee and exact staging/parking. Listed deadline is October 15, 4 p.m. Pacific.",
+    "No October 16–18 Dos Lagos Amphitheater event or library program verified; do not infer none exists.",
+    "Confirm Eagle Glen Park access hours and reservation requirements before release."
+  ],
+  "editorial_notes": {
+    "skills_applied": [
+      "Create Letterman Articles",
+      "Research",
+      "Humanizer"
+    ],
+    "firsthand_claims": false,
+    "fabricated_events": false,
+    "api_state_control": "HTML comment and companion JSON explicitly draft; any future API write must guarantee draft state. No live publishing, newsletter send, deployment, or direct Letterman write."
+  }
+}
