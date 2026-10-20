@@ -1,0 +1,186 @@
+{
+  "status": "draft",
+  "publication": "Corona Shoutouts",
+  "title": "Corona in miniature: meet the neighbors preserving its railroad story",
+  "date": "2026-10-20",
+  "timezone": "America/Los_Angeles",
+  "generated_at": "2026-10-20T14:06:50Z",
+  "theme": "Corona Local Business & Community Spotlight",
+  "topic_type": "documented community heritage group",
+  "seo_summary": "Explore Corona Model Railroad Society at Heritage Park: local citrus history in miniature, free Saturday visits and ways to join the club.",
+  "readiness": "BLOCKED — MISSING CLEARED IMAGES",
+  "publication_ready": false,
+  "human_review_required": true,
+  "delivery": {
+    "destination": "GitHub draft handoff for Hermes/OpenClaw/Letterman",
+    "direct_letterman_delivery": false,
+    "auto_publish": false
+  },
+  "sources": [
+    {
+      "url": "https://www.cmrsclub.com/c",
+      "retrieved_at": "2026-10-20",
+      "supports": "Subject, modeled circa-1949 cities, regular public hours, visitor gallery, variation in Saturday operations and advance-contact advice."
+    },
+    {
+      "url": "https://www.cmrsclub.com/contact",
+      "retrieved_at": "2026-10-20",
+      "supports": "Address, public visiting hours and official society email. Direct HTTP 200 on retrieval."
+    },
+    {
+      "url": "https://www.coronaheritage.org/modelrailroadsociety",
+      "retrieved_at": "2026-10-20",
+      "supports": "October 2001 formation, specific modeled Corona landmarks, Pullman-style viewing window, building location, Saturday hours and copyright notice."
+    },
+    {
+      "url": "https://www.coronaca.gov/community/getting-involved/non-profits",
+      "retrieved_at": "2026-10-20",
+      "supports": "Official directory listing, exhibit description, free admission and parking."
+    },
+    {
+      "url": "https://www.cmrsclub.com/membership-1",
+      "retrieved_at": "2026-10-20",
+      "supports": "All experience levels welcome; listed roles, application, and no-cost background check during first three months."
+    },
+    {
+      "url": "https://www.cmrsclub.com/about-1",
+      "retrieved_at": "2026-10-20",
+      "supports": "Jameson Packing House and models gallery."
+    },
+    {
+      "url": "https://www.cmrsclub.com/vision",
+      "retrieved_at": "2026-10-20",
+      "supports": "Heritage mission and regular hours; no special dated event inferred."
+    }
+  ],
+  "visit_verification": {
+    "type": "regular_open_hours_not_special_event",
+    "address": "510 West Foothill Parkway, Corona, CA 92882",
+    "hours": "Saturdays 10:00–14:00 America/Los_Angeles; confirm member availability ahead",
+    "admission": "Free public admission and parking per city listing",
+    "registration": "No booking requirement established for ordinary visits; confirm group/access arrangements",
+    "age_restrictions": "No specific visitor restriction established; membership age requirements not verified",
+    "availability": "Posted hours verified; no confirmation for an individual future date"
+  },
+  "featured_image": {
+    "status": "missing_cleared_image",
+    "url": null,
+    "source_page": null,
+    "creator": null,
+    "license_or_permission": null,
+    "credit": null,
+    "alt": "Corona Model Railroad Society’s miniature railroad at Corona Heritage Park",
+    "caption": "Pending rights-cleared photograph of actual exhibit; confirm subject and label archival imagery."
+  },
+  "inline_images": [
+    {
+      "slot": 1,
+      "url": "[IMAGE_URL_1]",
+      "alt": "Corona Model Railroad Society exhibit showing miniature tracks and citrus packing houses at Corona Heritage Park",
+      "status": "placeholder",
+      "source_page": null,
+      "creator": null,
+      "license_or_permission": null,
+      "credit": null,
+      "direct_url_accessibility": "not_applicable_placeholder",
+      "rights_evidence": "No permission or reusable license established. Public visibility is not reuse permission.",
+      "restrictions": "Verify creator, exact license/permission, credit, location, caption and image URL; label archival/illustrative material; no generic model railroad passed off as CMRS."
+    },
+    {
+      "slot": 2,
+      "url": "[IMAGE_URL_2]",
+      "alt": "Yellow clubhouse used by Corona Model Railroad Society at Corona Heritage Park in Corona, California",
+      "status": "placeholder",
+      "source_page": null,
+      "creator": null,
+      "license_or_permission": null,
+      "credit": null,
+      "direct_url_accessibility": "not_applicable_placeholder",
+      "rights_evidence": "No permission or reusable license established. Public visibility is not reuse permission.",
+      "restrictions": "Verify creator, exact license/permission, credit, location, caption and image URL; label archival/illustrative material; no generic model railroad passed off as CMRS."
+    }
+  ],
+  "image_review": {
+    "pages_checked": [
+      "https://www.cmrsclub.com/c",
+      "https://www.cmrsclub.com/contact",
+      "https://www.cmrsclub.com/about-1",
+      "https://www.coronaheritage.org/modelrailroadsociety"
+    ],
+    "evidence": "Society pages carry copyright; Heritage Foundation page says All Rights Reserved. No photo reuse grant found.",
+    "additional_search": "No suitable exact-subject rights-cleared photo found in public searches.",
+    "decision": "No photos inserted; retain exactly two labeled placeholders and separate featured-image gap."
+  },
+  "counts": {
+    "inline_figure_slots": 2,
+    "actual_inline_photos": 0,
+    "photo_placeholders": 2,
+    "featured_photos": 0,
+    "structured_subsections": 3,
+    "visible_word_count": 713,
+    "opening_word_count": 57,
+    "meta_description_characters": 138,
+    "word_count_method": "Visible HTML including headings, lists, placeholder captions and footer; excludes comments and tags."
+  },
+  "link_verification": [
+    {
+      "url": "https://coronashoutouts.com/a/corona-weather",
+      "html_href": "/a/corona-weather",
+      "checked_at": "2026-10-20",
+      "status": "unverified_HTTP_403",
+      "evidence": "Web access failed; direct HTTP request returned 403. User-provided destination retained, not declared broken."
+    },
+    {
+      "url": "https://coronashoutouts.com/articles",
+      "checked_at": "2026-10-20",
+      "status": "unverified_HTTP_403",
+      "evidence": "Direct HTTP request returned 403; public duplication/category check unavailable."
+    },
+    {
+      "url": null,
+      "html_href": "[SPORTS_BRIEFING_URL]",
+      "checked_at": "2026-10-20",
+      "status": "placeholder",
+      "evidence": "No published sports briefing article or index verified through public searches; repository draft not used as public destination."
+    }
+  ],
+  "duplicate_check": {
+    "repository": "advancedmarketingtoday-spec/TITANIUM--SUITE-1",
+    "branch": "main",
+    "head_checked": "4a4affdb72e1708c8a0d592a91be98add6e385ff",
+    "community_drafts_read": [
+      "corona-shoutouts/drafts/community/2026-10-13-corona-community-feature.html",
+      "corona-shoutouts/drafts/community/2026-10-15-corona-community-feature.html"
+    ],
+    "result": "New single-subject spotlight; avoids Settlement House and recent weekend planner.",
+    "public_check": "Incomplete due to 403",
+    "target_paths": "Absent in checked tree; do not overwrite if conflict appears."
+  },
+  "repository_instructions": {
+    "read": [
+      "README.md",
+      "corona-shoutouts/README.md",
+      "corona-shoutouts/corona-shoutouts-soul.md"
+    ],
+    "agents_files": "None found in recursive tree",
+    "precedence": "Current user draft-only and factual-integrity requirements override older fictional scene examples, length and schedule suggestions."
+  },
+  "remaining_gaps": [
+    "Two cleared inline photographs and separate featured/side image missing.",
+    "Replace sports briefing placeholder with verified published Corona Shoutouts destination.",
+    "Weather Hub and public article index access not verified due to 403.",
+    "Confirm visit date, group booking/access needs, and current membership dues/age rules directly with society."
+  ],
+  "editorial_notes": {
+    "skills_applied": [
+      "Create Letterman Articles",
+      "Research",
+      "Humanizer"
+    ],
+    "firsthand_claims": false,
+    "fabricated_quotes": false,
+    "rating_claim": false,
+    "analysis": "Suggested questions and visit approaches are editorial suggestions, not promised programs.",
+    "api_state_control": "HTML status comment plus companion JSON draft; downstream API must explicitly guarantee draft state before any write. No publication, newsletter send, deployment or direct Letterman delivery."
+  }
+}
