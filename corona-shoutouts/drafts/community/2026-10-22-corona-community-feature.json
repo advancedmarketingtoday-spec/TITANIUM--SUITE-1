@@ -1,0 +1,197 @@
+{
+  "status": "draft",
+  "publication": "Corona Shoutouts",
+  "title": "Corona Weekend Planner: Trails, Making and Music for October 23–25",
+  "date": "2026-10-22",
+  "timezone": "America/Los_Angeles",
+  "generated_at": "2026-10-22T07:01:49-07:00",
+  "theme": "Dos Lagos & Corona Weekend Planner",
+  "coverage_window": {
+    "start": "2026-10-23",
+    "end": "2026-10-25",
+    "timezone": "America/Los_Angeles"
+  },
+  "seo_summary": "Plan October 23–25 in Corona with a ranger hike, library makerspace, Dos Lagos concert and free household waste drop-off.",
+  "readiness": "BLOCKED — UNVERIFIED SPORTS DESTINATION",
+  "publication_ready": false,
+  "sources": [
+    {
+      "name": "Nocturnal Animals",
+      "publisher": "City of Corona Community Calendar",
+      "url": "https://community.coronaca.gov/coronaca_main/260155204",
+      "retrieved_at": "2026-10-22",
+      "supports": ["event date", "check-in and start times", "trail description", "minimum age", "waiver", "gear", "registration confirmation timing"]
+    },
+    {
+      "name": "Corona Recreation catalog: Nocturnal Animals",
+      "publisher": "City of Corona",
+      "url": "https://secure.rec1.com/CA/corona-ca/catalog?filter=c2VhcmNoPTQxMjc2NTg%3D",
+      "retrieved_at": "2026-10-22",
+      "supports": ["official registration destination"],
+      "limitation": "The public page did not expose current capacity or registration status."
+    },
+    {
+      "name": "Residential Waste & Recycling Resource Guide",
+      "publisher": "City of Corona Utilities Department",
+      "url": "https://www.coronaca.gov/departments/utilities/trash-recycling-program/residential-waste-recycling-guidelines",
+      "retrieved_at": "2026-10-22",
+      "supports": ["October 24–25, 2026 dates", "9 a.m.–2 p.m. hours", "City Hall address", "free admission", "Riverside County eligibility", "accepted-item examples"]
+    },
+    {
+      "name": "Open Create",
+      "publisher": "Corona Public Library LibCal",
+      "url": "https://coronacalibrary.libcal.com/event/17745707",
+      "retrieved_at": "2026-10-22",
+      "supports": ["October 24, 2026 date", "10 a.m.–1:30 p.m. time", "Innovation Center location", "ages 13+", "equipment examples"]
+    },
+    {
+      "name": "Corona Public Library",
+      "publisher": "City of Corona",
+      "url": "https://www.coronaca.gov/departments/library",
+      "retrieved_at": "2026-10-22",
+      "supports": ["650 S. Main Street address", "Saturday hours", "Sunday closure"]
+    },
+    {
+      "name": "Max Weinberg",
+      "publisher": "The Shops at Dos Lagos",
+      "url": "https://shopdoslagos.com/event/max-weinberg/",
+      "retrieved_at": "2026-10-22",
+      "supports": ["October 24, 2026 date", "doors and showtime", "Dos Lagos Amphitheater address", "online ticketing", "venue policy", "audience-selected set-list format"]
+    },
+    {
+      "name": "Max Weinberg's Jukebox tickets",
+      "publisher": "Dos Lagos Tickets",
+      "url": "https://dltickets.com/events/max-weinbergs-jukebox/",
+      "retrieved_at": "2026-10-22",
+      "supports": ["reserved seating", "online purchase requirement", "doors and showtime", "venue address", "venue policy"],
+      "limitation": "The accessible event page did not expose a base price, age restriction or seat availability count."
+    },
+    {
+      "name": "Hills near Corona California seen from Air",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Hills_near_Corona_California_seen_from_Air.jpg",
+      "retrieved_at": "2026-10-22",
+      "supports": ["inline image provenance and CC0 license"]
+    },
+    {
+      "name": "Corona California and Interstate 15 seen from the air",
+      "publisher": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Corona_California_and_Interstate_15_seen_from_the_air.jpg",
+      "retrieved_at": "2026-10-22",
+      "supports": ["inline and featured image provenance and CC0 license"]
+    }
+  ],
+  "featured_image": {
+    "status": "ready",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Corona_California_and_Interstate_15_seen_from_the_air.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Corona_California_and_Interstate_15_seen_from_the_air.jpg",
+    "creator": "Northwalker",
+    "license": "CC0 1.0 Universal Public Domain Dedication",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "credit": "Northwalker, via Wikimedia Commons",
+    "restrictions": "None under CC0; do not imply the photo shows a scheduled event.",
+    "alt": "Aerial view of Corona, California with mountains and Interstate 15 in the distance",
+    "caption": "Illustrative aerial view of Corona with local mountains and Interstate 15 in the distance.",
+    "rights_cleared": true,
+    "direct_url_verified": true,
+    "retrieved_at": "2026-10-22"
+  },
+  "side_image": {
+    "status": "ready",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Hills_near_Corona_California_seen_from_Air.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Hills_near_Corona_California_seen_from_Air.jpg",
+    "creator": "Northwalker",
+    "license": "CC0 1.0 Universal Public Domain Dedication",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "credit": "Northwalker, via Wikimedia Commons",
+    "restrictions": "None under CC0; caption must identify the photo as illustrative rather than the scheduled hike.",
+    "rights_cleared": true,
+    "direct_url_verified": true,
+    "retrieved_at": "2026-10-22"
+  },
+  "inline_images": [
+    {
+      "position": 1,
+      "status": "inserted",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Hills_near_Corona_California_seen_from_Air.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Hills_near_Corona_California_seen_from_Air.jpg",
+      "creator": "Northwalker",
+      "license": "CC0 1.0 Universal Public Domain Dedication",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "credit": "Northwalker, via Wikimedia Commons",
+      "rights_evidence": "The Wikimedia Commons file page identifies the uploader's own work and a CC0 1.0 dedication.",
+      "alt": "Aerial view of dry hills and ridgelines near Corona, California",
+      "caption": "Illustrative aerial view of hills near Corona; this is not a photograph of the October 24 hike.",
+      "rights_cleared": true,
+      "direct_url_verified": true
+    },
+    {
+      "position": 2,
+      "status": "inserted",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Corona_California_and_Interstate_15_seen_from_the_air.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Corona_California_and_Interstate_15_seen_from_the_air.jpg",
+      "creator": "Northwalker",
+      "license": "CC0 1.0 Universal Public Domain Dedication",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "credit": "Northwalker, via Wikimedia Commons",
+      "rights_evidence": "The Wikimedia Commons file page identifies the uploader's own work and a CC0 1.0 dedication.",
+      "alt": "Aerial view of Corona, California with mountains and Interstate 15 in the distance",
+      "caption": "Illustrative aerial view of Corona with local mountains and Interstate 15 in the distance.",
+      "rights_cleared": true,
+      "direct_url_verified": true
+    }
+  ],
+  "counts": {
+    "visible_word_count": 697,
+    "headline_count": 1,
+    "subheadline_count": 1,
+    "structured_section_count": 3,
+    "verified_activity_or_update_count": 4,
+    "inline_figure_count": 2,
+    "actual_inline_photo_count": 2,
+    "photo_placeholder_count": 0
+  },
+  "link_verification": {
+    "weather_hub": {
+      "url": "/a/corona-weather",
+      "status": "provided_destination_used_but_external_verification_unavailable",
+      "checked_at": "2026-10-22",
+      "note": "Direct access and indexed search did not return the page; retain Mark's supplied internal destination for review."
+    },
+    "sports_briefing": {
+      "url": "[SPORTS_BRIEFING_URL]",
+      "status": "placeholder_unverified",
+      "checked_at": "2026-10-22",
+      "note": "No published Corona Shoutouts MaxPreps briefing URL or index was verifiable. Repository sports drafts were not used as public destinations."
+    },
+    "public_article_index": {
+      "url": "https://coronashoutouts.com/articles",
+      "status": "external_verification_unavailable",
+      "checked_at": "2026-10-22",
+      "note": "The public index was inaccessible to the research tool; existing GitHub community drafts were checked and no duplicate topic was found."
+    },
+    "event_links": {
+      "status": "verified",
+      "checked_at": "2026-10-22",
+      "count": 5
+    },
+    "image_direct_urls": {
+      "status": "verified",
+      "checked_at": "2026-10-22",
+      "count": 2
+    }
+  },
+  "remaining_gaps": [
+    "Replace [SPORTS_BRIEFING_URL] with a verified published Corona Shoutouts sports destination before publication.",
+    "Confirm the Corona Weather Hub destination in the live publication editor because external verification was unavailable.",
+    "Confirm remaining registration capacity for the Nocturnal Animals hike; the public catalog did not expose availability.",
+    "Confirm concert seat availability, price and any age policy in the live ticket selector before publication.",
+    "No direct Letterman delivery is configured; this GitHub handoff remains a human-review draft."
+  ],
+  "handoff": {
+    "destination": "GitHub repository handoff for Hermes/OpenClaw/Letterman consumption",
+    "letterman_delivery": "not_configured",
+    "publishing_action": "none",
+    "human_review_required": true
+  }
+}
