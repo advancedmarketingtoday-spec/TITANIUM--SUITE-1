@@ -1,0 +1,75 @@
+{
+ "category": "Gas Stations",
+ "city": "Corona, CA",
+ "status": "draft",
+ "researched": "2026-10-01",
+ "category_id": null,
+ "category_id_note": "Not confirmed. sitemap.xml lists one newsletter URL, /directory is 404, /categories showed no list. Needs Letterman/site access.",
+ "records": [
+  {
+   "name": "Costco Gasoline",
+   "address": "480 N McKinley St, Corona, CA 92879",
+   "phone": "(951) 279-1190",
+   "phone_scope": "warehouse; gas-specific phone unverified",
+   "gas_hours": "Mon-Fri 5:30am-10:00pm; Sat 6:00am-8:30pm; Sun 6:00am-7:30pm",
+   "fuel_types": [
+    "regular",
+    "premium"
+   ],
+   "car_wash": "unverified",
+   "air": "unverified",
+   "restroom": "unverified",
+   "membership_payment": "unverified",
+   "source": "https://www.costco.com/warehouse-locations/warehouse-432.html?catalogId=10701&storeId=10301&warehouseNumber=432",
+   "checked": "2026-10-01",
+   "status": "verified"
+  },
+  {
+   "name": "Shell",
+   "address": "230 S Lincoln Ave, Corona",
+   "status": "unresolved",
+   "phone": "unverified",
+   "source": "https://find.shell.com/us/fuel/10006005-230-s-lincoln-ave/en_US"
+  },
+  {
+   "name": "Shell",
+   "address": "111 N Lincoln Ave, Corona",
+   "status": "unresolved",
+   "phone": "unverified",
+   "source": "https://find.shell.com/us/fuel/13218707-111-n-lincoln-ave/en_US"
+  },
+  {
+   "name": "Shell",
+   "address": "1825 W 6th St, Corona",
+   "status": "unresolved",
+   "phone": "unverified",
+   "source": "https://find.shell.com/us/fuel/10007847-1825-w-6th-st/en_US"
+  },
+  {
+   "name": "Shell",
+   "address": "4721 Green River Rd, Corona",
+   "status": "unresolved",
+   "phone": "unverified",
+   "source": "https://find.shell.com/us/fuel/10007848-4721-green-river-rd/en_US"
+  },
+  {
+   "name": "Shell",
+   "address": "3905 Bedford Canyon Rd, Corona",
+   "status": "unresolved",
+   "phone": "unverified",
+   "source": "https://find.shell.com/us/fuel/12867495-3905-bedford-canyon-rd/en_US"
+  }
+ ],
+ "second_pass_2026_10_01": {
+  "shell_secondary_phones_unverified": {
+   "230 S Lincoln Ave": "(951) 735-3638",
+   "111 N Lincoln Ave": "(951) 734-8853"
+  },
+  "conflicts": [
+   "111 N Lincoln Ave listed under 7-Eleven by one source",
+   "431 N McKinley St appears as Circle K on exxonmobilfuels.com",
+   "19570 Temescal Canyon Rd listed as both 76 and Valero"
+  ],
+  "detail": "See gas-stations.md second pass section for source URLs"
+ }
+}
