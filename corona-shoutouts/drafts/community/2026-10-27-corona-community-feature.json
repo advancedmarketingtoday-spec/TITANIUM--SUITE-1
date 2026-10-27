@@ -1,0 +1,187 @@
+{
+  "status": "draft",
+  "publication": "Corona Shoutouts",
+  "title": "Peppermint Ridge: A Corona Community Built Around Lifelong Support",
+  "date": "2026-10-27",
+  "timezone": "America/Los_Angeles",
+  "generated_at": "2026-10-27T07:00:33-07:00",
+  "theme": "Corona Local Business & Community Spotlight",
+  "subject": {
+    "name": "Peppermint Ridge",
+    "type": "nonprofit",
+    "address": "825 Magnolia Ave., Corona, CA 92879",
+    "phone": "(951) 273-7320",
+    "website": "https://www.peppermintridge.org/",
+    "rating_claim_used": false,
+    "rating_note": "This feature profiles a documented nonprofit. No star-rating or review-count claim is made."
+  },
+  "seo_summary": "Meet Peppermint Ridge in Corona, where lifelong homes, personalized support and local volunteers build community connections.",
+  "readiness": "READY FOR HUMAN REVIEW",
+  "publication_ready": false,
+  "publication_blockers": [
+    "Human editorial approval is required before publication.",
+    "The Build-A-Bench totals are live figures and should be rechecked on the official campaign page immediately before publication."
+  ],
+  "sources": [
+    {
+      "name": "Peppermint Ridge home page and Build-A-Bench campaign",
+      "url": "https://www.peppermintridge.org/",
+      "retrieved_at": "2026-10-27",
+      "supports": [
+        "Mission",
+        "501(c)(3) status and EIN 95-2409851",
+        "Contact information",
+        "$16,848.66 raised toward $30,000",
+        "40 benches pledged toward 50",
+        "$250 community bench and $500 personalized legacy bench options",
+        "Build Day group contact"
+      ]
+    },
+    {
+      "name": "Peppermint Ridge mission page",
+      "url": "https://www.peppermintridge.org/our-mission",
+      "retrieved_at": "2026-10-27",
+      "supports": [
+        "Seven campus homes and five homes in the Corona community",
+        "Individualized support plans",
+        "Alternative Day Program",
+        "Continuum of care"
+      ]
+    },
+    {
+      "name": "Peppermint Ridge Get Involved page",
+      "url": "https://www.peppermintridge.org/get-involved",
+      "retrieved_at": "2026-10-27",
+      "supports": [
+        "CivicChamps volunteer portal",
+        "Flexible volunteer participation language",
+        "Volunteer contact"
+      ]
+    },
+    {
+      "name": "Partner with Peppermint Ridge",
+      "url": "https://www.peppermintridge.org/partner",
+      "retrieved_at": "2026-10-27",
+      "supports": [
+        "Business, workplace, in-kind and community-group partnership options",
+        "Partnership contact"
+      ]
+    },
+    {
+      "name": "City of Corona nonprofit directory",
+      "url": "https://www.coronaca.gov/community/getting-involved/non-profits",
+      "retrieved_at": "2026-10-27",
+      "supports": [
+        "Peppermint Ridge local listing",
+        "Mission, address, phone and email corroboration"
+      ]
+    },
+    {
+      "name": "Corona Shoutouts Weather Hub",
+      "url": "https://coronashoutouts.com/a/corona-weather",
+      "retrieved_at": "2026-10-27",
+      "supports": [
+        "Published internal Weather Hub destination"
+      ]
+    },
+    {
+      "name": "Corona Shoutouts Tuesday sports briefing",
+      "url": "https://coronashoutouts.com/a/tuesday-sports-centennial-volleyball-playoff-and-three-water-polo-matchups",
+      "retrieved_at": "2026-10-27",
+      "supports": [
+        "Published Corona-area MaxPreps-based sports briefing destination"
+      ]
+    }
+  ],
+  "featured_image": {
+    "status": "rights-cleared",
+    "role": "featured",
+    "direct_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Corona%2C_CA_train_station.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Corona,_CA_train_station.jpg",
+    "creator": "Ron Reiring",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "credit_required": "Photo: Ron Reiring, CC BY 2.0, via Wikimedia Commons.",
+    "restrictions": "Attribution required. Do not imply the image depicts Peppermint Ridge, its property or its residents.",
+    "alt": "Archival 2007 photograph of a former Santa Fe station in Corona California",
+    "caption": "Archival view of a former Santa Fe station in Corona, photographed in 2007. Illustrative city context, not Peppermint Ridge property or residents.",
+    "direct_url_verified_at": "2026-10-27"
+  },
+  "side_image": {
+    "status": "rights-cleared",
+    "role": "side",
+    "direct_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Grand_Boulevard_Historic_District_2013-09-21_12-05-14.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Grand_Boulevard_Historic_District_2013-09-21_12-05-14.jpg",
+    "creator": "deftamagoche",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "credit_required": "Photo: deftamagoche, CC BY-SA 3.0, via Wikimedia Commons.",
+    "restrictions": "Attribution and ShareAlike terms apply. Do not imply the image depicts Peppermint Ridge, its property or its residents.",
+    "alt": "Palm-lined street in Corona California's Grand Boulevard Historic District",
+    "caption": "Illustrative view of Corona's Grand Boulevard Historic District, not Peppermint Ridge property or residents.",
+    "direct_url_verified_at": "2026-10-27"
+  },
+  "inline_images": [
+    {
+      "slot": 1,
+      "status": "rights-cleared",
+      "uses_featured_image": true,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Corona,_CA_train_station.jpg",
+      "creator": "Ron Reiring",
+      "license": "CC BY 2.0",
+      "rights_evidence": "Wikimedia Commons file page identifies the Flickr-sourced photograph, creator and CC BY 2.0 license; the page states the license was verified by the Flickr upload bot."
+    },
+    {
+      "slot": 2,
+      "status": "rights-cleared",
+      "uses_side_image": true,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Grand_Boulevard_Historic_District_2013-09-21_12-05-14.jpg",
+      "creator": "deftamagoche",
+      "license": "CC BY-SA 3.0",
+      "rights_evidence": "Wikimedia Commons file page identifies the image as the creator's own work and displays a CC BY-SA 3.0 license."
+    }
+  ],
+  "counts": {
+    "article_words": 549,
+    "h1": 1,
+    "h2": 4,
+    "sections": 3,
+    "inline_photo_slots": 2,
+    "actual_inline_photos": 2,
+    "image_placeholders": 0,
+    "featured_images_ready": 1
+  },
+  "link_verification": [
+    {
+      "label": "Corona Weather Hub",
+      "article_href": "/a/corona-weather",
+      "resolved_url": "https://coronashoutouts.com/a/corona-weather",
+      "status": "verified published",
+      "verified_at": "2026-10-27"
+    },
+    {
+      "label": "daily MaxPreps sports briefing",
+      "article_href": "/a/tuesday-sports-centennial-volleyball-playoff-and-three-water-polo-matchups",
+      "resolved_url": "https://coronashoutouts.com/a/tuesday-sports-centennial-volleyball-playoff-and-three-water-polo-matchups",
+      "status": "verified published",
+      "published_date": "2026-10-20",
+      "verified_at": "2026-10-27",
+      "note": "This is the latest published Tuesday sports briefing found during research and includes MaxPreps schedule links."
+    }
+  ],
+  "remaining_gaps": [
+    "Peppermint Ridge's public volunteer page does not state a universal age requirement or fixed volunteer schedule; volunteers should use the official portal or contact before planning.",
+    "No current public event date was visible in the organization's embedded calendar, so the article makes no dated-event claim.",
+    "Different secondary sources publish conflicting organizational history dates; the founding year was intentionally omitted.",
+    "Images are rights-cleared Corona city context, not photographs of Peppermint Ridge people or property.",
+    "No direct Letterman delivery is configured for this handoff."
+  ],
+  "handoff": {
+    "repository": "advancedmarketingtoday-spec/TITANIUM--SUITE-1",
+    "branch": "main",
+    "html_path": "corona-shoutouts/drafts/community/2026-10-27-corona-community-feature.html",
+    "metadata_path": "corona-shoutouts/drafts/community/2026-10-27-corona-community-feature.json",
+    "letterman_delivery": "not configured",
+    "publishing_action": "none"
+  }
+}
