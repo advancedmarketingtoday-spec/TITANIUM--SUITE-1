@@ -7,12 +7,21 @@ verified_on: 2026-10-29
 slug: corona-scholarships-free-fafsa-help
 seo_title: "Corona Scholarships & FAFSA Help for the Class of 2027"
 meta_description: "Find current FAFSA guidance, Norco College scholarship routes and practical financial-aid steps for Corona-Norco seniors and their families."
-featured_image_status: awaiting rights-cleared local photograph
-inline_image_status: awaiting rights-cleared local photograph
+featured_image_status: generated illustration
+featured_image: "https://raw.githubusercontent.com/advancedmarketingtoday-spec/TITANIUM--SUITE-1/main/corona-shoutouts/drafts/family-resources-2026-10-29/images/07-hero.jpg"
+featured_image_alt: "A student and caregiver talk with a college-planning adviser."
+inline_image_status: generated illustration
+inline_image: "https://raw.githubusercontent.com/advancedmarketingtoday-spec/TITANIUM--SUITE-1/main/corona-shoutouts/drafts/family-resources-2026-10-29/images/07-inline.jpg"
+image_credit: "AI-generated editorial illustrations created for Corona Shoutouts"
+image_disclosure: "Conceptual illustrations; not photographs of actual local people, places or programs."
 editorial_note: "No current CNUSD help-night date verified. Do not insert dates from archived school flyers."
 ---
 
 # College Money in Corona: Scholarships & Free FAFSA Help
+
+![A student and caregiver talk with a college-planning adviser.](images/07-hero.jpg)
+
+*AI-generated editorial illustration; depicts a conceptual scene, not a specific local person, place or program.*
 
 Corona-Norco seniors planning to attend college in fall 2027 should start with the **2027–28 FAFSA**, or ask about the California Dream Act Application if appropriate. California lists **March 2, 2027**, as the state-aid priority deadline. Your school counselor and Norco College’s financial-aid office are practical local starting points.
 
@@ -48,7 +57,9 @@ Ask the office: “Is there a free FAFSA or CADAA completion session for the cla
 
 Norco College’s FAFSA school code is **041761**. Add it if you want that college to receive your information, and verify the codes for every other college under consideration. An application can be submitted while a student is still deciding where to enroll.
 
-<!-- INLINE PHOTO: Rights-cleared Norco College or school counseling image; no student financial information visible. -->
+![College application supplies, calculator, notebook and graduation cap.](images/07-inline.jpg)
+
+*AI-generated supporting illustration; not a photograph of a specific local service or product.*
 
 ## Put local scholarship routes on the calendar
 

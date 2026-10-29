@@ -40,9 +40,11 @@ Counts include headings and the reader-facing body, excluding front matter, imag
 
 ## Image handoff
 
-Each article preserves a featured-image status field and an inline-image status field. Rights-cleared photographs are pending. Each body includes a specific inline-photo brief in an HTML comment. No unlicensed photograph, invented image URL, or AI-generated documentary image is supplied as evidence of a local place or event.
+Twenty original AI-generated editorial illustrations are now included: one featured image and one supporting image for each article. Each draft embeds both images, includes descriptive alt text, and labels them as conceptual illustrations. They do not document actual local people, venues, programs, products, or events.
 
-Use an appropriate, current local photo for the featured image and a separate relevant inline photo. Obtain permission for recognizable children or clients, record permission/credit, and write accurate captions and alt text. Car-seat installation imagery should be reviewed by a qualified technician.
+Images were created with the built-in image_gen tool on October 29, 2026. Web-ready JPEG files are in [images/](images/). The full prompt set is saved in [images/prompts.json](images/prompts.json), and [the visual gallery](images/README.md) shows all twenty. Full-resolution PNG masters are retained in the local output package.
+
+For the car-seat article, the images depict consultation and appointment preparation rather than installation mechanics. No official agency branding or endorsements are implied. All articles retain draft status.
 
 ## Letterman handoff
 

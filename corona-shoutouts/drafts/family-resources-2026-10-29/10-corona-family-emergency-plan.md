@@ -7,11 +7,20 @@ verified_on: 2026-10-29
 slug: corona-family-fire-emergency-preparedness
 seo_title: "Corona Emergency Alerts & Family Wildfire Planning"
 meta_description: "Sign up for Corona and Riverside County alerts, prepare a family go bag and build an evacuation plan that includes children, caregivers and pets."
-featured_image_status: awaiting rights-cleared local photograph
-inline_image_status: awaiting rights-cleared local photograph
+featured_image_status: generated illustration
+featured_image: "https://raw.githubusercontent.com/advancedmarketingtoday-spec/TITANIUM--SUITE-1/main/corona-shoutouts/drafts/family-resources-2026-10-29/images/10-hero.jpg"
+featured_image_alt: "A caregiver and child prepare emergency supplies with their dog nearby."
+inline_image_status: generated illustration
+inline_image: "https://raw.githubusercontent.com/advancedmarketingtoday-spec/TITANIUM--SUITE-1/main/corona-shoutouts/drafts/family-resources-2026-10-29/images/10-inline.jpg"
+image_credit: "AI-generated editorial illustrations created for Corona Shoutouts"
+image_disclosure: "Conceptual illustrations; not photographs of actual local people, places or programs."
 ---
 
 # Be Ready, Corona: A Family Guide to Fire Season & Emergencies
+
+![A caregiver and child prepare emergency supplies with their dog nearby.](images/10-hero.jpg)
+
+*AI-generated editorial illustration; depicts a conceptual scene, not a specific local person, place or program.*
 
 Corona families can prepare now by enrolling in **Corona Alerts**, checking **Alert RivCo and Genasys Protect**, and making an evacuation plan that includes children and pets. Keep essential supplies ready and decide who handles pickup and transportation. During an incident, follow current official instructions rather than waiting for a neighborhood message.
 
@@ -37,7 +46,9 @@ Pick a nearby meeting place and another option outside the immediate area. Share
 
 Identify more than one possible way out of your neighborhood, but use routes directed by officials during the incident. A route you know from everyday driving may be closed or unsafe during a fire. Do not rely on a navigation app as the only source of emergency road information.
 
-<!-- INLINE PHOTO: Rights-cleared photo of a locally assembled family go bag; avoid dramatic unrelated wildfire imagery. -->
+![A go bag, flashlight, water, document pouch, power bank and pet supplies.](images/10-inline.jpg)
+
+*AI-generated supporting illustration; not a photograph of a specific local service or product.*
 
 ## Pack essentials you can actually carry
 

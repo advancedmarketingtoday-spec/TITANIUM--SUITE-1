@@ -7,11 +7,20 @@ verified_on: 2026-10-29
 slug: corona-teen-first-jobs-volunteering
 seo_title: "Corona Teen Jobs & Volunteering: Where to Start"
 meta_description: "Explore Corona library volunteer roles by age, city job searches, animal-shelter limits and California work-permit steps for a first job."
-featured_image_status: awaiting rights-cleared local photograph
-inline_image_status: awaiting rights-cleared local photograph
+featured_image_status: generated illustration
+featured_image: "https://raw.githubusercontent.com/advancedmarketingtoday-spec/TITANIUM--SUITE-1/main/corona-shoutouts/drafts/family-resources-2026-10-29/images/06-hero.jpg"
+featured_image_alt: "Teen volunteers organize library books and help a patron."
+inline_image_status: generated illustration
+inline_image: "https://raw.githubusercontent.com/advancedmarketingtoday-spec/TITANIUM--SUITE-1/main/corona-shoutouts/drafts/family-resources-2026-10-29/images/06-inline.jpg"
+image_credit: "AI-generated editorial illustrations created for Corona Shoutouts"
+image_disclosure: "Conceptual illustrations; not photographs of actual local people, places or programs."
 ---
 
 # First Jobs & Volunteering for Corona Teens
+
+![Teen volunteers organize library books and help a patron.](images/06-hero.jpg)
+
+*AI-generated editorial illustration; depicts a conceptual scene, not a specific local person, place or program.*
 
 Corona teens can begin with library volunteer roles that publish clear age requirements, city employment listings, and local employers’ own career pages. Start early: volunteer screening takes time, paid work usually requires a school-issued permit for minors, and Corona’s animal-shelter volunteer program begins at 18.
 
@@ -39,7 +48,9 @@ Be honest about the commitment. A student who can help for two reliable hours ea
 
 If the preferred role is full, ask about another role or the next intake period. Waiting lists are a reason to plan earlier, not a reason to send repeated applications with different information. Keep the coordinator’s response and any next steps in one place.
 
-<!-- INLINE PHOTO: Rights-cleared Corona library volunteer setting; obtain consent and avoid showing patron records. -->
+![A teenager prepares a first-job application at a desk.](images/06-inline.jpg)
+
+*AI-generated supporting illustration; not a photograph of a specific local service or product.*
 
 ## Animal lovers should know the shelter’s age limit
 

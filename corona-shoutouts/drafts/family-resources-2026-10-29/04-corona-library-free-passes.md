@@ -7,12 +7,21 @@ verified_on: 2026-10-29
 slug: corona-library-free-park-passes
 seo_title: "Corona Library Park Passes: Free Outings & Museum Limits"
 meta_description: "Borrow state and county park passes from Corona Public Library, understand what they cover, and check museum-pass eligibility before planning a trip."
-featured_image_status: awaiting rights-cleared local photograph
-inline_image_status: awaiting rights-cleared local photograph
+featured_image_status: generated illustration
+featured_image: "https://raw.githubusercontent.com/advancedmarketingtoday-spec/TITANIUM--SUITE-1/main/corona-shoutouts/drafts/family-resources-2026-10-29/images/04-hero.jpg"
+featured_image_alt: "A family explores library books and a park-pass display beside an imagined landscape."
+inline_image_status: generated illustration
+inline_image: "https://raw.githubusercontent.com/advancedmarketingtoday-spec/TITANIUM--SUITE-1/main/corona-shoutouts/drafts/family-resources-2026-10-29/images/04-inline.jpg"
+image_credit: "AI-generated editorial illustrations created for Corona Shoutouts"
+image_disclosure: "Conceptual illustrations; not photographs of actual local people, places or programs."
 editorial_note: "Corona park-pass borrowing is verified. Discover & Go museum access through a Corona card is not verified; retain this distinction in headline, excerpt and social copy."
 ---
 
 # Free Passes From Your Library Card: State Parks, Museums & More
+
+![A family explores library books and a park-pass display beside an imagined landscape.](images/04-hero.jpg)
+
+*AI-generated editorial illustration; depicts a conceptual scene, not a specific local person, place or program.*
 
 Corona Public Library lends California State Parks and Riverside County park passes through its Library of Things. Cardholders can place park passes on hold and borrow them for three weeks. Museum offers are a separate matter: do not assume a Corona card includes Discover & Go or free museum admission.
 
@@ -38,7 +47,9 @@ The pass does not pay camping, boat-use, per-person admission, tours, special-ev
 
 Think of the pass as one useful piece of the budget. You still need to account for transportation, food and any optional activities. A packed lunch and a simple visit can make the savings go further than adding several paid extras because admission is covered.
 
-<!-- INLINE PHOTO: Rights-cleared photo of a real library park-pass checkout or participating park; do not expose a borrower's card number. -->
+![Binoculars, a bird guide, picnic supplies and a plain hangtag beside a trail.](images/04-inline.jpg)
+
+*AI-generated supporting illustration; not a photograph of a specific local service or product.*
 
 ## The Riverside County pass is a different benefit
 

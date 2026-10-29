@@ -7,12 +7,21 @@ verified_on: 2026-10-29
 slug: corona-car-seat-check-installation-help
 seo_title: "Corona Car Seat Checks: CHP Help & California Rules"
 meta_description: "Find car-seat inspection help near Corona, prepare for a technician appointment and understand California’s current age-based child-restraint rules."
-featured_image_status: awaiting rights-cleared local photograph
-inline_image_status: awaiting rights-cleared local photograph
+featured_image_status: generated illustration
+featured_image: "https://raw.githubusercontent.com/advancedmarketingtoday-spec/TITANIUM--SUITE-1/main/corona-shoutouts/drafts/family-resources-2026-10-29/images/08-hero.jpg"
+featured_image_alt: "A caregiver discusses a car-seat booklet with an educator beside a parked vehicle."
+inline_image_status: generated illustration
+inline_image: "https://raw.githubusercontent.com/advancedmarketingtoday-spec/TITANIUM--SUITE-1/main/corona-shoutouts/drafts/family-resources-2026-10-29/images/08-inline.jpg"
+image_credit: "AI-generated editorial illustrations created for Corona Shoutouts"
+image_disclosure: "Conceptual illustrations; not photographs of actual local people, places or programs."
 editorial_note: "California law checked for October 29, 2026. Reverify before 2027 publication. No Corona fire-station inspection service confirmed."
 ---
 
 # Car Seat Safety in Corona: Free Checks & Installation Help
+
+![A caregiver discusses a car-seat booklet with an educator beside a parked vehicle.](images/08-hero.jpg)
+
+*AI-generated editorial illustration; depicts a conceptual scene, not a specific local person, place or program.*
 
 Corona families can ask the California Highway Patrol for a child-safety-seat check and help learning correct installation. Start with CHP’s office locator or the Riverside office at **951-637-8000**. Confirm an appointment, location and any cost before going; do not assume a nearby fire station offers walk-in inspections.
 
@@ -50,7 +59,9 @@ The exception allowing a different seating arrangement is not a reason to skip a
 
 Also distinguish a legal minimum from the safest next step for an individual child. A birthday alone does not demonstrate that an adult belt fits well. Recheck California’s official rules if you read or publish this guide in a later year.
 
-<!-- INLINE PHOTO: Rights-cleared image of a certified technician demonstrating installation; technician should review depicted setup. -->
+![Instruction booklets, a vehicle key, notebook and measuring tape prepared for an appointment.](images/08-inline.jpg)
+
+*AI-generated supporting illustration; not a photograph of a specific local service or product.*
 
 ## Bring what makes the appointment useful
 

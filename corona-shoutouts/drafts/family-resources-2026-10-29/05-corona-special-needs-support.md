@@ -7,11 +7,20 @@ verified_on: 2026-10-29
 slug: corona-special-needs-family-resources
 seo_title: "Corona Special Needs Resources: Play, Programs & CNUSD"
 meta_description: "Find Corona inclusive playgrounds, adaptive recreation and CNUSD special-education contacts, with practical questions for parents and caregivers."
-featured_image_status: awaiting rights-cleared local photograph
-inline_image_status: awaiting rights-cleared local photograph
+featured_image_status: generated illustration
+featured_image: "https://raw.githubusercontent.com/advancedmarketingtoday-spec/TITANIUM--SUITE-1/main/corona-shoutouts/drafts/family-resources-2026-10-29/images/05-hero.jpg"
+featured_image_alt: "Children with varied abilities play together at an imagined accessible playground."
+inline_image_status: generated illustration
+inline_image: "https://raw.githubusercontent.com/advancedmarketingtoday-spec/TITANIUM--SUITE-1/main/corona-shoutouts/drafts/family-resources-2026-10-29/images/05-inline.jpg"
+image_credit: "AI-generated editorial illustrations created for Corona Shoutouts"
+image_disclosure: "Conceptual illustrations; not photographs of actual local people, places or programs."
 ---
 
 # Special Needs, Big Support: Resources for Corona Families
+
+![Children with varied abilities play together at an imagined accessible playground.](images/05-hero.jpg)
+
+*AI-generated editorial illustration; depicts a conceptual scene, not a specific local person, place or program.*
 
 Corona families can start with inclusive playgrounds at Lincoln and Santana parks, the city’s Adaptive Recreation Program, and Corona-Norco Unified School District’s special-education department. These serve different needs: a place to play, supported recreation, and individualized educational services. Knowing which door to use can make the next step easier.
 
@@ -29,7 +38,9 @@ It also does not mean a playground is quiet. The city describes inclusive play a
 
 If a particular feature is essential, contact the city rather than relying on an undated photograph. A broken piece of equipment or temporary closure can change the experience. Planning around the child’s actual needs is more useful than expecting a single label to answer every question.
 
-<!-- INLINE PHOTO: Rights-cleared current image of Lincoln or Santana inclusive playground; identify exact park and obtain consent for recognizable children. -->
+![A teenager uses adaptive painting tools with a caregiver nearby.](images/05-inline.jpg)
+
+*AI-generated supporting illustration; not a photograph of a specific local service or product.*
 
 ## Adaptive recreation offers another way to connect
 

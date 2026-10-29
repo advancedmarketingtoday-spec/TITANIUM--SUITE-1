@@ -7,11 +7,20 @@ verified_on: 2026-10-29
 slug: corona-kids-swim-lessons-water-safety
 seo_title: "Swim Lessons in Corona: YMCA Classes & Water Safety"
 meta_description: "Find Corona-Norco YMCA swim lessons, current pool locations, age-group options and questions to ask before enrolling your child."
-featured_image_status: awaiting rights-cleared local photograph
-inline_image_status: awaiting rights-cleared local photograph
+featured_image_status: generated illustration
+featured_image: "https://raw.githubusercontent.com/advancedmarketingtoday-spec/TITANIUM--SUITE-1/main/corona-shoutouts/drafts/family-resources-2026-10-29/images/02-hero.jpg"
+featured_image_alt: "A child takes a swim lesson with an instructor and caregiver close by."
+inline_image_status: generated illustration
+inline_image: "https://raw.githubusercontent.com/advancedmarketingtoday-spec/TITANIUM--SUITE-1/main/corona-shoutouts/drafts/family-resources-2026-10-29/images/02-inline.jpg"
+image_credit: "AI-generated editorial illustrations created for Corona Shoutouts"
+image_disclosure: "Conceptual illustrations; not photographs of actual local people, places or programs."
 ---
 
 # Swim Lessons in Corona: Where Kids Learn to Swim (and Stay Safe)
+
+![A child takes a swim lesson with an instructor and caregiver close by.](images/02-hero.jpg)
+
+*AI-generated editorial illustration; depicts a conceptual scene, not a specific local person, place or program.*
 
 For Corona swim lessons, start with the Corona-Norco Family YMCA, the city’s aquatics partner. Its current lesson page lists Saturday classes at Corona High School and Eleanor Roosevelt High School in Eastvale, with options from parent-and-child learning through teen and adult instruction. Confirm placement and availability before registering.
 
@@ -39,7 +48,9 @@ School-age classes continue water safety and swimming skills, with placement bas
 
 Teen and adult instruction matters, too. A parent who wants greater confidence in the water can ask about lessons for themselves. Children benefit when the whole family treats learning as normal, including when that learning starts later.
 
-<!-- INLINE PHOTO: Rights-cleared YMCA lesson image with permission and appropriate parent consent; identify the actual pool accurately. -->
+![A towel, goggles, swimsuit and water bottle beside a pool.](images/02-inline.jpg)
+
+*AI-generated supporting illustration; not a photograph of a specific local service or product.*
 
 ## Ask a few questions before paying
 

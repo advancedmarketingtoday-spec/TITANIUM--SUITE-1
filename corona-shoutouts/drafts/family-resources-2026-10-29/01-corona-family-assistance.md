@@ -7,11 +7,20 @@ verified_on: 2026-10-29
 slug: corona-family-food-utility-assistance
 seo_title: "Corona Food Pantries, Utility Assistance & Family Help"
 meta_description: "Find Corona food assistance, help with energy bills, water-bill contacts and practical next steps for families facing a hard month."
-featured_image_status: awaiting rights-cleared local photograph
-inline_image_status: awaiting rights-cleared local photograph
+featured_image_status: generated illustration
+featured_image: "https://raw.githubusercontent.com/advancedmarketingtoday-spec/TITANIUM--SUITE-1/main/corona-shoutouts/drafts/family-resources-2026-10-29/images/01-hero.jpg"
+featured_image_alt: "A volunteer offers a grocery bag to a caregiver and child in a sunny neighborhood."
+inline_image_status: generated illustration
+inline_image: "https://raw.githubusercontent.com/advancedmarketingtoday-spec/TITANIUM--SUITE-1/main/corona-shoutouts/drafts/family-resources-2026-10-29/images/01-inline.jpg"
+image_credit: "AI-generated editorial illustrations created for Corona Shoutouts"
+image_disclosure: "Conceptual illustrations; not photographs of actual local people, places or programs."
 ---
 
 # Where Corona Families Can Get Help: Food Pantries, Utility Assistance & More
+
+![A volunteer offers a grocery bag to a caregiver and child in a sunny neighborhood.](images/01-hero.jpg)
+
+*AI-generated editorial illustration; depicts a conceptual scene, not a specific local person, place or program.*
 
 Corona families facing a hard month can start with the Corona-Norco Settlement House for groceries and emergency-support questions, Community Action Partnership of Riverside County for energy-bill assistance, and their actual water provider for billing options. Call before traveling: eligibility, available funding and distribution arrangements can change.
 
@@ -29,7 +38,9 @@ For food, ask when groceries are distributed, whether an appointment or intake i
 
 If you need several kinds of help, say so during intake. A short explanation—“We need groceries this week and have a utility notice”—gives staff a clearer picture than separate calls that each describe only part of the problem.
 
-<!-- INLINE PHOTO: Rights-cleared exterior of Corona-Norco Settlement House; avoid identifying clients without consent. -->
+![Groceries, a blank checklist and an envelope arranged on a kitchen table.](images/01-inline.jpg)
+
+*AI-generated supporting illustration; not a photograph of a specific local service or product.*
 
 ## For electric or gas bills, ask Community Action about LIHEAP
 

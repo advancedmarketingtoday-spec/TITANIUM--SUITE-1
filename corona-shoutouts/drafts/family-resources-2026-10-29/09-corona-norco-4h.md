@@ -7,12 +7,21 @@ verified_on: 2026-10-29
 slug: corona-norco-4h-kids-programs
 seo_title: "Corona & Norco 4-H: Clubs, Projects & How to Join"
 meta_description: "Explore Corona-Norco 4-H clubs, animal and non-animal projects, youth age eligibility and practical enrollment questions for new families."
-featured_image_status: awaiting rights-cleared local photograph
-inline_image_status: awaiting rights-cleared local photograph
+featured_image_status: generated illustration
+featured_image: "https://raw.githubusercontent.com/advancedmarketingtoday-spec/TITANIUM--SUITE-1/main/corona-shoutouts/drafts/family-resources-2026-10-29/images/09-hero.jpg"
+featured_image_alt: "Young people learn about rabbit care and gardening with an adult nearby."
+inline_image_status: generated illustration
+inline_image: "https://raw.githubusercontent.com/advancedmarketingtoday-spec/TITANIUM--SUITE-1/main/corona-shoutouts/drafts/family-resources-2026-10-29/images/09-inline.jpg"
+image_credit: "AI-generated editorial illustrations created for Corona Shoutouts"
+image_disclosure: "Conceptual illustrations; not photographs of actual local people, places or programs."
 editorial_note: "County enrollment pages retain 2024–25 pricing. Current fees, project availability and meeting schedules must be confirmed; no stale price presented as current."
 ---
 
 # 4-H in Corona & Norco: Kids, Animals & Hands-On Learning
+
+![Young people learn about rabbit care and gardening with an adult nearby.](images/09-hero.jpg)
+
+*AI-generated editorial illustration; depicts a conceptual scene, not a specific local person, place or program.*
 
 Corona and Norco families can explore 4-H through Alvord Aggies and Norco Trailblazers, clubs listed by Riverside County’s UC Cooperative Extension program. County guidance describes youth participation for ages **5–19**, with animal projects alongside STEM, crafts, communication and leadership. Contact a club before enrolling to confirm this year’s projects and requirements.
 
@@ -38,7 +47,9 @@ Use the current UC directory to obtain the club contact. Volunteer leadership an
 
 Start the conversation with the child’s age, interests and available days. Ask whether you can attend an introductory meeting, which projects are accepting members, and whether there is a recommended first project. You are looking for a good fit, not simply the nearest name on a list.
 
-<!-- INLINE PHOTO: Rights-cleared image from the actual local club with parent permission; caption must identify the club and project accurately. -->
+![Children explore gardening, a small building project and a model robot.](images/09-inline.jpg)
+
+*AI-generated supporting illustration; not a photograph of a specific local service or product.*
 
 ## Animal projects: begin with the daily commitment
 

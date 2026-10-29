@@ -7,12 +7,21 @@ verified_on: 2026-10-29
 slug: corona-kids-eat-free-weekday-guide
 seo_title: "Kids Eat Free in Corona: Weekday Deals & Fine Print"
 meta_description: "Plan a cheaper family meal in Corona with verified Habit and El Torito offers, plus the terms and local checks that matter before ordering."
-featured_image_status: awaiting rights-cleared local photograph
-inline_image_status: awaiting rights-cleared local photograph
+featured_image_status: generated illustration
+featured_image: "https://raw.githubusercontent.com/advancedmarketingtoday-spec/TITANIUM--SUITE-1/main/corona-shoutouts/drafts/family-resources-2026-10-29/images/03-hero.jpg"
+featured_image_alt: "A family enjoys a casual restaurant meal together."
+inline_image_status: generated illustration
+inline_image: "https://raw.githubusercontent.com/advancedmarketingtoday-spec/TITANIUM--SUITE-1/main/corona-shoutouts/drafts/family-resources-2026-10-29/images/03-inline.jpg"
+image_credit: "AI-generated editorial illustrations created for Corona Shoutouts"
+image_disclosure: "Conceptual illustrations; not photographs of actual local people, places or programs."
 editorial_note: "No verified recurring Friday-Sunday child-meal promotion found; do not present gaps as confirmed deals. Recheck every offer immediately before publication."
 ---
 
 # Kids Eat Free (or Cheap) in Corona: A Night-by-Night Guide
+
+![A family enjoys a casual restaurant meal together.](images/03-hero.jpg)
+
+*AI-generated editorial illustration; depicts a conceptual scene, not a specific local person, place or program.*
 
 Corona families have two useful weekday starting points: Habit Burger & Grill advertises a qualifying free kids meal Monday–Thursday through MyHabit, and El Torito advertises $1 kids meals on Wednesdays with an adult entrée. Both come with conditions. Weekend deals and other chains’ local participation need separate confirmation.
 
@@ -54,7 +63,9 @@ The adult entrée is part of the cost calculation. Compare the full family order
 
 If Wednesday is already a busy practice night, establish the terms before everyone is hungry. A quick question—“Does the kids Wednesday offer apply to our order today?”—is easier to resolve before ordering than after the bill arrives.
 
-<!-- INLINE PHOTO: Rights-cleared photo of an actual qualifying kids meal; identify restaurant and avoid implying an unverified price. -->
+![A burger meal, fruit, water and phone on a restaurant table.](images/03-inline.jpg)
+
+*AI-generated supporting illustration; not a photograph of a specific local service or product.*
 
 ## Denny’s is a lead to call, not a confirmed Tuesday promise
 

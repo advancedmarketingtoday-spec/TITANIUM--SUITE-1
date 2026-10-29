@@ -1,0 +1,127 @@
+{
+  "generator": "Built-in image_gen",
+  "generated_on": "2026-10-29",
+  "style": "Conceptual editorial illustrations; not photographs of actual local people, businesses, programs or places.",
+  "images": [
+    {
+      "id": "01-hero",
+      "file": "01-hero.jpg",
+      "master": "01-hero.png",
+      "prompt": "Use case: illustration-story. Asset: wide landscape featured image for Corona Shoutouts article about family food and utility assistance. Create a polished, warm editorial illustration: a parent and child receiving a grocery tote from a friendly community volunteer at an unbranded neighborhood resource table, citrus and bread visible, Southern California foothills and modest neighborhood in background. Contemporary painterly gouache, refined shapes, subtle paper texture, warm sunlight, teal and citrus accents, dignified and welcoming, detailed but uncluttered, wide 3:2 composition. No text, numbers, logos, identifiable real people, real organization signage or documentary photo appearance. It must clearly be an illustration."
+    },
+    {
+      "id": "01-inline",
+      "file": "01-inline.jpg",
+      "master": "01-inline.png",
+      "prompt": "Use case: illustration-story. Asset: landscape supporting inline editorial illustration for Corona Shoutouts family resource articles. Scene: Organized family help essentials: overhead still life of grocery tote, fresh produce, bread, plain utility envelope with no writing, blank checklist and pen on kitchen table. No people. Style: polished contemporary painterly gouache, refined shapes, subtle paper texture, warm Southern California sunlight, teal and citrus accents, dignified and welcoming, detailed yet uncluttered, wide 3:2 composition. Clearly illustrated, not a documentary photo. No readable text, numbers, logos, watermarks, official emblems, specific real organization signage or identifiable real people."
+    },
+    {
+      "id": "02-hero",
+      "file": "02-hero.jpg",
+      "master": "02-hero.png",
+      "prompt": "Use case: illustration-story. Asset: landscape featured editorial illustration for Corona Shoutouts family resource articles. Scene: Parent and young child at a swim lesson with a friendly instructor in a shallow swimming pool; adult within arm's reach, attentive supervision, Southern California outdoor setting. No dramatic danger, no float toys. Style: polished contemporary painterly gouache, refined shapes, subtle paper texture, warm Southern California sunlight, teal and citrus accents, dignified and welcoming, detailed yet uncluttered, wide 3:2 composition. Clearly illustrated, not a documentary photo. No readable text, numbers, logos, watermarks, official emblems, specific real organization signage or identifiable real people."
+    },
+    {
+      "id": "02-inline",
+      "file": "02-inline.jpg",
+      "master": "02-inline.png",
+      "prompt": "Use case: illustration-story. Asset: landscape supporting inline editorial illustration for Corona Shoutouts family resource articles. Scene: Poolside preparedness still life: neatly folded towel, goggles, swimsuit and a plain water bottle on a bench beside a blue pool, no people. Style: polished contemporary painterly gouache, refined shapes, subtle paper texture, warm Southern California sunlight, teal and citrus accents, dignified and welcoming, detailed yet uncluttered, wide 3:2 composition. Clearly illustrated, not a documentary photo. No readable text, numbers, logos, watermarks, official emblems, specific real organization signage or identifiable real people."
+    },
+    {
+      "id": "03-hero",
+      "file": "03-hero.jpg",
+      "master": "03-hero.png",
+      "prompt": "Use case: illustration-story. Asset: landscape featured editorial illustration for Corona Shoutouts family resource articles. Scene: Family sharing a casual restaurant dinner: two caregivers and two children smiling around a table with modest burgers, tacos and small children's plates, welcoming Southern California diner setting. No logos or prices. Style: polished contemporary painterly gouache, refined shapes, subtle paper texture, warm Southern California sunlight, teal and citrus accents, dignified and welcoming, detailed yet uncluttered, wide 3:2 composition. Clearly illustrated, not a documentary photo. No readable text, numbers, logos, watermarks, official emblems, specific real organization signage or identifiable real people."
+    },
+    {
+      "id": "03-inline",
+      "file": "03-inline.jpg",
+      "master": "03-inline.png",
+      "prompt": "Use case: illustration-story. Asset: landscape supporting inline editorial illustration for Corona Shoutouts family resource articles. Scene: Overhead still life of a child-sized burger meal, fruit, water and a smartphone with completely blank screen on a casual restaurant table; no pricing or restaurant branding. Style: polished contemporary painterly gouache, refined shapes, subtle paper texture, warm Southern California sunlight, teal and citrus accents, dignified and welcoming, detailed yet uncluttered, wide 3:2 composition. Clearly illustrated, not a documentary photo. No readable text, numbers, logos, watermarks, official emblems, specific real organization signage or identifiable real people."
+    },
+    {
+      "id": "04-hero",
+      "file": "04-hero.jpg",
+      "master": "04-hero.png",
+      "prompt": "Use case: illustration-story. Asset: landscape featured editorial illustration for Corona Shoutouts family resource articles. Scene: Family looking at a library checkout display with books and a plain green park-pass hangtag; background opens imaginatively into Southern California oak foothills. Clearly conceptual, no real building depiction. Style: polished contemporary painterly gouache, refined shapes, subtle paper texture, warm Southern California sunlight, teal and citrus accents, dignified and welcoming, detailed yet uncluttered, wide 3:2 composition. Clearly illustrated, not a documentary photo. No readable text, numbers, logos, watermarks, official emblems, specific real organization signage or identifiable real people."
+    },
+    {
+      "id": "04-inline",
+      "file": "04-inline.jpg",
+      "master": "04-inline.png",
+      "prompt": "Use case: illustration-story. Asset: landscape supporting inline editorial illustration for Corona Shoutouts family resource articles. Scene: Binoculars, birding book with no writing, plain green park-pass hangtag and picnic supplies beside a hiking path with oak leaves and distant rolling hills, no museum tickets. Style: polished contemporary painterly gouache, refined shapes, subtle paper texture, warm Southern California sunlight, teal and citrus accents, dignified and welcoming, detailed yet uncluttered, wide 3:2 composition. Clearly illustrated, not a documentary photo. No readable text, numbers, logos, watermarks, official emblems, specific real organization signage or identifiable real people."
+    },
+    {
+      "id": "05-hero",
+      "file": "05-hero.jpg",
+      "master": "05-hero.png",
+      "prompt": "Use case: illustration-story. Asset: landscape featured editorial illustration for Corona Shoutouts family resource articles. Scene: Inclusive playground with children of varied abilities playing together: a child in a wheelchair on a broad accessible ramp alongside a friend, caregiver nearby, sensitively inclusive community scene, no specific real park. Style: polished contemporary painterly gouache, refined shapes, subtle paper texture, warm Southern California sunlight, teal and citrus accents, dignified and welcoming, detailed yet uncluttered, wide 3:2 composition. Clearly illustrated, not a documentary photo. No readable text, numbers, logos, watermarks, official emblems, specific real organization signage or identifiable real people."
+    },
+    {
+      "id": "05-inline",
+      "file": "05-inline.jpg",
+      "master": "05-inline.png",
+      "prompt": "Use case: illustration-story. Asset: landscape supporting inline editorial illustration for Corona Shoutouts family resource articles. Scene: Caregiver and teenager enjoying an accessible art activity at a table, adaptive art tools, colorful shapes and paint, warm relaxed community room, depict agency and shared enjoyment. Style: polished contemporary painterly gouache, refined shapes, subtle paper texture, warm Southern California sunlight, teal and citrus accents, dignified and welcoming, detailed yet uncluttered, wide 3:2 composition. Clearly illustrated, not a documentary photo. No readable text, numbers, logos, watermarks, official emblems, specific real organization signage or identifiable real people."
+    },
+    {
+      "id": "06-hero",
+      "file": "06-hero.jpg",
+      "master": "06-hero.png",
+      "prompt": "Use case: illustration-story. Asset: landscape featured editorial illustration for Corona Shoutouts family resource articles. Scene: Teen volunteer helping organize books in a bright welcoming public library, another teen politely assisting a patron in background, no labels or signage; capable and friendly atmosphere. Style: polished contemporary painterly gouache, refined shapes, subtle paper texture, warm Southern California sunlight, teal and citrus accents, dignified and welcoming, detailed yet uncluttered, wide 3:2 composition. Clearly illustrated, not a documentary photo. No readable text, numbers, logos, watermarks, official emblems, specific real organization signage or identifiable real people."
+    },
+    {
+      "id": "06-inline",
+      "file": "06-inline.jpg",
+      "master": "06-inline.png",
+      "prompt": "Use case: illustration-story. Asset: landscape supporting inline editorial illustration for Corona Shoutouts family resource articles. Scene: Teen preparing a first-job application at a tidy desk: blank résumé sheet, notebook, laptop with blank screen, backpack, confident thoughtful expression; no worksite hazards. Style: polished contemporary painterly gouache, refined shapes, subtle paper texture, warm Southern California sunlight, teal and citrus accents, dignified and welcoming, detailed yet uncluttered, wide 3:2 composition. Clearly illustrated, not a documentary photo. No readable text, numbers, logos, watermarks, official emblems, specific real organization signage or identifiable real people."
+    },
+    {
+      "id": "07-hero",
+      "file": "07-hero.jpg",
+      "master": "07-hero.png",
+      "prompt": "Use case: illustration-story. Asset: landscape featured editorial illustration for Corona Shoutouts family resource articles. Scene: High school senior and caregiver reviewing college planning with a friendly adviser at a table, laptop with blank screen, notebooks and a small graduation cap motif, hopeful realistic mood, no money rain. Style: polished contemporary painterly gouache, refined shapes, subtle paper texture, warm Southern California sunlight, teal and citrus accents, dignified and welcoming, detailed yet uncluttered, wide 3:2 composition. Clearly illustrated, not a documentary photo. No readable text, numbers, logos, watermarks, official emblems, specific real organization signage or identifiable real people."
+    },
+    {
+      "id": "07-inline",
+      "file": "07-inline.jpg",
+      "master": "07-inline.png",
+      "prompt": "Use case: illustration-story. Asset: landscape supporting inline editorial illustration for Corona Shoutouts family resource articles. Scene: Overhead college planning still life: blank application pages, calculator, pen, small graduation cap, laptop corner and citrus-colored notebook; no dollar amounts or dates. Style: polished contemporary painterly gouache, refined shapes, subtle paper texture, warm Southern California sunlight, teal and citrus accents, dignified and welcoming, detailed yet uncluttered, wide 3:2 composition. Clearly illustrated, not a documentary photo. No readable text, numbers, logos, watermarks, official emblems, specific real organization signage or identifiable real people."
+    },
+    {
+      "id": "08-hero",
+      "file": "08-hero.jpg",
+      "master": "08-hero.png",
+      "prompt": "Use case: illustration-story. Asset: landscape featured editorial illustration for Corona Shoutouts family resource articles. Scene: Caregiver consulting a friendly child passenger safety educator beside a parked family vehicle, adult holds a car-seat instruction booklet with no text; empty child seat only subtly visible inside. No child restraint installation detail, no uniforms or agency logos. Style: polished contemporary painterly gouache, refined shapes, subtle paper texture, warm Southern California sunlight, teal and citrus accents, dignified and welcoming, detailed yet uncluttered, wide 3:2 composition. Clearly illustrated, not a documentary photo. No readable text, numbers, logos, watermarks, official emblems, specific real organization signage or identifiable real people."
+    },
+    {
+      "id": "08-inline",
+      "file": "08-inline.jpg",
+      "master": "08-inline.png",
+      "prompt": "Use case: illustration-story. Asset: landscape supporting inline editorial illustration for Corona Shoutouts family resource articles. Scene: Car-seat appointment preparation still life: closed instruction booklets without text, vehicle key, measuring tape, notebook and small backpack on a table; do not depict restraint routing or installation mechanics. Style: polished contemporary painterly gouache, refined shapes, subtle paper texture, warm Southern California sunlight, teal and citrus accents, dignified and welcoming, detailed yet uncluttered, wide 3:2 composition. Clearly illustrated, not a documentary photo. No readable text, numbers, logos, watermarks, official emblems, specific real organization signage or identifiable real people."
+    },
+    {
+      "id": "09-hero",
+      "file": "09-hero.jpg",
+      "master": "09-hero.png",
+      "prompt": "Use case: illustration-story. Asset: landscape featured editorial illustration for Corona Shoutouts family resource articles. Scene: Children and teens at a hands-on youth club activity, one child with adult nearby gently attending a rabbit in a safe pen, another showing a small gardening project, Southern California rural-community foothill setting. No 4-H emblem or logos. Style: polished contemporary painterly gouache, refined shapes, subtle paper texture, warm Southern California sunlight, teal and citrus accents, dignified and welcoming, detailed yet uncluttered, wide 3:2 composition. Clearly illustrated, not a documentary photo. No readable text, numbers, logos, watermarks, official emblems, specific real organization signage or identifiable real people."
+    },
+    {
+      "id": "09-inline",
+      "file": "09-inline.jpg",
+      "master": "09-inline.png",
+      "prompt": "Use case: illustration-story. Asset: landscape supporting inline editorial illustration for Corona Shoutouts family resource articles. Scene: Hands-on youth learning still life: small seedling pots, woodworking project, craft materials, notebook with blank pages and a simple small robot model, celebrating non-animal projects. Style: polished contemporary painterly gouache, refined shapes, subtle paper texture, warm Southern California sunlight, teal and citrus accents, dignified and welcoming, detailed yet uncluttered, wide 3:2 composition. Clearly illustrated, not a documentary photo. No readable text, numbers, logos, watermarks, official emblems, specific real organization signage or identifiable real people."
+    },
+    {
+      "id": "10-hero",
+      "file": "10-hero.jpg",
+      "master": "10-hero.png",
+      "prompt": "Use case: illustration-story. Asset: landscape featured editorial illustration for Corona Shoutouts family resource articles. Scene: Calm family emergency preparation at home: caregiver packing a practical go bag, child holding comfort toy, small dog near a carrier, water supplies and flashlight, Southern California neighborhood through window; no flames or active emergency. Style: polished contemporary painterly gouache, refined shapes, subtle paper texture, warm Southern California sunlight, teal and citrus accents, dignified and welcoming, detailed yet uncluttered, wide 3:2 composition. Clearly illustrated, not a documentary photo. No readable text, numbers, logos, watermarks, official emblems, specific real organization signage or identifiable real people."
+    },
+    {
+      "id": "10-inline",
+      "file": "10-inline.jpg",
+      "master": "10-inline.png",
+      "prompt": "Use case: illustration-story. Asset: landscape supporting inline editorial illustration for Corona Shoutouts family resource articles. Scene: Well-organized emergency go-bag essentials: backpack, flashlight, water bottles, plain document pouch, phone power bank, pet leash and carrier, child comfort toy; no medicines with readable labels. Style: polished contemporary painterly gouache, refined shapes, subtle paper texture, warm Southern California sunlight, teal and citrus accents, dignified and welcoming, detailed yet uncluttered, wide 3:2 composition. Clearly illustrated, not a documentary photo. No readable text, numbers, logos, watermarks, official emblems, specific real organization signage or identifiable real people."
+    }
+  ]
+}
