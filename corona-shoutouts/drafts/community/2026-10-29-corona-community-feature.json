@@ -1,0 +1,260 @@
+{
+  "status": "draft",
+  "publication": "Corona Shoutouts",
+  "title": "Corona Weekend Planner: Halloween Fun at Dos Lagos and Family Time Around Town",
+  "date": "2026-10-29",
+  "timezone": "America/Los_Angeles",
+  "generated_at": "2026-10-29T07:03:48-07:00",
+  "theme": "Dos Lagos & Corona Weekend Planner",
+  "coverage_window": {
+    "start": "2026-10-30",
+    "end": "2026-11-01",
+    "display": "Friday, October 30 through Sunday, November 1, 2026",
+    "timezone_note": "Friday and Saturday times are PDT. Pacific Standard Time resumes Sunday, November 1."
+  },
+  "seo_summary": "Plan a positive Corona weekend with library coding, Dos Lagos Halloween fun and a Sunday visit to Santana Park.",
+  "readiness": "READY FOR HUMAN REVIEW",
+  "publication_ready": false,
+  "publication_blockers": [
+    "Human editorial approval is required before publication.",
+    "Ticket availability and the iPlayology checkout price should be reconfirmed immediately before publication.",
+    "The Weather Hub and sports destination were last confirmed as published on October 27; the October 29 automated recheck was inconclusive."
+  ],
+  "activities": [
+    {
+      "name": "Corona Public Library Coding Class",
+      "date": "2026-10-30",
+      "time": "4:45 PM-5:45 PM PDT",
+      "address": "650 South Main Street, Corona, CA 92882",
+      "age": "Ages 6-12",
+      "admission_registration": "The public calendar listing does not state a fee or registration rule; confirm through the library calendar or 951-279-3657.",
+      "type": "scheduled program"
+    },
+    {
+      "name": "Hotel Transylvania Halloween Glow Party",
+      "date": "2026-10-30",
+      "time": "5:30 PM-8:00 PM PDT",
+      "address": "2785 Cabot Drive, Suite 145, Corona, CA 92883",
+      "age": "Child tickets listed for ages 1-10; adults attend with children",
+      "admission_registration": "Ticketed. The organizer page showed an active Add to Cart control but displayed conflicting prices; confirm the final total at checkout or by phone.",
+      "availability_checked": "2026-10-29",
+      "type": "scheduled event"
+    },
+    {
+      "name": "Halloween Festivities at Dos Lagos",
+      "date": "2026-10-31",
+      "time": "4:00 PM-7:00 PM PDT",
+      "address": "2780 Cabot Drive, Corona, CA 92883",
+      "age": "All-ages categories are listed for the costume contest",
+      "admission_registration": "The official listing does not state a fee or advance-registration requirement. Trick-or-treating is while supplies last.",
+      "type": "scheduled event"
+    },
+    {
+      "name": "Santana Park family outing",
+      "date": "2026-11-01",
+      "time": "No scheduled event time",
+      "address": "598 Santana Way, Corona, CA 92881",
+      "age": "All ages; caregivers should choose activities appropriate for their group",
+      "admission_registration": "Regular city park amenity. The directory does not publish operating hours or field availability.",
+      "type": "regular amenity, not a scheduled event"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Shops at Dos Lagos: Halloween Festivities at Dos Lagos",
+      "url": "https://shopdoslagos.com/event/halloween-festivities-at-dos-lagos/",
+      "retrieved_at": "2026-10-29",
+      "supports": [
+        "Date and time",
+        "Address",
+        "Activities and costume-contest categories",
+        "Trick-or-treat supply notice"
+      ]
+    },
+    {
+      "name": "The Shops at Dos Lagos events calendar",
+      "url": "https://shopdoslagos.com/events/",
+      "retrieved_at": "2026-10-29",
+      "supports": [
+        "Halloween event listing",
+        "No separate amphitheater event listed for October 30-November 1"
+      ]
+    },
+    {
+      "name": "iPlayology: Hotel Transylvania Halloween Glow Party",
+      "url": "https://www.iplayology.com/product-page/hotel-transylvania-halloween-glow-party-friday-with-mavis-and-dracula",
+      "retrieved_at": "2026-10-29",
+      "supports": [
+        "Date and time",
+        "Address",
+        "Ages 1-10",
+        "Two adults included with each child ticket",
+        "Waiver and sock requirements",
+        "Active purchase control",
+        "Conflicting price display requiring confirmation"
+      ]
+    },
+    {
+      "name": "Corona Public Library LibCal calendar",
+      "url": "https://coronacalibrary.libcal.com/calendar?cid=21349",
+      "retrieved_at": "2026-10-29",
+      "supports": [
+        "October 30 Coding Class listing",
+        "4:45 PM-5:45 PM PDT time",
+        "Maker Exchange location"
+      ],
+      "note": "The calendar is the City library's official linked calendar. Its event data is dynamically rendered."
+    },
+    {
+      "name": "City of Corona: Maker Exchange",
+      "url": "https://www.coronaca.gov/departments/library/maker-exchange",
+      "retrieved_at": "2026-10-29",
+      "supports": [
+        "Friday Coding Class",
+        "Ages 6-12",
+        "Maker-space description",
+        "Program contact"
+      ]
+    },
+    {
+      "name": "City of Corona: Library",
+      "url": "https://www.coronaca.gov/departments/library",
+      "retrieved_at": "2026-10-29",
+      "supports": [
+        "650 South Main Street address",
+        "Library hours",
+        "Official link to LibCal"
+      ]
+    },
+    {
+      "name": "City of Corona: Santana Park directory",
+      "url": "https://www.coronaca.gov/parks-facilities-directory/santana-park",
+      "retrieved_at": "2026-10-29",
+      "supports": [
+        "Address",
+        "Park amenities",
+        "Corona Parks phone"
+      ]
+    },
+    {
+      "name": "City of Corona: Inclusive Playground",
+      "url": "https://www.coronaca.gov/departments/community-services/parks/inclusive-playground",
+      "retrieved_at": "2026-10-29",
+      "supports": [
+        "Santana Park pirate-themed inclusive playground is open"
+      ]
+    },
+    {
+      "name": "Corona Shoutouts Weather Hub",
+      "url": "https://coronashoutouts.com/a/corona-weather",
+      "retrieved_at": "2026-10-27",
+      "supports": [
+        "Published internal Weather Hub destination"
+      ],
+      "recheck_note": "The October 29 automated open attempt was inconclusive."
+    },
+    {
+      "name": "Corona Shoutouts MaxPreps-based sports briefing",
+      "url": "https://coronashoutouts.com/a/tuesday-sports-centennial-volleyball-playoff-and-three-water-polo-matchups",
+      "retrieved_at": "2026-10-27",
+      "supports": [
+        "Published Corona-area sports briefing destination"
+      ],
+      "recheck_note": "The October 29 automated search did not surface a newer public briefing."
+    }
+  ],
+  "featured_image": {
+    "status": "rights-cleared",
+    "role": "featured",
+    "direct_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/CoronaCA_%28cropped%29.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:CoronaCA_(cropped).jpg",
+    "creator": "FredBren",
+    "license": "Public domain",
+    "license_url": "https://commons.wikimedia.org/wiki/File:CoronaCA_(cropped).jpg#Licensing",
+    "credit_required": "No attribution required; credit retained for transparency.",
+    "restrictions": "Do not imply the archival image depicts a listed event or current conditions.",
+    "alt": "Archival panoramic view of Corona California with the 91 and 15 interchange",
+    "caption": "Archival view of Corona and the 91/15 interchange, photographed in 2008. Illustrative city context, not a listed weekend event.",
+    "direct_url_verified_at": "2026-10-29"
+  },
+  "side_image": {
+    "status": "rights-cleared",
+    "role": "side",
+    "direct_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Vicentia_Elementary_School_-_Playground_%282002%29.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Vicentia_Elementary_School_-_Playground_(2002).jpg",
+    "creator": "Amin Eshaiker",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "credit_required": "Photo: Amin Eshaiker, CC BY-SA 4.0, via Wikimedia Commons.",
+    "restrictions": "Attribution and ShareAlike terms apply. Do not imply the archival image depicts Santana Park or a listed event.",
+    "alt": "Archival photograph of an empty playground in Corona California",
+    "caption": "Archival playground scene in Corona, photographed in 2002. Illustrative family-recreation image, not Santana Park or a listed event.",
+    "direct_url_verified_at": "2026-10-29"
+  },
+  "inline_images": [
+    {
+      "slot": 1,
+      "status": "rights-cleared",
+      "uses_featured_image": true,
+      "source_page": "https://commons.wikimedia.org/wiki/File:CoronaCA_(cropped).jpg",
+      "creator": "FredBren",
+      "license": "Public domain",
+      "rights_evidence": "The Wikimedia Commons file page states that the copyright holder released the work into the public domain worldwide."
+    },
+    {
+      "slot": 2,
+      "status": "rights-cleared",
+      "uses_side_image": true,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Vicentia_Elementary_School_-_Playground_(2002).jpg",
+      "creator": "Amin Eshaiker",
+      "license": "CC BY-SA 4.0",
+      "rights_evidence": "The Wikimedia Commons file page identifies the image as the creator's own work and displays the CC BY-SA 4.0 license."
+    }
+  ],
+  "counts": {
+    "article_words": 674,
+    "h1": 1,
+    "h2": 4,
+    "sections": 3,
+    "verified_scheduled_activities": 3,
+    "regular_amenity_updates": 1,
+    "inline_photo_slots": 2,
+    "actual_inline_photos": 2,
+    "image_placeholders": 0,
+    "featured_images_ready": 1
+  },
+  "link_verification": [
+    {
+      "label": "Corona Weather Hub",
+      "article_href": "/a/corona-weather",
+      "resolved_url": "https://coronashoutouts.com/a/corona-weather",
+      "status": "verified published on 2026-10-27; October 29 automated recheck inconclusive",
+      "last_verified_at": "2026-10-27"
+    },
+    {
+      "label": "daily MaxPreps sports briefing",
+      "article_href": "/a/tuesday-sports-centennial-volleyball-playoff-and-three-water-polo-matchups",
+      "resolved_url": "https://coronashoutouts.com/a/tuesday-sports-centennial-volleyball-playoff-and-three-water-polo-matchups",
+      "status": "verified published on 2026-10-27; no newer public briefing surfaced on October 29",
+      "published_date": "2026-10-20",
+      "last_verified_at": "2026-10-27"
+    }
+  ],
+  "remaining_gaps": [
+    "The iPlayology purchase page displayed conflicting prices. The article omits a dollar amount and tells readers to confirm the checkout total.",
+    "The library calendar does not state a fee or registration rule for the October 30 Coding Class in the accessible listing.",
+    "The Dos Lagos event page does not state whether admission is free or whether registration is required.",
+    "No separate Dos Lagos Amphitheater performance was listed for October 30-November 1.",
+    "The City of Corona park directory does not publish Santana Park operating hours or field availability.",
+    "The Weather Hub and sports links should receive a quick manual click check before publication.",
+    "No direct Letterman delivery is configured for this handoff."
+  ],
+  "handoff": {
+    "repository": "advancedmarketingtoday-spec/TITANIUM--SUITE-1",
+    "branch": "main",
+    "html_path": "corona-shoutouts/drafts/community/2026-10-29-corona-community-feature.html",
+    "metadata_path": "corona-shoutouts/drafts/community/2026-10-29-corona-community-feature.json",
+    "letterman_delivery": "not configured",
+    "publishing_action": "none"
+  }
+}
