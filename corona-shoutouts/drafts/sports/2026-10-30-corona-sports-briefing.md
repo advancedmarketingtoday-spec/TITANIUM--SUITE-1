@@ -1,162 +1,89 @@
 ---
-title: "Corona sports briefing: Thursday finals and Centennial’s Friday football game"
+title: "Corona Sports Today: Centennial Finishes Unbeaten in League; Norco Water Polo Advances"
 date: 2026-10-30
 timezone: America/Los_Angeles
 status: draft
 publication: Corona Shoutouts
-reporting_window_start: 2026-10-29T06:25:54-07:00
-reporting_window_end: 2026-10-30T06:25:54-07:00
-generated_at: 2026-10-30T06:25:54-07:00
-readiness: "PARTIAL — MANUAL REVIEW REQUIRED"
-word_count: 686
-featured_image: "https://upload.wikimedia.org/wikipedia/commons/1/13/Public_high_school_football_game_in_Fairmont.jpg"
-inline_image_count: 3
+word_count: 1082
+word_count_scope: "Headline and article; excludes front matter and editor sources"
+featured_image: null
+inline_image_count: 0
+editor_note: "Revised after the 6:30 AM Pacific deadline. No outside photos. No individual players named. School-specific future fixtures omitted unless confirmed. Winter Classic date inconsistency disclosed."
 ---
 
-# Corona sports briefing: Thursday finals and Centennial’s Friday football game
+# Corona Sports Today: Centennial Finishes Unbeaten in League; Norco Water Polo Advances
 
-*Six Thursday finals are confirmed across football and water polo, while Centennial freshman football hosts Upland on Friday afternoon.*
+There is plenty to celebrate across Corona-area sports as October gives way to the postseason. Centennial closed its football league schedule unbeaten, Norco kept its water-polo playoff run moving, and families across Corona, Norco and Eastvale have more opportunities to cheer, play and volunteer.
 
-Centennial varsity football closed Thursday with a 62–0 win at Murrieta Mesa, and Norco boys water polo earned a 14–9 home win over Burbank. Corona, Santiago and Norco completed varsity football games, while Santiago boys water polo finished its playoff trip to El Segundo. Friday’s verified schedule contains one local event.
+## Last Night's Results
 
-**Reporting window:** Thursday, October 29 at 6:25 a.m. through Friday, October 30 at 6:25 a.m. Pacific Time.
+**Centennial football:** The Huskies won 62–0 at Murrieta Mesa on Thursday, October 29. MaxPreps lists Centennial at 7–3 overall and 5–0 in the Big West North, in first place. That completes an unbeaten league schedule for a team that had already secured a playoff berth, according to the Press-Enterprise’s pregame postseason report.
 
-![Illustrative high school football game in North Carolina; this is not a Corona-area event](https://upload.wikimedia.org/wikipedia/commons/1/13/Public_high_school_football_game_in_Fairmont.jpg)
+**Norco football:** Norco scored 38 points on the road at Murrieta Valley, with the home team winning 55–38. The matchup carried automatic-berth stakes: the Press-Enterprise reported beforehand that either team could clinch with a victory. Murrieta Valley met that condition, while Norco’s next postseason news awaits the selection process rather than an assumed playoff assignment.
 
-*Illustrative file photo, not Thursday’s teams or venue. Photo by Gerry Dincher, CC BY-SA 2.0.*
+**Corona football:** The Panthers traveled to Great Oak, where the hosts won 57–6. Great Oak had already clinched a postseason berth before Thursday, according to the local paper’s playoff outlook. Corona completed its final scheduled league matchup against that playoff-bound opponent; no new postseason assignment is confirmed here.
 
-## Centennial Huskies
+**Santiago football:** Visiting King won 10–3 at Santiago in a game separated by one touchdown on the final scoreboard. The result also mattered elsewhere in the South Division: the local paper’s pregame outlook said King could clinch with a victory plus losses by Roosevelt and Corona. Those three results appeared on Thursday’s published scoreboard, satisfying the reported conditions.
 
-Centennial varsity football won 62–0 at Murrieta Mesa on Thursday. The Huskies finish the listed regular-season schedule at 7-3 overall and 5-0 in the Big West North, first in the league.
+**Eastvale Roosevelt football:** Eleanor Roosevelt visited Temecula Valley and finished on the other side of a 20–13 result. The Mustangs were within seven points on the final scoreboard against a team that had already clinched a playoff berth. Roosevelt’s published automatic-berth paths required a win or a King loss, so neither condition was met Thursday.
 
-The Centennial freshman team has the only verified Friday event among the four schools. The Huskies host Upland at Centennial High School, 1820 Rimpau Avenue in Corona. MaxPreps lists a 3:30 p.m. start.
+**Norco boys water polo:** The Cougars earned a 14–9 home victory over Burbank in the CIF Southern Section Division 3 first round. MaxPreps lists Norco at 21–8 overall, with an 8–2 Big VIII league record. The playoff win sends the Cougars into the next round, with Camarillo appearing next on their schedule.
 
-- **Thursday final:** Varsity football defeated Murrieta Mesa 62–0.
-- **Friday matchup:** Freshman football vs. Upland, 3:30 p.m. PT, home at Centennial High School.
-- **Freshman record:** 7-3 overall and 5-0 in the Big West Upper, first.
+**Santiago boys water polo:** The Sharks traveled to El Segundo for a Division 2 first-round playoff game, with the Eagles winning 17–13. Both the local playoff scoreboard and the game listing confirm the four-goal final margin. The result concludes Santiago’s run in this section tournament, with appreciation for the players, coaches and families who supported the season.
 
-## Corona Panthers
+## Players and Teams to Know
 
-Great Oak defeated Corona 57–6 in Thursday’s varsity football game. The Panthers finish the listed schedule at 5-5 overall and 1-4 in the Big West South, sixth. No Friday event was confirmed in the accessible Corona feeds.
+**Centennial’s football team:** This shoutout belongs to the full squad for finishing its league slate without a loss. The Huskies’ MaxPreps schedule shows five consecutive league victories, including the October 23 road win at Chaparral before Thursday’s finale.
 
-- **Thursday final:** Varsity football at Great Oak, 57–6 loss.
-- **Friday schedule:** No event could be verified from the accessible feeds.
-- **Final listed record:** 5-5 overall, 1-4 league.
+**Norco’s water-polo team:** A home playoff win gives Cougar supporters another date to circle. Their next listed opponent, Camarillo, also won its first-round game, defeating South Pasadena 13–4 on the published Division 3 scoreboard.
 
-![Illustrative view of an American football stadium during a game; this is not a Corona-area venue](https://upload.wikimedia.org/wikipedia/commons/4/49/Scott_Stadium_during_an_American_Football_game.jpg)
+**Centennial’s freshman football team:** The younger Huskies deserve recognition, too. Their current schedule records a 31–14 win over Murrieta Mesa on Wednesday, October 28, and lists a 7–3 overall record with a 5–0 league mark.
 
-*Illustrative stadium photo, not a local venue or reported matchup. Photo by carlinmack, CC0 1.0.*
+## Eastvale Soccer
 
-## Santiago Sharks
+For Eastvale families looking toward high school soccer, the CIF-SS calendar lists November 16 as the first allowable contest date for boys and girls soccer. That is a section-wide calendar date, not a confirmed Roosevelt opener. A specific Mustangs opponent, kickoff time and venue still need a published team schedule.
 
-Santiago had two Thursday contests. King won the varsity football game 10–3 at Santiago, and El Segundo won the boys water-polo playoff 17–13. MaxPreps lists the water-polo start at 4:30 p.m. in the final, which differs from the 5 p.m. preview time shown Thursday morning.
+Farther ahead, the SilverLakes Winter Classic organizer advertises December 21–24, with SilverLakes Sports and Eleanor Roosevelt High School presenting the tournament. Its page says registration is closed because capacity has been reached. Families should wait for the match schedule before choosing a day or field to visit.
 
-The Sharks’ football team finishes the listed schedule at 6-4 overall and 1-4 in the Big West South, fifth. Boys water polo is listed at 16-10 overall and 5-3 in the Big VIII, third.
+The organizer lists SilverLakes at 5555 Hamner Avenue in Norco and Eleanor Roosevelt at 7447 Scholar Way in Eastvale. It says some matches may take place at the school stadium. Because its introductory copy calls the event three days while the heading spans four calendar dates, confirm the final playing dates directly before making plans.
 
-- **Thursday finals:** Varsity football vs. King, 10–3 loss; boys varsity water polo at El Segundo, 17–13 playoff loss.
-- **Friday schedule:** No event could be verified from the accessible feeds.
+No new Eastvale club result or dated tryout announcement was confirmed for this edition.
 
-## Norco Cougars
+## Coming Up This Week
 
-Norco boys water polo defeated Burbank 14–9 at home on Thursday. The result moves the Cougars to 21-8 overall. Their 8-2 Big VIII record places them second in the league.
+All times below are Pacific. Roosevelt and Eleanor Roosevelt refer to the same Eastvale school.
 
-Murrieta Valley won Thursday’s varsity football game 55–38. Norco finishes the listed football schedule at 6-4 overall and 2-3 in the Big West North, fourth. No Friday event was confirmed in the accessible Cougars feeds.
+- **Friday, October 30:** CIF-SS lists the final allowable regular-season contest date for 11-player football. No additional matchup for Centennial, Corona, Santiago, Norco or Roosevelt is confirmed here. Centennial’s current freshman schedule no longer shows the previously listed Upland game, so families should not travel on that earlier listing alone.
+- **Sunday, November 1:** Football playoff brackets are due to begin appearing at 10 a.m., according to the Press-Enterprise. Check the released brackets for each school’s actual selection, opponent and venue.
+- **Monday, November 2:** The section calendar lists girls golf team divisional championships. Local qualifiers and tee times were not confirmed.
+- **Tuesday, November 3:** Norco boys water polo is listed at home against Camarillo at 5 p.m. MaxPreps identifies the campus as 2065 Temescal Avenue, Norco.
+- **Wednesday, November 4:** CIF-SS girls tennis team preliminaries begin. No school-specific pairing is confirmed here.
+- **Thursday–Saturday, November 5–7:** The section calendar lists girls volleyball finals. These dates do not establish that a local team has qualified.
+- **Friday, November 6:** Football preliminaries appear on the CIF-SS calendar; local opponents, times and sites await confirmed brackets.
 
-- **Thursday finals:** Boys varsity water polo defeated Burbank 14–9; varsity football at Murrieta Valley, 55–38 loss.
-- **Friday schedule:** No event could be verified from the accessible feeds.
+## Around the Community
 
-![Illustrative high school football game in Connecticut; this is not a Corona-area event](https://upload.wikimedia.org/wikipedia/commons/1/1d/High_School_Football_Game_at_New_Canaan_High_School%2C_CT.jpg)
+Corona/Norco AYSO Region 37 offers a practical starting point for families interested in recreational soccer. Its registration instructions direct returning families to log in and new families to create a parent account before adding a player. Available divisions and waitlists must be checked inside the registration system.
 
-*Illustrative file photo, not Thursday’s teams or venue. Photo by Redditaddict69, CC BY-SA 4.0.*
+The region says players need proof of birth date uploaded to their account. Its instructions explain that completing a waitlist entry does not guarantee a team place; families receive a later email if a spot becomes available.
 
-## Friday’s practical note
+There are ways for adults to help as well. Region 37 describes itself as entirely volunteer-run and invites families to ask about coaching and other volunteer opportunities. That is a useful option for neighbors who want to support local sports beyond the sidelines.
 
-Centennial’s freshman game is the only Friday contest verified from the available schedules. That does not establish that every other team is idle, because several lower-level and individual-event feeds remain incomplete. Families should confirm the 3:30 p.m. kickoff and any late venue change with Centennial before traveling.
+To every Corona-area athlete, coach, family and fan: we’re cheering you on with love!
 
-## SEO and export fields
+## Sources (for the editor, not for publishing)
 
-- **SEO title:** Corona High School Sports: Thursday Finals and Friday Football
-- **Meta description:** Thursday brought six football and water-polo finals. Centennial freshman football hosts Upland Friday at 3:30 p.m. in Corona.
-- **Slug:** corona-sports-briefing-october-30-2026
-- **Summary:** Centennial football and Norco water polo earned Thursday wins, while Friday’s verified schedule features Centennial freshman football against Upland.
-- **Category:** Local Sports
+Checked October 30, 2026. Football berth conclusions apply the local paper's published pregame conditions to the confirmed Thursday results; final selections await brackets. The date-by-date list includes section calendar milestones clearly distinguished from confirmed local matchups.
 
-## Reviewer coverage and gaps
-
-- **Readiness:** PARTIAL — manual review required. Friday’s available feeds show only one verified event. Lower-level and individual-event coverage remains incomplete, and Santiago’s water-polo start time changed between preview and final.
-- **Directories checked:** Corona, Centennial, Santiago and Norco school sports directories.
-- **Sports/routes checked for each school:** football (varsity, JV, freshman), girls volleyball (varsity, JV, freshman), boys water polo (varsity, JV, freshman), girls tennis, girls golf, boys and girls cross country, girls flag football, boys and girls soccer, boys and girls basketball, baseball, softball, boys golf, boys tennis, boys and girls track and field, boys and girls swimming, boys and girls wrestling, boys and girls lacrosse, field hockey, competitive cheer, girls beach volleyball, girls water polo and boys volleyball.
-- **Feed limitations:** Some routes returned no schedule, an inactive-team support page or crawl errors. Individual-event 0-0 placeholders were not treated as standings. No event or score was inferred from a missing feed.
-- **Future seasons:** Winter and spring 2026-27 routes were checked. Future dates were kept separate from Friday’s active slate.
-
-## Sources
-
-All sports sources were retrieved October 30, 2026 at approximately 6:25 a.m. PT.
-
-- [Corona sports directory](https://www.maxpreps.com/ca/corona/corona-panthers/)
-- [Corona varsity football schedule and standings](https://www.maxpreps.com/ca/corona/corona-panthers/football/26-27/schedule/)
-- [Centennial sports directory](https://www.maxpreps.com/ca/corona/centennial-huskies/)
-- [Centennial varsity football schedule and standings](https://www.maxpreps.com/ca/corona/centennial-huskies/football/26-27/schedule/)
-- [Centennial freshman football schedule](https://www.maxpreps.com/ca/corona/centennial-huskies/football/freshman/26-27/schedule/)
-- [Santiago sports directory](https://www.maxpreps.com/ca/corona/santiago-sharks/)
-- [Santiago varsity football schedule and standings](https://www.maxpreps.com/ca/corona/santiago-sharks/football/26-27/schedule/)
-- [Santiago boys water-polo schedule and standings](https://www.maxpreps.com/ca/corona/santiago-sharks/water-polo/26-27/schedule/)
-- [Norco sports directory](https://www.maxpreps.com/ca/norco/norco-cougars/)
-- [Norco varsity football schedule and standings](https://www.maxpreps.com/ca/norco/norco-cougars/football/26-27/schedule/)
-- [Norco boys water-polo schedule and standings](https://www.maxpreps.com/ca/norco/norco-cougars/water-polo/26-27/schedule/)
-
-## Image metadata and rights
-
-### Featured image and inline image 1
-
-- **Filename:** illustrative-high-school-football-fairmont.jpg
-- **Direct asset URL:** https://upload.wikimedia.org/wikipedia/commons/1/13/Public_high_school_football_game_in_Fairmont.jpg
-- **Source page:** https://commons.wikimedia.org/wiki/File:Public_high_school_football_game_in_Fairmont.jpg
-- **Creator / rights holder:** Gerry Dincher
-- **License evidence:** Creative Commons Attribution-ShareAlike 2.0 Generic; Wikimedia Commons records Flickr license review on December 14, 2022.
-- **Required credit:** “Photo by Gerry Dincher, CC BY-SA 2.0,” with source and license links.
-- **Restrictions:** Attribution required; indicate changes; adaptations must use the same or compatible license; do not imply endorsement.
-- **Intended use:** Website, newsletter, SEO/social sharing and cropping, subject to the license.
-- **Alt text:** Illustrative high school football game in North Carolina; this is not a Corona-area event.
-- **Caption:** Illustrative file photo, not Thursday’s teams or venue.
-- **Verified:** October 30, 2026.
-
-### Inline image 2
-
-- **Filename:** illustrative-football-stadium-game.jpg
-- **Direct asset URL:** https://upload.wikimedia.org/wikipedia/commons/4/49/Scott_Stadium_during_an_American_Football_game.jpg
-- **Source page:** https://commons.wikimedia.org/wiki/File:Scott_Stadium_during_an_American_Football_game.jpg
-- **Creator / rights holder:** carlinmack
-- **License evidence:** CC0 1.0 Universal Public Domain Dedication, stated by the rights holder on Wikimedia Commons.
-- **Required credit:** Credit is not legally required; editorial credit supplied as “Photo by carlinmack, CC0 1.0.”
-- **Restrictions:** Do not imply that the image shows a local team, venue or event.
-- **Intended use:** Website and newsletter, including cropping.
-- **Alt text:** Illustrative view of an American football stadium during a game; this is not a Corona-area venue.
-- **Caption:** Illustrative stadium photo, not a local venue or reported matchup.
-- **Verified:** October 30, 2026.
-
-### Inline image 3
-
-- **Filename:** illustrative-high-school-football-new-canaan.jpg
-- **Direct asset URL:** https://upload.wikimedia.org/wikipedia/commons/1/1d/High_School_Football_Game_at_New_Canaan_High_School%2C_CT.jpg
-- **Source page:** https://commons.wikimedia.org/wiki/File:High_School_Football_Game_at_New_Canaan_High_School,_CT.jpg
-- **Creator / rights holder:** Redditaddict69
-- **License evidence:** Creative Commons Attribution-ShareAlike 4.0 International, stated by the rights holder on Wikimedia Commons.
-- **Required credit:** “Photo by Redditaddict69, CC BY-SA 4.0,” with source and license links.
-- **Restrictions:** Attribution required; indicate changes; adaptations must use the same or compatible license; do not imply endorsement.
-- **Intended use:** Website and newsletter, including cropping, subject to the license.
-- **Alt text:** Illustrative high school football game in Connecticut; this is not a Corona-area event.
-- **Caption:** Illustrative file photo, not Thursday’s teams or venue.
-- **Verified:** October 30, 2026.
-
-## Final quality gate
-
-- **Draft status:** Present in front matter; no live publication authorized.
-- **Unique local value:** Four named schools, six Thursday finals, current records, league positions and one verified Friday event at a Corona campus.
-- **Opening:** Answer-first and within the first paragraph.
-- **Evidence:** Every score, record and matchup is tied to a listed source.
-- **Experience attribution:** No on-site attendance or personal observation is claimed.
-- **Featured image:** Present with documented reuse rights.
-- **Inline images:** Three Markdown embeds with rights records and honest illustrative captions.
-- **Remaining blocker:** Incomplete Friday feeds, changed Santiago water-polo timing and final Letterman image placement.
-
+- Thursday football finals: https://www.latimes.com/sports/highschool/story/2026-10-29/southland-high-school-football-scores-thursday-october-29
+- Thursday football venues: https://www.pressenterprise.com/2026/10/26/ie-varsitys-week-10-high-school-football-schedule-oct-29-31/
+- Football berth conditions and bracket release: https://www.pressenterprise.com/2026/10/27/see-which-inland-football-teams-have-secured-playoff-spots-can-clinch-berths-this-week-3/
+- Centennial varsity football: https://www.maxpreps.com/ca/corona/centennial-huskies/football/26-27/schedule/
+- Centennial freshman football; current page omits Upland: https://www.maxpreps.com/ca/corona/centennial-huskies/football/freshman/26-27/schedule/
+- Water-polo playoff results: https://www.latimes.com/sports/highschool/story/2026-10-29/high-school-boys-water-polo-playoff-results-schedule
+- Inland playoff scoreboard: https://www.pressenterprise.com/2026/10/29/ie-varsitys-cif-southern-section-playoff-scoreboard-for-thursday-oct-29/
+- Santiago water-polo venue: https://www.si.com/high-school/stats/california/water-polo/games/6917223-santiagocorona-vs-el-segundo
+- Norco water-polo results, home venue and next game: https://www.maxpreps.com/ca/norco/norco-cougars/water-polo/26-27/schedule/
+- CIF-SS sport calendar: https://cifss.org/events/
+- Winter Classic organizer: https://infomatttrevino.wixsite.com/slwinterclassic
+- AYSO Region 37 registration and volunteers: https://www.ayso37.org/Default.aspx?tabid=943429
