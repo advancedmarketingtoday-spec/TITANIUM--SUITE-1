@@ -8,7 +8,7 @@ reporting_window_start: 2026-10-30T06:30:47-07:00
 reporting_window_end: 2026-10-31T06:30:47-07:00
 generated_at: 2026-10-31T06:32:14-07:00
 readiness: "PARTIAL — ready for editorial review; publication blocked pending school-calendar recheck and cleared imagery"
-word_count: 1082
+word_count: 1069
 featured_image: null
 inline_image_count: 0
 ---
