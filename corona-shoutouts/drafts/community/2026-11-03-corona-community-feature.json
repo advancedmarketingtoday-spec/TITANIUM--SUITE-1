@@ -1,0 +1,150 @@
+{
+  "status": "draft",
+  "publication": "Corona Shoutouts",
+  "title": "Corona Heritage Park Keeps the City’s Citrus Story Within Reach",
+  "date": "2026-11-03",
+  "timezone": "America/Los_Angeles",
+  "generated_at": "2026-11-03T06:59:45-08:00",
+  "workflow": "Tuesday — Corona Local Business & Community Spotlight",
+  "subject": {
+    "name": "Corona Heritage Foundation / Corona Heritage Park & Museum",
+    "type": "501(c)(3) nonprofit and volunteer effort",
+    "address": "510 W Foothill Pkwy, Corona, CA 92882",
+    "phone": "(951) 898-0687",
+    "rating_claim_used": false,
+    "selection_note": "A documented nonprofit was selected; no consumer-rating claim is made. Recent community drafts featured Corona-Norco Settlement House, Corona Model Railroad Society and Peppermint Ridge, so this article focuses on the Foundation's broader museum, archive, gardens and volunteer work."
+  },
+  "seo_summary": "Meet the volunteers preserving Corona's citrus history through a free museum, gardens, archives and community programs.",
+  "seo_summary_length": 118,
+  "readiness": "READY FOR HUMAN REVIEW — DRAFT ONLY",
+  "publication_ready": false,
+  "publication_blockers": [
+    "Human editorial approval is required before publication.",
+    "The provided Corona Weather Hub destination could not be independently retrieved during this run and should be checked in the Letterman preview."
+  ],
+  "sources": [
+    {
+      "title": "Corona Heritage Park & Museum — Home",
+      "url": "https://www.coronaheritage.org/",
+      "retrieved_at": "2026-11-03",
+      "used_for": ["mission", "volunteer-operated setting", "regular hours", "free admission and parking", "five-acre historic site"]
+    },
+    {
+      "title": "Corona Heritage Foundation",
+      "url": "https://www.coronaheritage.org/foundation",
+      "retrieved_at": "2026-11-03",
+      "used_for": ["501(c)(3) status", "oversight role", "mission", "hours", "address and phone"]
+    },
+    {
+      "title": "The Museum — Corona Heritage Park",
+      "url": "https://www.coronaheritage.org/museum",
+      "retrieved_at": "2026-11-03",
+      "used_for": ["collection scope", "museum opening year", "Noella Benvenuti volunteer work", "Leo Kroonen exhibit"]
+    },
+    {
+      "title": "Plan Your Visit — Corona Heritage Park",
+      "url": "https://www.coronaheritage.org/visit",
+      "retrieved_at": "2026-11-03",
+      "used_for": ["museum building history", "regular hours", "garden features", "admission and parking"]
+    },
+    {
+      "title": "Get Involved — Corona Heritage Park",
+      "url": "https://www.coronaheritage.org/getinvolved",
+      "retrieved_at": "2026-11-03",
+      "used_for": ["volunteering", "community-service policy", "contact phone", "Garden Club and Arts Colony participation"]
+    },
+    {
+      "title": "Corona Heritage Garden Society",
+      "url": "https://www.coronaheritage.org/gardenclub",
+      "retrieved_at": "2026-11-03",
+      "used_for": ["meeting pattern", "membership fee", "grounds support"]
+    },
+    {
+      "title": "Non-Profit Organizations — City of Corona",
+      "url": "https://www.coronaca.gov/community/getting-involved/non-profits",
+      "retrieved_at": "2026-11-03",
+      "used_for": ["independent city corroboration", "site features", "volunteer-operated 501(c)(3) status", "hours"]
+    },
+    {
+      "title": "Donate — Corona Heritage Park",
+      "url": "https://www.coronaheritage.org/donate",
+      "retrieved_at": "2026-11-03",
+      "used_for": ["donation uses and methods"]
+    }
+  ],
+  "featured_image": {
+    "status": "rights-cleared",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/California_-_Corona_-_NARA_-_23934195.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:California_-_Corona_-_NARA_-_23934195.jpg",
+    "creator": "War Department, Army Air Forces; individual creator not identified",
+    "license": "Public domain in the United States; work of a U.S. federal government employee made as part of official duties",
+    "credit": "U.S. National Archives and Records Administration, via Wikimedia Commons",
+    "restrictions": "No known U.S. copyright restriction; retain archival context and credit.",
+    "direct_url_accessibility": "Verified retrievable on 2026-11-03",
+    "alt": "Archival aerial view of Corona California showing Grand Boulevard and surrounding agricultural land",
+    "caption": "Archival aerial view of Corona from a U.S. Army Air Forces record dated within 1917–1964."
+  },
+  "side_image": {
+    "status": "rights-cleared illustrative image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Interior_of_Citrus_Packing_House%2C_Southern_Calif_%2868331%29.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Interior_of_Citrus_Packing_House,_Southern_Calif_(68331).jpg",
+    "creator": "Tichnor Brothers, publisher",
+    "license": "Public domain in the United States; published without a copyright notice",
+    "credit": "Boston Public Library Tichnor Brothers collection, via Wikimedia Commons",
+    "restrictions": "Use as regional historical context only; the depicted facility is not identified as being in Corona.",
+    "direct_url_accessibility": "Verified retrievable on 2026-11-03",
+    "alt": "Archival illustration of workers sorting citrus inside a Southern California packing house",
+    "caption": "Illustrative Southern California citrus-packing scene, circa 1930–1945; not identified as a Corona facility."
+  },
+  "inline_images": [
+    {
+      "slot": 1,
+      "status": "inserted",
+      "role": "featured image",
+      "rights_evidence": "Public-domain U.S. Army Air Forces work; source and direct image URL documented."
+    },
+    {
+      "slot": 2,
+      "status": "inserted",
+      "role": "side image",
+      "rights_evidence": "Public-domain Tichnor Brothers image; source and direct image URL documented."
+    }
+  ],
+  "counts": {
+    "word_count": 636,
+    "h1_count": 1,
+    "h2_count": 4,
+    "section_count": 3,
+    "figure_count": 2,
+    "inline_photo_count": 2,
+    "photo_placeholder_count": 0,
+    "featured_image_count": 1
+  },
+  "link_verification": [
+    {
+      "label": "Corona Weather Hub",
+      "href": "/a/corona-weather",
+      "status": "provided destination retained; independent retrieval unavailable",
+      "checked_at": "2026-11-03"
+    },
+    {
+      "label": "Corona prep sports briefings",
+      "href": "/articles/prep-sports-roundup",
+      "status": "verified published category index",
+      "verified_url": "https://coronashoutouts.com/articles/prep-sports-roundup",
+      "checked_at": "2026-11-03"
+    }
+  ],
+  "remaining_gaps": [
+    "Human editor must approve the draft before any Letterman publication action.",
+    "Confirm the Weather Hub route resolves in the current Letterman site preview.",
+    "The second image is regional historical context rather than a photograph of Corona Heritage Park; its caption identifies that limitation."
+  ],
+  "handoff": {
+    "destination": "GitHub repository handoff for Hermes/OpenClaw/Letterman consumption",
+    "letterman_direct_delivery": false,
+    "newsletter_sent": false,
+    "site_published": false,
+    "status_guarantee": "draft"
+  }
+}
