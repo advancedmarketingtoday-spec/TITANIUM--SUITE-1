@@ -1,0 +1,198 @@
+{
+  "status": "draft",
+  "publication": "Corona Shoutouts",
+  "title": "Corona Weekend Planner: Cars, Community Service, Theater and Dos Lagos Music",
+  "date": "2026-11-05",
+  "timezone": "America/Los_Angeles",
+  "generated_at": "2026-11-05T07:06:08-08:00",
+  "coverage_window": {
+    "start": "2026-11-06",
+    "end": "2026-11-08",
+    "timezone": "America/Los_Angeles"
+  },
+  "workflow": "Thursday — Dos Lagos & Corona Weekend Planner",
+  "seo_summary": "Plan Corona's November 6–8 weekend with a free car show, family theater, park volunteering and a Dos Lagos concert.",
+  "seo_summary_length": 120,
+  "readiness": "READY FOR HUMAN REVIEW — DRAFT ONLY",
+  "publication_ready": false,
+  "publication_blockers": [
+    "Human editorial approval is required before publication.",
+    "The provided Corona Weather Hub route could not be independently retrieved during this run and should be checked in the Letterman preview."
+  ],
+  "activities": [
+    {
+      "name": "Brentwood Park Planting and Cleanup",
+      "date": "2026-11-07",
+      "time_pt": "Volunteer check-in 7:30 AM; event 8:00–10:00 AM",
+      "address": "1646 Dawn Ridge Dr, Corona, CA 92882",
+      "admission": "Free",
+      "registration": "Posted registration window closed November 4 at 5:00 PM; unregistered residents should call before attending.",
+      "age_access": "All ages; teens must be at least 14 to volunteer without a parent; participants under 18 need a parent-signed waiver.",
+      "availability_note": "Event remains listed, but walk-up access is not promised."
+    },
+    {
+      "name": "5th Annual Veterans Day Classic Car Show",
+      "date": "2026-11-07",
+      "time_pt": "10:00 AM–1:00 PM",
+      "address": "Crossings at Corona, 2470 Tuscany St, Corona, CA 92881",
+      "admission": "Free spectator admission",
+      "registration": "No spectator registration listed",
+      "age_access": "No spectator age restriction listed",
+      "availability_note": "Current organizer and Corona Chamber listings remain active."
+    },
+    {
+      "name": "CAT Corona fall productions",
+      "date": "2026-11-06 through 2026-11-08",
+      "time_pt": "Annie Jr.: Fri 7:00 PM, Sat 11:00 AM, Sun 2:00 PM; Singin' in the Rain: Sat 2:00 PM and 7:00 PM",
+      "address": "Christian Arts & Theatre, 815 W Sixth St, Suite 110, Corona, CA 92882",
+      "admission": "$22 or $26 plus $2 service fee",
+      "registration": "Ticket required; use official CAT purchase link",
+      "age_access": "No separate audience age restriction published on the season page",
+      "availability_note": "Performance schedule is published; live seat count was not available in the accessible page."
+    },
+    {
+      "name": "Rock With You: The Michael Jackson Experience",
+      "date": "2026-11-07",
+      "time_pt": "Doors 6:00 PM; show 7:30 PM",
+      "address": "Dos Lagos Entertainment Center & Amphitheater, 2755 Lakeshore Dr, Corona, CA 92883",
+      "admission": "Paid reserved assigned seating; current prices shown by official ticket provider",
+      "registration": "Ticket required",
+      "age_access": "No age restriction published on the event or accessible ticket page",
+      "availability_note": "Ticket page was active; remaining seat count was not published in accessible text."
+    }
+  ],
+  "coverage_gaps": [
+    "No separately scheduled Corona Public Library program for November 6–8 was located in the public calendar. Regular Saturday building hours are identified as an amenity, not an event.",
+    "The CAT season page does not publish a live seat count or separate audience age restriction.",
+    "The Dos Lagos ticket page does not expose current prices, remaining seat count or an age restriction in accessible text.",
+    "Walk-up participation is not confirmed for the Brentwood Park cleanup because the posted registration window ended November 4."
+  ],
+  "sources": [
+    {
+      "title": "Rock With You: The Michael Jackson Experience — The Shops at Dos Lagos",
+      "url": "https://shopdoslagos.com/event/rock-with-you-the-michael-jackson-experience-november-7/",
+      "retrieved_at": "2026-11-05",
+      "used_for": ["date", "doors and show times", "venue address", "seating restrictions", "parking"]
+    },
+    {
+      "title": "Rock With You — Dos Lagos Tickets",
+      "url": "https://dltickets.com/events/rock-with-you-the-michael-jackson-experience/",
+      "retrieved_at": "2026-11-05",
+      "used_for": ["active official ticket destination", "show time"]
+    },
+    {
+      "title": "Brentwood Park Planting and Cleanup — City of Corona",
+      "url": "https://community.coronaca.gov/coronaca_recreation/260112146",
+      "retrieved_at": "2026-11-05",
+      "used_for": ["date", "times", "address", "registration window", "clothing", "provided supplies", "age and waiver rules", "contact phone"]
+    },
+    {
+      "title": "Veteran's Day Classic Car Show at Crossings at Corona — Corona Chamber of Commerce",
+      "url": "https://coronachamberofcommerce.growthzoneapp.com/community-calendar/Details/veteran-s-day-classic-car-show-at-crossings-at-corona-1885533?sourceTypeId=Website",
+      "retrieved_at": "2026-11-05",
+      "used_for": ["date", "time", "address", "free spectator admission", "family activities"]
+    },
+    {
+      "title": "Our Season — Christian Arts & Theatre",
+      "url": "https://www.catcorona.org/ourseason",
+      "retrieved_at": "2026-11-05",
+      "used_for": ["production dates", "show times", "ticket prices", "service fee"]
+    },
+    {
+      "title": "Contact — Christian Arts & Theatre",
+      "url": "https://www.catcorona.org/contact",
+      "retrieved_at": "2026-11-05",
+      "used_for": ["address", "phone"]
+    },
+    {
+      "title": "Corona Public Library Calendar",
+      "url": "https://coronacalibrary.libcal.com/calendar?cid=21349",
+      "retrieved_at": "2026-11-05",
+      "used_for": ["weekend program check"]
+    },
+    {
+      "title": "Library On the Go — City of Corona",
+      "url": "https://www.coronaca.gov/departments/library/community-engagement/on-the-go",
+      "retrieved_at": "2026-11-05",
+      "used_for": ["library address", "regular Saturday and Sunday hours", "program cancellation guidance"]
+    }
+  ],
+  "featured_image": {
+    "status": "rights-cleared",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/CoronaCA.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:CoronaCA.jpg",
+    "creator": "FredBren",
+    "license": "Public domain dedication by the copyright holder",
+    "credit": "FredBren, via Wikimedia Commons",
+    "restrictions": "Use as illustrative city context; the photograph does not depict the listed weekend events.",
+    "direct_url_accessibility": "Verified retrievable on 2026-11-05",
+    "alt": "Wide view of Corona California with the 91 and 15 freeway interchange and mountains in the distance",
+    "caption": "Illustrative city view of Corona in December 2008, looking north-northwest across the 91 and 15 interchange."
+  },
+  "side_image": {
+    "status": "rights-cleared illustrative image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Fender_Center_for_the_Performing_Arts%2C_Corona%2C_California.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Fender_Center_for_the_Performing_Arts,_Corona,_California.jpg",
+    "creator": "miheco",
+    "license": "Creative Commons Attribution-ShareAlike 2.0 Generic",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "credit": "miheco, CC BY-SA 2.0, via Wikimedia Commons",
+    "restrictions": "Attribution and ShareAlike required. Use unmodified as Corona performing-arts context; it is not the CAT venue or Dos Lagos Amphitheater.",
+    "direct_url_accessibility": "Verified retrievable on 2026-11-05",
+    "alt": "Exterior of a performing arts building in Corona California under a clear summer sky",
+    "caption": "Illustrative 2007 view of Corona's Fender Center for the Performing Arts; not the CAT venue or Dos Lagos Amphitheater."
+  },
+  "inline_images": [
+    {
+      "slot": 1,
+      "status": "inserted",
+      "role": "featured image",
+      "rights_evidence": "Wikimedia source page records the creator's public-domain dedication; direct image URL verified."
+    },
+    {
+      "slot": 2,
+      "status": "inserted",
+      "role": "side image",
+      "rights_evidence": "Wikimedia source page records CC BY-SA 2.0 licensing; credit and contextual limitation are included."
+    }
+  ],
+  "counts": {
+    "word_count": 655,
+    "activity_count": 4,
+    "h1_count": 1,
+    "h2_count": 4,
+    "section_count": 3,
+    "figure_count": 2,
+    "inline_photo_count": 2,
+    "photo_placeholder_count": 0,
+    "featured_image_count": 1
+  },
+  "link_verification": [
+    {
+      "label": "Corona Weather Hub",
+      "href": "/a/corona-weather",
+      "status": "provided destination retained; independent retrieval unavailable",
+      "checked_at": "2026-11-05"
+    },
+    {
+      "label": "Corona prep sports briefings",
+      "href": "/articles/prep-sports-roundup",
+      "status": "verified published category index",
+      "verified_url": "https://coronashoutouts.com/articles/prep-sports-roundup",
+      "checked_at": "2026-11-05"
+    }
+  ],
+  "remaining_gaps": [
+    "Human editor must approve the draft before publication.",
+    "Confirm the Weather Hub route resolves in the current Letterman preview.",
+    "Recheck event and ticket pages before publication for cancellations, sellouts or schedule changes.",
+    "The two licensed images are honest illustrative Corona context and do not depict the listed events."
+  ],
+  "handoff": {
+    "destination": "GitHub repository handoff for Hermes/OpenClaw/Letterman consumption",
+    "letterman_direct_delivery": false,
+    "newsletter_sent": false,
+    "site_published": false,
+    "status_guarantee": "draft"
+  }
+}
