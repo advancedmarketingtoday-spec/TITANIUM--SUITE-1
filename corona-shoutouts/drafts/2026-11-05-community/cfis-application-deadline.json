@@ -1,0 +1,33 @@
+{
+  "title": "Corona Families: CFIS Applications Are Due November 20 at 3 P.M.",
+  "subtitle": "A friendly deadline reminder for incoming seventh graders applying for the 2027\u201328 school year.",
+  "status": "draft",
+  "date": "2026-11-05",
+  "author": "Corona Shoutouts",
+  "slug": "cfis-application-deadline-november-20-2026",
+  "category": "Events Community",
+  "seo_title": "CFIS Applications Due Nov. 20, 2026, at 3 P.M.",
+  "meta_description": "CFIS applications for incoming seventh graders in 2027\u201328 are due Nov. 20, 2026, at 3 p.m. Find the official application and family checklist.",
+  "featured_image": "images/cfis-hero.jpg",
+  "body_word_count": 1016,
+  "word_count_method": "Whitespace-delimited article body including H2 text; excludes headline, captions, metadata, sources, and editor notes.",
+  "markdown_file": "cfis-application-deadline.md",
+  "html_file": "cfis-application-deadline.html",
+  "image_count": 2,
+  "images": [
+    {
+      "path": "images/cfis-hero.jpg",
+      "alt": "Illustration of a parent and child reviewing a school application at home",
+      "type": "AI-generated editorial illustration",
+      "credit": "Original AI-generated illustration for Corona Shoutouts; not documentary photography."
+    },
+    {
+      "path": "images/cfis-inline.jpg",
+      "alt": "Illustration of a backpack, blank planner, pencils, and clock on a study desk",
+      "type": "AI-generated editorial illustration",
+      "credit": "Original AI-generated illustration for Corona Shoutouts; not documentary photography."
+    }
+  ],
+  "verified_on": "2026-11-05",
+  "requires_publish_approval": true
+}

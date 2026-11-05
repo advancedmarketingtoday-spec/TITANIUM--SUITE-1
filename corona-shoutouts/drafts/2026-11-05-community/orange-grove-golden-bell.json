@@ -1,0 +1,33 @@
+{
+  "title": "Orange Grove High Earns Golden Bell for Lead to Empower Mentoring",
+  "subtitle": "A November 4 district announcement celebrates students, staff, and mentors helping young men grow as leaders.",
+  "status": "draft",
+  "date": "2026-11-05",
+  "author": "Corona Shoutouts",
+  "slug": "orange-grove-high-golden-bell-lead-to-empower-2026",
+  "category": "Hometown Heroes",
+  "seo_title": "Orange Grove High Wins Golden Bell for Mentoring",
+  "meta_description": "Orange Grove High's Lead to Empower mentoring program earns a Golden Bell Award, celebrating student leadership, service, and community.",
+  "featured_image": "images/mentoring-hero.jpg",
+  "body_word_count": 1001,
+  "word_count_method": "Whitespace-delimited article body including H2 text; excludes headline, captions, metadata, sources, and editor notes.",
+  "markdown_file": "orange-grove-golden-bell.md",
+  "html_file": "orange-grove-golden-bell.html",
+  "image_count": 2,
+  "images": [
+    {
+      "path": "images/mentoring-hero.jpg",
+      "alt": "Illustration of fictional students working with a mentor around a classroom table",
+      "type": "AI-generated editorial illustration",
+      "credit": "Original AI-generated illustration for Corona Shoutouts; not documentary photography."
+    },
+    {
+      "path": "images/mentoring-inline.jpg",
+      "alt": "Illustration of hands working together to plant a sapling",
+      "type": "AI-generated editorial illustration",
+      "credit": "Original AI-generated illustration for Corona Shoutouts; not documentary photography."
+    }
+  ],
+  "verified_on": "2026-11-05",
+  "requires_publish_approval": true
+}

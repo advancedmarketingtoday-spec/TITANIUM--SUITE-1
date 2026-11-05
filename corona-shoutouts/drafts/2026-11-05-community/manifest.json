@@ -1,0 +1,139 @@
+{
+  "status": "draft",
+  "publication": "Corona Shoutouts",
+  "created": "2026-11-05",
+  "articles": [
+    {
+      "title": "Corona Families: CFIS Applications Are Due November 20 at 3 P.M.",
+      "subtitle": "A friendly deadline reminder for incoming seventh graders applying for the 2027\u201328 school year.",
+      "status": "draft",
+      "date": "2026-11-05",
+      "author": "Corona Shoutouts",
+      "slug": "cfis-application-deadline-november-20-2026",
+      "category": "Events Community",
+      "seo_title": "CFIS Applications Due Nov. 20, 2026, at 3 P.M.",
+      "meta_description": "CFIS applications for incoming seventh graders in 2027\u201328 are due Nov. 20, 2026, at 3 p.m. Find the official application and family checklist.",
+      "featured_image": "images/cfis-hero.jpg",
+      "body_word_count": 1016,
+      "word_count_method": "Whitespace-delimited article body including H2 text; excludes headline, captions, metadata, sources, and editor notes.",
+      "markdown_file": "cfis-application-deadline.md",
+      "html_file": "cfis-application-deadline.html",
+      "image_count": 2,
+      "images": [
+        {
+          "path": "images/cfis-hero.jpg",
+          "alt": "Illustration of a parent and child reviewing a school application at home",
+          "type": "AI-generated editorial illustration",
+          "credit": "Original AI-generated illustration for Corona Shoutouts; not documentary photography."
+        },
+        {
+          "path": "images/cfis-inline.jpg",
+          "alt": "Illustration of a backpack, blank planner, pencils, and clock on a study desk",
+          "type": "AI-generated editorial illustration",
+          "credit": "Original AI-generated illustration for Corona Shoutouts; not documentary photography."
+        }
+      ],
+      "verified_on": "2026-11-05",
+      "requires_publish_approval": true
+    },
+    {
+      "title": "Corona Cookie Season Heads-Up: Training November 24, Booths February 5",
+      "subtitle": "The San Gorgonio Council's 2027 timeline gives local families and volunteers time to prepare.",
+      "status": "draft",
+      "date": "2026-11-05",
+      "author": "Corona Shoutouts",
+      "slug": "corona-girl-scout-cookies-2027-training-booth-dates",
+      "category": "Youth Sports & Leagues",
+      "seo_title": "Corona Girl Scout Cookies 2027: Training & Booth Dates",
+      "meta_description": "Girl Scout cookie coordinator training opens Nov. 24, 2026. San Gorgonio booth sales begin Feb. 5, 2027. See key dates and preparation tips.",
+      "featured_image": "images/cookies-hero.jpg",
+      "body_word_count": 1018,
+      "word_count_method": "Whitespace-delimited article body including H2 text; excludes headline, captions, metadata, sources, and editor notes.",
+      "markdown_file": "girl-scout-cookie-season.md",
+      "html_file": "girl-scout-cookie-season.html",
+      "image_count": 2,
+      "images": [
+        {
+          "path": "images/cookies-hero.jpg",
+          "alt": "Illustration of generic cookies, a notebook, and calculator on a table",
+          "type": "AI-generated editorial illustration",
+          "credit": "Original AI-generated illustration for Corona Shoutouts; not documentary photography."
+        },
+        {
+          "path": "images/cookies-inline.jpg",
+          "alt": "Illustration of an unstaffed cookie table with plain boxes and a notebook",
+          "type": "AI-generated editorial illustration",
+          "credit": "Original AI-generated illustration for Corona Shoutouts; not documentary photography."
+        }
+      ],
+      "verified_on": "2026-11-05",
+      "requires_publish_approval": true
+    },
+    {
+      "title": "Orange Grove High Earns Golden Bell for Lead to Empower Mentoring",
+      "subtitle": "A November 4 district announcement celebrates students, staff, and mentors helping young men grow as leaders.",
+      "status": "draft",
+      "date": "2026-11-05",
+      "author": "Corona Shoutouts",
+      "slug": "orange-grove-high-golden-bell-lead-to-empower-2026",
+      "category": "Hometown Heroes",
+      "seo_title": "Orange Grove High Wins Golden Bell for Mentoring",
+      "meta_description": "Orange Grove High's Lead to Empower mentoring program earns a Golden Bell Award, celebrating student leadership, service, and community.",
+      "featured_image": "images/mentoring-hero.jpg",
+      "body_word_count": 1001,
+      "word_count_method": "Whitespace-delimited article body including H2 text; excludes headline, captions, metadata, sources, and editor notes.",
+      "markdown_file": "orange-grove-golden-bell.md",
+      "html_file": "orange-grove-golden-bell.html",
+      "image_count": 2,
+      "images": [
+        {
+          "path": "images/mentoring-hero.jpg",
+          "alt": "Illustration of fictional students working with a mentor around a classroom table",
+          "type": "AI-generated editorial illustration",
+          "credit": "Original AI-generated illustration for Corona Shoutouts; not documentary photography."
+        },
+        {
+          "path": "images/mentoring-inline.jpg",
+          "alt": "Illustration of hands working together to plant a sapling",
+          "type": "AI-generated editorial illustration",
+          "credit": "Original AI-generated illustration for Corona Shoutouts; not documentary photography."
+        }
+      ],
+      "verified_on": "2026-11-05",
+      "requires_publish_approval": true
+    },
+    {
+      "title": "Corona Scout Families: Webelos Woods This Weekend, Archery November 14",
+      "subtitle": "A practical November reminder for registered families, with a welcoming starting point for neighbors ready to join.",
+      "status": "draft",
+      "date": "2026-11-05",
+      "author": "Corona Shoutouts",
+      "slug": "corona-scouts-webelos-woods-archery-november-2026",
+      "category": "Youth Sports & Leagues",
+      "seo_title": "Corona Scouts: Webelos Woods & November Archery Day",
+      "meta_description": "Webelos Woods runs Nov. 6\u20138, and Cub Scout Archery Day is Nov. 14. Check registration details and explore Corona Scout joining guides.",
+      "featured_image": "images/scouting-hero.jpg",
+      "body_word_count": 1014,
+      "word_count_method": "Whitespace-delimited article body including H2 text; excludes headline, captions, metadata, sources, and editor notes.",
+      "markdown_file": "scouting-weekend-reminder.md",
+      "html_file": "scouting-weekend-reminder.html",
+      "image_count": 2,
+      "images": [
+        {
+          "path": "images/scouting-hero.jpg",
+          "alt": "Illustration of tents and backpacks at an autumn mountain campsite",
+          "type": "AI-generated editorial illustration",
+          "credit": "Original AI-generated illustration for Corona Shoutouts; not documentary photography."
+        },
+        {
+          "path": "images/scouting-inline.jpg",
+          "alt": "Illustration of a target and equipment at an empty outdoor archery range",
+          "type": "AI-generated editorial illustration",
+          "credit": "Original AI-generated illustration for Corona Shoutouts; not documentary photography."
+        }
+      ],
+      "verified_on": "2026-11-05",
+      "requires_publish_approval": true
+    }
+  ]
+}

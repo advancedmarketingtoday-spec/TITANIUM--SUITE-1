@@ -1,0 +1,33 @@
+{
+  "title": "Corona Scout Families: Webelos Woods This Weekend, Archery November 14",
+  "subtitle": "A practical November reminder for registered families, with a welcoming starting point for neighbors ready to join.",
+  "status": "draft",
+  "date": "2026-11-05",
+  "author": "Corona Shoutouts",
+  "slug": "corona-scouts-webelos-woods-archery-november-2026",
+  "category": "Youth Sports & Leagues",
+  "seo_title": "Corona Scouts: Webelos Woods & November Archery Day",
+  "meta_description": "Webelos Woods runs Nov. 6\u20138, and Cub Scout Archery Day is Nov. 14. Check registration details and explore Corona Scout joining guides.",
+  "featured_image": "images/scouting-hero.jpg",
+  "body_word_count": 1014,
+  "word_count_method": "Whitespace-delimited article body including H2 text; excludes headline, captions, metadata, sources, and editor notes.",
+  "markdown_file": "scouting-weekend-reminder.md",
+  "html_file": "scouting-weekend-reminder.html",
+  "image_count": 2,
+  "images": [
+    {
+      "path": "images/scouting-hero.jpg",
+      "alt": "Illustration of tents and backpacks at an autumn mountain campsite",
+      "type": "AI-generated editorial illustration",
+      "credit": "Original AI-generated illustration for Corona Shoutouts; not documentary photography."
+    },
+    {
+      "path": "images/scouting-inline.jpg",
+      "alt": "Illustration of a target and equipment at an empty outdoor archery range",
+      "type": "AI-generated editorial illustration",
+      "credit": "Original AI-generated illustration for Corona Shoutouts; not documentary photography."
+    }
+  ],
+  "verified_on": "2026-11-05",
+  "requires_publish_approval": true
+}

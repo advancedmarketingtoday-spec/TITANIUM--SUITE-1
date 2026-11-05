@@ -1,0 +1,33 @@
+{
+  "title": "Corona Cookie Season Heads-Up: Training November 24, Booths February 5",
+  "subtitle": "The San Gorgonio Council's 2027 timeline gives local families and volunteers time to prepare.",
+  "status": "draft",
+  "date": "2026-11-05",
+  "author": "Corona Shoutouts",
+  "slug": "corona-girl-scout-cookies-2027-training-booth-dates",
+  "category": "Youth Sports & Leagues",
+  "seo_title": "Corona Girl Scout Cookies 2027: Training & Booth Dates",
+  "meta_description": "Girl Scout cookie coordinator training opens Nov. 24, 2026. San Gorgonio booth sales begin Feb. 5, 2027. See key dates and preparation tips.",
+  "featured_image": "images/cookies-hero.jpg",
+  "body_word_count": 1018,
+  "word_count_method": "Whitespace-delimited article body including H2 text; excludes headline, captions, metadata, sources, and editor notes.",
+  "markdown_file": "girl-scout-cookie-season.md",
+  "html_file": "girl-scout-cookie-season.html",
+  "image_count": 2,
+  "images": [
+    {
+      "path": "images/cookies-hero.jpg",
+      "alt": "Illustration of generic cookies, a notebook, and calculator on a table",
+      "type": "AI-generated editorial illustration",
+      "credit": "Original AI-generated illustration for Corona Shoutouts; not documentary photography."
+    },
+    {
+      "path": "images/cookies-inline.jpg",
+      "alt": "Illustration of an unstaffed cookie table with plain boxes and a notebook",
+      "type": "AI-generated editorial illustration",
+      "credit": "Original AI-generated illustration for Corona Shoutouts; not documentary photography."
+    }
+  ],
+  "verified_on": "2026-11-05",
+  "requires_publish_approval": true
+}

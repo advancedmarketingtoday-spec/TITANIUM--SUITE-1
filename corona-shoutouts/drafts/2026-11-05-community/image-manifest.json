@@ -1,0 +1,58 @@
+[
+  {
+    "file": "images/scouting-hero.jpg",
+    "prompt": "Wide editorial illustration, warm hand-painted watercolor with realistic detail: peaceful pine forest campsite with two small tents, neatly arranged backpacks and a wooden picnic table in Southern California mountains in autumn. No people, no text, no logos. Landscape banner for a community scouting reminder. This is a conceptual illustration, not a real event photograph.",
+    "generation_method": "built-in image_gen",
+    "delivery_format": "JPEG, encoded at quality 88; visual content unchanged",
+    "sha256": "13ae9ca09f930662a181f5a0ee2e891f28344d16e35aff033d1a4c4f6b9b0c6c"
+  },
+  {
+    "file": "images/scouting-inline.jpg",
+    "prompt": "Wide editorial watercolor illustration of a youth archery target on a safe empty outdoor range, a simple unstrung recurve bow and quiver neatly resting on a bench in foreground, no people, no arrows flying, no logos, no text. Sunny friendly atmosphere, landscape blog image.",
+    "generation_method": "built-in image_gen",
+    "delivery_format": "JPEG, encoded at quality 88; visual content unchanged",
+    "sha256": "762f949370c4579ef9ba81b5ce690ff3cf99ad50239fbc517a8afa30d822fbbc"
+  },
+  {
+    "file": "images/mentoring-hero.jpg",
+    "prompt": "Warm editorial watercolor illustration of a small diverse group of teenage boys and an adult male mentor seated around a classroom table collaborating on notebooks. Generic fictional people and generic classroom, not a real school. Respectful encouraging mood, natural daylight, landscape banner. No text, no logos, no award trophies.",
+    "generation_method": "built-in image_gen",
+    "delivery_format": "JPEG, encoded at quality 88; visual content unchanged",
+    "sha256": "61112d3384a34f9a6bb87b7abbd4c08bd15a7cfc3748755ac97f99b4b24157de"
+  },
+  {
+    "file": "images/mentoring-inline.jpg",
+    "prompt": "Warm detailed watercolor editorial illustration of several hands planting a young sapling together in a school garden, sleeves and gardening gloves, faces outside frame, hopeful community service theme. Generic setting, no actual school identity. Landscape composition, no text, no logos.",
+    "generation_method": "built-in image_gen",
+    "delivery_format": "JPEG, encoded at quality 88; visual content unchanged",
+    "sha256": "cf6e760c88ec3095a73bfb86f94c516eee9712cab0a79d86a6499d1e8d5722ab"
+  },
+  {
+    "file": "images/cookies-hero.jpg",
+    "prompt": "Beautiful warm editorial watercolor still life of assorted generic chocolate mint cookies and plain shortbread cookies on a ceramic plate beside a blank notebook and simple calculator on a kitchen table. Preparation for a youth cookie fundraiser, landscape banner, no branding, no boxes, no text, no logos.",
+    "generation_method": "built-in image_gen",
+    "delivery_format": "JPEG, encoded at quality 88; visual content unchanged",
+    "sha256": "f46c2751ef5fc422014b1051c4aad5562a3af663f2cfae6b8b7b4e302a8da755"
+  },
+  {
+    "file": "images/cookies-inline.jpg",
+    "prompt": "Welcoming editorial watercolor illustration of a small generic community cookie booth with a neutral green tablecloth, plain unmarked cookie boxes, a closed cash pouch and a notebook, no people, no price signs, no wording or logos. Soft sunny outdoor light, landscape blog image, illustrative not real location.",
+    "generation_method": "built-in image_gen",
+    "delivery_format": "JPEG, encoded at quality 88; visual content unchanged",
+    "sha256": "30b6ce7f5c445c4fd247f010a7eb7497f2b58568ccd26271e7fa8ac88cdd86e1"
+  },
+  {
+    "file": "images/cfis-hero.jpg",
+    "prompt": "Warm editorial watercolor illustration of parent and middle-school age child sitting together reviewing a generic blank application on a laptop at home with notebooks nearby. Friendly Southern California daylight. Fictional people, screen has no readable text, no logos, no school buildings. Landscape blog banner.",
+    "generation_method": "built-in image_gen",
+    "delivery_format": "JPEG, encoded at quality 88; visual content unchanged",
+    "sha256": "eaba2b4c3cb95b4ebef3628986713db7f08960b64ab2a524ab9b46d48b11daec"
+  },
+  {
+    "file": "images/cfis-inline.jpg",
+    "prompt": "Detailed warm watercolor still life of a backpack, pencils, open planner with blank unnumbered pages and a small analog clock on a home study desk. Calm organized feeling for a school application reminder. No text, no dates, no logos. Wide landscape editorial illustration.",
+    "generation_method": "built-in image_gen",
+    "delivery_format": "JPEG, encoded at quality 88; visual content unchanged",
+    "sha256": "318f2e15ef59360de58fd77ceda1f4a2a9bf5bea6f06c206117574ad0448cd0b"
+  }
+]
