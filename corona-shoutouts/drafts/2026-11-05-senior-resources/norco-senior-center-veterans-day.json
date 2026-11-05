@@ -1,0 +1,33 @@
+{
+  "title": "Norco With Care: Senior Center Connections and a Veterans Day Invitation",
+  "subtitle": "Classes, meals, a community garden, and a November 11 gathering offer several ways to take part.",
+  "status": "draft",
+  "date": "2026-11-05",
+  "author": "Corona Shoutouts",
+  "slug": "norco-senior-center-veterans-day-november-2026",
+  "category": "Events Community",
+  "seo_title": "Norco Senior Center & Veterans Day Guide 2026",
+  "meta_description": "Explore Norco's Rose M. Eldridge Senior Center, classes, meals, garden, transportation, and the free November 11 Veterans Day gathering.",
+  "featured_image": "images/norco-hero.jpg",
+  "body_word_count": 1007,
+  "word_count_method": "Whitespace-delimited article body including H2 text; excludes headline, captions, metadata, sources, and editor notes.",
+  "markdown_file": "norco-senior-center-veterans-day.md",
+  "html_file": "norco-senior-center-veterans-day.html",
+  "image_count": 2,
+  "images": [
+    {
+      "path": "images/norco-hero.jpg",
+      "alt": "Illustration of older adults tending vegetables in a community garden",
+      "type": "AI-generated editorial illustration",
+      "credit": "Original AI-generated illustration for Corona Shoutouts; not documentary photography."
+    },
+    {
+      "path": "images/norco-inline.jpg",
+      "alt": "Illustration of a community picnic with older adults, families, and a flag in the background",
+      "type": "AI-generated editorial illustration",
+      "credit": "Original AI-generated illustration for Corona Shoutouts; not documentary photography."
+    }
+  ],
+  "verified_on": "2026-11-05",
+  "requires_publish_approval": true
+}

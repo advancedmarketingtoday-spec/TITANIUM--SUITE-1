@@ -1,0 +1,172 @@
+{
+  "status": "draft",
+  "publication": "Corona Shoutouts",
+  "created": "2026-11-05",
+  "articles": [
+    {
+      "title": "A Place to Begin: Lunch, Learning, and Friendship at Corona Senior Center",
+      "subtitle": "What to know before a first visit, including meal eligibility, suggested donations, and how to ask about November activities.",
+      "status": "draft",
+      "date": "2026-11-05",
+      "author": "Corona Shoutouts",
+      "slug": "corona-senior-center-lunch-activities-first-visit",
+      "category": "Events Community",
+      "seo_title": "Corona Senior Center: Lunch, Activities & First Visits",
+      "meta_description": "Plan a welcoming first visit to Corona Senior Center. Find lunch details, membership information, free talks, and the correct facility contact.",
+      "featured_image": "images/senior-center-hero.jpg",
+      "body_word_count": 1009,
+      "word_count_method": "Whitespace-delimited article body including H2 text; excludes headline, captions, metadata, sources, and editor notes.",
+      "markdown_file": "corona-senior-center-guide.md",
+      "html_file": "corona-senior-center-guide.html",
+      "image_count": 2,
+      "images": [
+        {
+          "path": "images/senior-center-hero.jpg",
+          "alt": "Illustration of older adults enjoying lunch at a welcoming community table",
+          "type": "AI-generated editorial illustration",
+          "credit": "Original AI-generated illustration for Corona Shoutouts; not documentary photography."
+        },
+        {
+          "path": "images/senior-center-inline.jpg",
+          "alt": "Illustration of two older friends making paper flowers and sharing craft materials",
+          "type": "AI-generated editorial illustration",
+          "credit": "Original AI-generated illustration for Corona Shoutouts; not documentary photography."
+        }
+      ],
+      "verified_on": "2026-11-05",
+      "requires_publish_approval": true
+    },
+    {
+      "title": "Technology at Your Pace: Corona Library's November Learning Opportunities",
+      "subtitle": "Phone privacy, beginner computer skills, and a respectful approach to asking questions and building confidence.",
+      "status": "draft",
+      "date": "2026-11-05",
+      "author": "Corona Shoutouts",
+      "slug": "corona-library-phone-privacy-computer-skills-november-2026",
+      "category": "Events Community",
+      "seo_title": "Corona Library: Phone Privacy & Beginner Computer Skills",
+      "meta_description": "Explore Corona Library's Nov. 14 phone privacy workshop and Thursday beginner computer course, with registration contacts and preparation tips.",
+      "featured_image": "images/library-tech-hero.jpg",
+      "body_word_count": 1001,
+      "word_count_method": "Whitespace-delimited article body including H2 text; excludes headline, captions, metadata, sources, and editor notes.",
+      "markdown_file": "library-technology-learning.md",
+      "html_file": "library-technology-learning.html",
+      "image_count": 2,
+      "images": [
+        {
+          "path": "images/library-tech-hero.jpg",
+          "alt": "Illustration of an older learner operating a laptop with an instructor beside her",
+          "type": "AI-generated editorial illustration",
+          "credit": "Original AI-generated illustration for Corona Shoutouts; not documentary photography."
+        },
+        {
+          "path": "images/library-tech-inline.jpg",
+          "alt": "Illustration of older adult hands holding a smartphone beside a notebook",
+          "type": "AI-generated editorial illustration",
+          "credit": "Original AI-generated illustration for Corona Shoutouts; not documentary photography."
+        }
+      ],
+      "verified_on": "2026-11-05",
+      "requires_publish_approval": true
+    },
+    {
+      "title": "Norco With Care: Senior Center Connections and a Veterans Day Invitation",
+      "subtitle": "Classes, meals, a community garden, and a November 11 gathering offer several ways to take part.",
+      "status": "draft",
+      "date": "2026-11-05",
+      "author": "Corona Shoutouts",
+      "slug": "norco-senior-center-veterans-day-november-2026",
+      "category": "Events Community",
+      "seo_title": "Norco Senior Center & Veterans Day Guide 2026",
+      "meta_description": "Explore Norco's Rose M. Eldridge Senior Center, classes, meals, garden, transportation, and the free November 11 Veterans Day gathering.",
+      "featured_image": "images/norco-hero.jpg",
+      "body_word_count": 1007,
+      "word_count_method": "Whitespace-delimited article body including H2 text; excludes headline, captions, metadata, sources, and editor notes.",
+      "markdown_file": "norco-senior-center-veterans-day.md",
+      "html_file": "norco-senior-center-veterans-day.html",
+      "image_count": 2,
+      "images": [
+        {
+          "path": "images/norco-hero.jpg",
+          "alt": "Illustration of older adults tending vegetables in a community garden",
+          "type": "AI-generated editorial illustration",
+          "credit": "Original AI-generated illustration for Corona Shoutouts; not documentary photography."
+        },
+        {
+          "path": "images/norco-inline.jpg",
+          "alt": "Illustration of a community picnic with older adults, families, and a flag in the background",
+          "type": "AI-generated editorial illustration",
+          "credit": "Original AI-generated illustration for Corona Shoutouts; not documentary photography."
+        }
+      ],
+      "verified_on": "2026-11-05",
+      "requires_publish_approval": true
+    },
+    {
+      "title": "November for Corona and Norco Older Adults: Meals, Learning, Rides, and Community",
+      "subtitle": "A caring guide to useful local programs, with confirmed dates and a few details to check before leaving home.",
+      "status": "draft",
+      "date": "2026-11-05",
+      "author": "Corona Shoutouts",
+      "slug": "corona-norco-senior-november-roundup-2026",
+      "category": "Events Community",
+      "seo_title": "Corona & Norco Senior November Guide 2026",
+      "meta_description": "Find November meals, library technology classes, senior transportation, Norco Veterans Day plans, and welcoming community programs.",
+      "featured_image": "images/roundup-hero.jpg",
+      "body_word_count": 1002,
+      "word_count_method": "Whitespace-delimited article body including H2 text; excludes headline, captions, metadata, sources, and editor notes.",
+      "markdown_file": "november-senior-roundup.md",
+      "html_file": "november-senior-roundup.html",
+      "image_count": 2,
+      "images": [
+        {
+          "path": "images/roundup-hero.jpg",
+          "alt": "Illustration of older neighbors sharing lunch and conversation",
+          "type": "AI-generated editorial illustration",
+          "credit": "Original AI-generated illustration for Corona Shoutouts; not documentary photography."
+        },
+        {
+          "path": "images/roundup-inline.jpg",
+          "alt": "Illustration of a blank planner, reading glasses, tea, and autumn flowers",
+          "type": "AI-generated editorial illustration",
+          "credit": "Original AI-generated illustration for Corona Shoutouts; not documentary photography."
+        }
+      ],
+      "verified_on": "2026-11-05",
+      "requires_publish_approval": true
+    },
+    {
+      "title": "Getting There With Confidence: Senior Rides in Corona and Norco",
+      "subtitle": "A practical guide to asking about eligibility, making reservations, and planning a return trip without guessing about fares.",
+      "status": "draft",
+      "date": "2026-11-05",
+      "author": "Corona Shoutouts",
+      "slug": "senior-rides-corona-dial-a-ride-norco-transportation",
+      "category": "Events Community",
+      "seo_title": "Senior Rides: Corona Dial-A-Ride & Norco Transportation",
+      "meta_description": "Learn how to ask about Corona Dial-A-Ride and Norco Seniors on the Move, including eligibility, reservations, return trips, and fare confirmation.",
+      "featured_image": "images/senior-rides-hero.jpg",
+      "body_word_count": 1007,
+      "word_count_method": "Whitespace-delimited article body including H2 text; excludes headline, captions, metadata, sources, and editor notes.",
+      "markdown_file": "senior-transportation-guide.md",
+      "html_file": "senior-transportation-guide.html",
+      "image_count": 2,
+      "images": [
+        {
+          "path": "images/senior-rides-hero.jpg",
+          "alt": "Illustration of an older passenger and driver beside an unbranded community van",
+          "type": "AI-generated editorial illustration",
+          "credit": "Original AI-generated illustration for Corona Shoutouts; not documentary photography."
+        },
+        {
+          "path": "images/senior-rides-inline.jpg",
+          "alt": "Illustration of an older man making a phone call with a blank notebook nearby",
+          "type": "AI-generated editorial illustration",
+          "credit": "Original AI-generated illustration for Corona Shoutouts; not documentary photography."
+        }
+      ],
+      "verified_on": "2026-11-05",
+      "requires_publish_approval": true
+    }
+  ]
+}

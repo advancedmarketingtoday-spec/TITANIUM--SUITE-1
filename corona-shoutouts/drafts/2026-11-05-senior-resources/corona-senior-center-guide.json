@@ -1,0 +1,33 @@
+{
+  "title": "A Place to Begin: Lunch, Learning, and Friendship at Corona Senior Center",
+  "subtitle": "What to know before a first visit, including meal eligibility, suggested donations, and how to ask about November activities.",
+  "status": "draft",
+  "date": "2026-11-05",
+  "author": "Corona Shoutouts",
+  "slug": "corona-senior-center-lunch-activities-first-visit",
+  "category": "Events Community",
+  "seo_title": "Corona Senior Center: Lunch, Activities & First Visits",
+  "meta_description": "Plan a welcoming first visit to Corona Senior Center. Find lunch details, membership information, free talks, and the correct facility contact.",
+  "featured_image": "images/senior-center-hero.jpg",
+  "body_word_count": 1009,
+  "word_count_method": "Whitespace-delimited article body including H2 text; excludes headline, captions, metadata, sources, and editor notes.",
+  "markdown_file": "corona-senior-center-guide.md",
+  "html_file": "corona-senior-center-guide.html",
+  "image_count": 2,
+  "images": [
+    {
+      "path": "images/senior-center-hero.jpg",
+      "alt": "Illustration of older adults enjoying lunch at a welcoming community table",
+      "type": "AI-generated editorial illustration",
+      "credit": "Original AI-generated illustration for Corona Shoutouts; not documentary photography."
+    },
+    {
+      "path": "images/senior-center-inline.jpg",
+      "alt": "Illustration of two older friends making paper flowers and sharing craft materials",
+      "type": "AI-generated editorial illustration",
+      "credit": "Original AI-generated illustration for Corona Shoutouts; not documentary photography."
+    }
+  ],
+  "verified_on": "2026-11-05",
+  "requires_publish_approval": true
+}

@@ -1,0 +1,33 @@
+{
+  "title": "November for Corona and Norco Older Adults: Meals, Learning, Rides, and Community",
+  "subtitle": "A caring guide to useful local programs, with confirmed dates and a few details to check before leaving home.",
+  "status": "draft",
+  "date": "2026-11-05",
+  "author": "Corona Shoutouts",
+  "slug": "corona-norco-senior-november-roundup-2026",
+  "category": "Events Community",
+  "seo_title": "Corona & Norco Senior November Guide 2026",
+  "meta_description": "Find November meals, library technology classes, senior transportation, Norco Veterans Day plans, and welcoming community programs.",
+  "featured_image": "images/roundup-hero.jpg",
+  "body_word_count": 1002,
+  "word_count_method": "Whitespace-delimited article body including H2 text; excludes headline, captions, metadata, sources, and editor notes.",
+  "markdown_file": "november-senior-roundup.md",
+  "html_file": "november-senior-roundup.html",
+  "image_count": 2,
+  "images": [
+    {
+      "path": "images/roundup-hero.jpg",
+      "alt": "Illustration of older neighbors sharing lunch and conversation",
+      "type": "AI-generated editorial illustration",
+      "credit": "Original AI-generated illustration for Corona Shoutouts; not documentary photography."
+    },
+    {
+      "path": "images/roundup-inline.jpg",
+      "alt": "Illustration of a blank planner, reading glasses, tea, and autumn flowers",
+      "type": "AI-generated editorial illustration",
+      "credit": "Original AI-generated illustration for Corona Shoutouts; not documentary photography."
+    }
+  ],
+  "verified_on": "2026-11-05",
+  "requires_publish_approval": true
+}

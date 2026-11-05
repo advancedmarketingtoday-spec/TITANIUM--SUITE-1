@@ -1,0 +1,33 @@
+{
+  "title": "Technology at Your Pace: Corona Library's November Learning Opportunities",
+  "subtitle": "Phone privacy, beginner computer skills, and a respectful approach to asking questions and building confidence.",
+  "status": "draft",
+  "date": "2026-11-05",
+  "author": "Corona Shoutouts",
+  "slug": "corona-library-phone-privacy-computer-skills-november-2026",
+  "category": "Events Community",
+  "seo_title": "Corona Library: Phone Privacy & Beginner Computer Skills",
+  "meta_description": "Explore Corona Library's Nov. 14 phone privacy workshop and Thursday beginner computer course, with registration contacts and preparation tips.",
+  "featured_image": "images/library-tech-hero.jpg",
+  "body_word_count": 1001,
+  "word_count_method": "Whitespace-delimited article body including H2 text; excludes headline, captions, metadata, sources, and editor notes.",
+  "markdown_file": "library-technology-learning.md",
+  "html_file": "library-technology-learning.html",
+  "image_count": 2,
+  "images": [
+    {
+      "path": "images/library-tech-hero.jpg",
+      "alt": "Illustration of an older learner operating a laptop with an instructor beside her",
+      "type": "AI-generated editorial illustration",
+      "credit": "Original AI-generated illustration for Corona Shoutouts; not documentary photography."
+    },
+    {
+      "path": "images/library-tech-inline.jpg",
+      "alt": "Illustration of older adult hands holding a smartphone beside a notebook",
+      "type": "AI-generated editorial illustration",
+      "credit": "Original AI-generated illustration for Corona Shoutouts; not documentary photography."
+    }
+  ],
+  "verified_on": "2026-11-05",
+  "requires_publish_approval": true
+}
