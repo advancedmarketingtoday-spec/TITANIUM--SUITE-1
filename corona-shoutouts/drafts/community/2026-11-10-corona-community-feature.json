@@ -1,0 +1,141 @@
+{
+  "status": "draft",
+  "publication": "Corona Shoutouts",
+  "title": "Friends of the Corona Public Library Turns Donated Books Into Community Support",
+  "date": "2026-11-10",
+  "timezone": "America/Los_Angeles",
+  "generated_at": "2026-11-10T06:55:10-08:00",
+  "workflow": "Tuesday — Corona Local Business & Community Spotlight",
+  "subject_type": "documented nonprofit and volunteer effort",
+  "seo_summary": "Meet the volunteers behind Corona Public Library's BookShop and learn how local book donations support library programs.",
+  "seo_summary_length": 120,
+  "readiness": "READY FOR HUMAN REVIEW — DRAFT ONLY",
+  "publication_ready": false,
+  "publication_blockers": [
+    "Human editorial approval is required before publication.",
+    "The provided Corona Weather Hub route could not be independently retrieved during this run and should be checked in the Letterman preview."
+  ],
+  "sources": [
+    {
+      "title": "Non-Profit Organizations — City of Corona",
+      "url": "https://www.coronaca.gov/community/getting-involved/non-profits",
+      "retrieved_at": "2026-11-10",
+      "used_for": ["independent 501(c)(3) status", "mission", "programs", "library address and contact"]
+    },
+    {
+      "title": "Our History — Friends of the Corona Public Library",
+      "url": "https://friendsofthecoronapubliclibrary.com/our-history/",
+      "retrieved_at": "2026-11-10",
+      "used_for": ["1964 founding meeting", "25 residents", "Carnegie library location", "BookShop timeline", "organization-reported fundraising history"]
+    },
+    {
+      "title": "Book Shop — Friends of the Corona Public Library",
+      "url": "https://friendsofthecoronapubliclibrary.com/book-shop/",
+      "retrieved_at": "2026-11-10",
+      "used_for": ["current posted hours", "donation process", "inventory", "organization-reported annual sales"]
+    },
+    {
+      "title": "Volunteer — Friends of the Corona Public Library",
+      "url": "https://friendsofthecoronapubliclibrary.com/volunteer/",
+      "retrieved_at": "2026-11-10",
+      "used_for": ["volunteer-run structure", "roles", "application and orientation process", "background-check timeline"]
+    },
+    {
+      "title": "Community Services Volunteer Opportunities — City of Corona",
+      "url": "https://www.coronaca.gov/i-want-to/volunteer-opportunities/community-services-volunteer-opportunities",
+      "retrieved_at": "2026-11-10",
+      "used_for": ["Friends volunteer age", "orientation requirement", "background check", "volunteer role description"]
+    },
+    {
+      "title": "Volunteer Orientation — City of Corona",
+      "url": "https://community.coronaca.gov/coronaca_main/260112336",
+      "retrieved_at": "2026-11-10",
+      "used_for": ["November 16, 2026 orientation date", "time", "Circle City Center address", "full registration status"]
+    }
+  ],
+  "claim_notes": [
+    "The $90,000 to $100,000 annual BookShop sales range is attributed to the Friends and is not represented as an independently audited figure.",
+    "The article does not claim firsthand attendance, shopping, volunteering or library use.",
+    "No public rating or review count is used because the subject is a nonprofit volunteer organization, not a selected five-star business."
+  ],
+  "featured_image": {
+    "status": "rights-cleared illustrative image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/2025-08-08_23_26_42_UTC_View_of_the_western_portion_of_Corona%2C_Riverside_County%2C_California_from_an_airplane_heading_to_John_Wayne_Airport.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:2025-08-08_23_26_42_UTC_View_of_the_western_portion_of_Corona,_Riverside_County,_California_from_an_airplane_heading_to_John_Wayne_Airport.jpg",
+    "creator": "Famartin",
+    "license": "Creative Commons Attribution-ShareAlike 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "credit": "Famartin, CC BY-SA 4.0, via Wikimedia Commons",
+    "restrictions": "Attribution and ShareAlike required. Use unmodified as general Corona context; the photograph does not show the library or BookShop.",
+    "direct_url_accessibility": "Verified retrievable on 2026-11-10",
+    "alt": "Aerial view of western Corona California and surrounding neighborhoods in August 2025",
+    "caption": "Illustrative aerial view of western Corona in August 2025; not the library or BookShop."
+  },
+  "side_image": {
+    "status": "rights-cleared illustrative image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Library_bookshelf.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Library_bookshelf.jpg",
+    "creator": "Mshuang2",
+    "license": "CC0 1.0 Universal Public Domain Dedication",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "credit": "Mshuang2, CC0, via Wikimedia Commons",
+    "restrictions": "Use as an illustrative bookshelf only; it does not depict the Friends' BookShop in Corona.",
+    "direct_url_accessibility": "Verified retrievable on 2026-11-10",
+    "alt": "Rows of library books arranged on a low shelf with several titles displayed on top",
+    "caption": "Illustrative library bookshelf; not the Friends' BookShop in Corona."
+  },
+  "inline_images": [
+    {
+      "slot": 1,
+      "status": "inserted",
+      "role": "featured image",
+      "rights_evidence": "Wikimedia source page identifies Famartin as creator and the license as CC BY-SA 4.0; direct image URL was retrieved."
+    },
+    {
+      "slot": 2,
+      "status": "inserted",
+      "role": "side image",
+      "rights_evidence": "Wikimedia source page identifies Mshuang2 as creator and records a CC0 dedication; direct image URL was retrieved."
+    }
+  ],
+  "counts": {
+    "word_count": 575,
+    "answer_first_opening_words": 53,
+    "activity_or_engagement_path_count": 3,
+    "h1_count": 1,
+    "h2_count": 4,
+    "section_count": 3,
+    "figure_count": 2,
+    "inline_photo_count": 2,
+    "photo_placeholder_count": 0,
+    "featured_image_count": 1
+  },
+  "link_verification": [
+    {
+      "label": "Corona Weather Hub",
+      "href": "/a/corona-weather",
+      "status": "provided destination retained; independent retrieval unavailable",
+      "checked_at": "2026-11-10"
+    },
+    {
+      "label": "Corona prep sports briefings",
+      "href": "/articles/prep-sports-roundup",
+      "status": "verified published category index",
+      "verified_url": "https://coronashoutouts.com/articles/prep-sports-roundup",
+      "checked_at": "2026-11-10"
+    }
+  ],
+  "remaining_gaps": [
+    "Human editor must approve the draft before publication.",
+    "Confirm the Weather Hub route resolves in the current Letterman preview.",
+    "Recheck BookShop hours and volunteer-orientation availability before publication.",
+    "The rights-cleared images are honestly labeled as illustrative and do not depict the Friends' BookShop."
+  ],
+  "handoff": {
+    "destination": "GitHub repository handoff for Hermes/OpenClaw/Letterman consumption",
+    "letterman_direct_delivery": false,
+    "newsletter_sent": false,
+    "site_published": false,
+    "status_guarantee": "draft"
+  }
+}
