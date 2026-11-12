@@ -1,0 +1,196 @@
+{
+  "status": "draft",
+  "publication": "Corona Shoutouts",
+  "title": "Corona Weekend Planner: Dos Lagos Cars, Library Making and Family Theater",
+  "date": "2026-11-12",
+  "timezone": "America/Los_Angeles",
+  "generated_at": "2026-11-12T07:04:00-08:00",
+  "coverage_window": {
+    "start": "2026-11-13",
+    "end": "2026-11-15",
+    "timezone": "America/Los_Angeles"
+  },
+  "seo_summary": "Plan a Corona weekend with Dos Lagos cars, library workshops and family theater from November 13–15, 2026.",
+  "readiness": "READY FOR HUMAN REVIEW — DRAFT ONLY",
+  "publication_ready": false,
+  "publication_blockers": [
+    "Human editorial approval is required before Letterman insertion or publication.",
+    "The Phone Security & Privacy listing is labeled in-person but also contains an online-event note; format should be confirmed during registration.",
+    "The Weather Hub path was supplied by the publisher but could not be independently retrieved; verify it in Letterman preview."
+  ],
+  "article": {
+    "theme": "Dos Lagos & Corona Weekend Planner",
+    "weekday": "Thursday",
+    "format": "HTML5 fragment",
+    "answer_first_opening_words": 51,
+    "word_count": 724,
+    "h1_count": 1,
+    "h2_count": 4,
+    "h3_count": 4,
+    "figure_count": 2,
+    "inline_photo_count": 2,
+    "placeholder_image_count": 0,
+    "status_comment_present": true
+  },
+  "featured_image": {
+    "status": "rights-cleared",
+    "role": "featured",
+    "direct_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/2025-08-08_23_26_42_UTC_View_of_the_western_portion_of_Corona%2C_Riverside_County%2C_California_from_an_airplane_heading_to_John_Wayne_Airport.jpg/1280px-2025-08-08_23_26_42_UTC_View_of_the_western_portion_of_Corona%2C_Riverside_County%2C_California_from_an_airplane_heading_to_John_Wayne_Airport.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:2025-08-08_23_26_42_UTC_View_of_the_western_portion_of_Corona,_Riverside_County,_California_from_an_airplane_heading_to_John_Wayne_Airport.jpg",
+    "creator": "Famartin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "credit_required": true,
+    "credit": "Photo by Famartin, licensed CC BY-SA 4.0.",
+    "restrictions": "Attribution required; adaptations must use the same or a compatible license.",
+    "alt": "Aerial view of western Corona California and surrounding hills",
+    "caption": "An aerial view of western Corona, photographed in August 2025.",
+    "rights_verified_at": "2026-11-12",
+    "direct_url_accessibility": "Verified accessible and rendered successfully on 2026-11-12."
+  },
+  "side_image": {
+    "status": "rights-cleared",
+    "role": "side",
+    "direct_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Fender_Center_for_the_Performing_Arts%2C_Corona%2C_California.jpg/1280px-Fender_Center_for_the_Performing_Arts%2C_Corona%2C_California.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Fender_Center_for_the_Performing_Arts,_Corona,_California.jpg",
+    "creator": "miheco",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "credit_required": true,
+    "credit": "Photo by miheco, licensed CC BY-SA 2.0.",
+    "restrictions": "Attribution required; adaptations must use the same or a compatible license.",
+    "alt": "Exterior of the Fender Center for the Performing Arts in Corona California",
+    "caption": "An archival 2007 view of the Fender Center for the Performing Arts, shown as local arts context and not as the CAT venue.",
+    "rights_verified_at": "2026-11-12",
+    "direct_url_accessibility": "Verified accessible on 2026-11-12."
+  },
+  "inline_images": [
+    {
+      "position": 1,
+      "role": "featured-inline",
+      "status": "rights-cleared",
+      "direct_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/2025-08-08_23_26_42_UTC_View_of_the_western_portion_of_Corona%2C_Riverside_County%2C_California_from_an_airplane_heading_to_John_Wayne_Airport.jpg/1280px-2025-08-08_23_26_42_UTC_View_of_the_western_portion_of_Corona%2C_Riverside_County%2C_California_from_an_airplane_heading_to_John_Wayne_Airport.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:2025-08-08_23_26_42_UTC_View_of_the_western_portion_of_Corona,_Riverside_County,_California_from_an_airplane_heading_to_John_Wayne_Airport.jpg",
+      "creator": "Famartin",
+      "license": "CC BY-SA 4.0",
+      "rights_evidence": "Wikimedia Commons file page names Famartin as author and states CC BY-SA 4.0."
+    },
+    {
+      "position": 2,
+      "role": "side-inline",
+      "status": "rights-cleared",
+      "direct_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Fender_Center_for_the_Performing_Arts%2C_Corona%2C_California.jpg/1280px-Fender_Center_for_the_Performing_Arts%2C_Corona%2C_California.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Fender_Center_for_the_Performing_Arts,_Corona,_California.jpg",
+      "creator": "miheco",
+      "license": "CC BY-SA 2.0",
+      "rights_evidence": "Wikimedia Commons file page names miheco as author and states CC BY-SA 2.0; Flickr license was reviewed by Commons."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Cars and Coffee Corona",
+      "url": "https://carsandcoffeecorona.com/",
+      "retrieved_at": "2026-11-12",
+      "supports": "Every-Saturday schedule, 7–9 a.m., family-friendly description, address, rain caveat and parking guidance."
+    },
+    {
+      "name": "Dos Lagos Tickets — Events",
+      "url": "https://dltickets.com/events-list/",
+      "retrieved_at": "2026-11-12",
+      "supports": "Current November calendar and absence of a listed amphitheater program for November 13–15."
+    },
+    {
+      "name": "Corona Public Library — Phone Security & Privacy",
+      "url": "https://coronacalibrary.libcal.com/event/17737068",
+      "retrieved_at": "2026-11-12",
+      "supports": "Date, time, audience, listed room, registration, availability, curriculum and format discrepancy."
+    },
+    {
+      "name": "Corona Public Library — Open Create",
+      "url": "https://coronacalibrary.libcal.com/event/17745710",
+      "retrieved_at": "2026-11-12",
+      "supports": "Date, time, makerspace location, ages and equipment."
+    },
+    {
+      "name": "Christian Arts & Theatre of Corona — Our Season",
+      "url": "https://www.catcorona.org/ourseason",
+      "retrieved_at": "2026-11-12",
+      "supports": "Performance dates and times, address and ticket prices for Singin’ in the Rain and Annie Jr."
+    },
+    {
+      "name": "City of Corona calendar and recreation pages",
+      "url": "https://www.coronaca.gov/",
+      "retrieved_at": "2026-11-12",
+      "supports": "No separate scheduled city park program was verified for November 13–15 in the official pages reviewed."
+    }
+  ],
+  "link_verification": [
+    {
+      "href": "/a/corona-weather",
+      "label": "Corona Weather Hub",
+      "status": "publisher-provided; not independently retrievable",
+      "action": "Verify in Letterman preview before publication."
+    },
+    {
+      "href": "/articles/prep-sports-roundup",
+      "label": "Corona prep sports roundup",
+      "status": "verified published destination",
+      "verified_at": "2026-11-10"
+    },
+    {
+      "href": "https://carsandcoffeecorona.com/",
+      "label": "Cars and Coffee Corona",
+      "status": "verified",
+      "verified_at": "2026-11-12"
+    },
+    {
+      "href": "https://coronacalibrary.libcal.com/event/17737068",
+      "label": "Phone Security & Privacy",
+      "status": "verified",
+      "verified_at": "2026-11-12"
+    },
+    {
+      "href": "https://coronacalibrary.libcal.com/event/17745710",
+      "label": "Open Create",
+      "status": "verified",
+      "verified_at": "2026-11-12"
+    },
+    {
+      "href": "https://www.catcorona.org/ourseason",
+      "label": "CAT official season page",
+      "status": "verified",
+      "verified_at": "2026-11-12"
+    }
+  ],
+  "verification": {
+    "nonempty_full_article": true,
+    "headline_present": true,
+    "subheadline_present": true,
+    "answer_first": true,
+    "specific_local_details": true,
+    "meta_description_under_155_characters": true,
+    "exactly_two_figures": true,
+    "exactly_two_inline_images": true,
+    "featured_image_metadata_present": true,
+    "side_image_metadata_present": true,
+    "rights_evidence_present": true,
+    "draft_status_html": true,
+    "draft_status_json": true,
+    "weather_link_present": true,
+    "sports_link_present": true,
+    "scripts_present": false
+  },
+  "remaining_gaps": [
+    "Confirm the Phone Security & Privacy delivery format during registration because the official page contains conflicting in-person and online language.",
+    "Confirm current seat and ticket availability immediately before publication.",
+    "Confirm both rights-cleared image URLs render in Letterman preview.",
+    "Verify the publisher-provided Weather Hub route in Letterman preview.",
+    "No separate Dos Lagos Amphitheater event or scheduled City of Corona park program was verified for November 13–15."
+  ],
+  "handoff": {
+    "destination": "GitHub repository for Hermes/OpenClaw/Letterman consumption",
+    "direct_letterman_delivery": false,
+    "published": false,
+    "newsletter_sent": false
+  }
+}
