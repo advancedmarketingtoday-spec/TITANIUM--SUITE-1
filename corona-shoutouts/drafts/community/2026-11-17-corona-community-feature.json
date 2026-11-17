@@ -1,0 +1,179 @@
+{
+  "status": "draft",
+  "publication": "Corona Shoutouts",
+  "title": "Corona Art Association Gives Local Creativity a Place to Grow",
+  "date": "2026-11-17",
+  "timezone": "America/Los_Angeles",
+  "generated_at": "2026-11-17T06:56:10-08:00",
+  "seo_summary": "Meet the Corona Art Association, a volunteer-run nonprofit with free gallery viewing, local classes and community art opportunities.",
+  "readiness": "READY FOR HUMAN REVIEW — DRAFT ONLY",
+  "publication_ready": false,
+  "publication_blockers": [
+    "Human editorial approval is required before Letterman insertion or publication.",
+    "Gallery hours depend on volunteer staffing and should be rechecked before publication.",
+    "The publisher-provided Weather Hub path could not be independently retrieved and should be tested in Letterman preview."
+  ],
+  "article": {
+    "theme": "Corona Local Business & Community Spotlight",
+    "weekday": "Tuesday",
+    "subject_type": "501(c)(3) nonprofit community arts organization",
+    "format": "HTML5 fragment",
+    "answer_first_opening_words": 52,
+    "word_count": 691,
+    "h1_count": 1,
+    "h2_count": 4,
+    "figure_count": 2,
+    "inline_photo_count": 2,
+    "placeholder_image_count": 0,
+    "status_comment_present": true
+  },
+  "featured_image": {
+    "status": "rights-cleared",
+    "role": "featured",
+    "direct_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/CORONA_HIGH_SCHOOL%2C_RIVERSIDE_COUNTY%2C_CA.jpg/1280px-CORONA_HIGH_SCHOOL%2C_RIVERSIDE_COUNTY%2C_CA.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:CORONA_HIGH_SCHOOL,_RIVERSIDE_COUNTY,_CA.jpg",
+    "creator": "JERRYE & ROY KLOTZ, M.D.",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "credit_required": true,
+    "credit": "Photo by Jerrye and Roy Klotz, M.D., licensed CC BY-SA 4.0.",
+    "restrictions": "Attribution required; adaptations must use the same or a compatible license.",
+    "alt": "Corona Historic Civic Center exterior where the Corona Art Association gallery is located",
+    "caption": "The Corona Historic Civic Center at 815 W. Sixth Street houses the Corona Art Association gallery in Suite 145.",
+    "rights_verified_at": "2026-11-17",
+    "direct_url_accessibility": "Verified accessible and rendered successfully on 2026-11-17."
+  },
+  "side_image": {
+    "status": "rights-cleared",
+    "role": "side",
+    "direct_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Prado_Dam_Spillway%2C_Santa_Ana_River%2C_Riverside_County%2C_CA.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Prado_Dam_Spillway,_Santa_Ana_River,_Riverside_County,_CA.jpg",
+    "creator": "David G. De Vries for the Historic American Engineering Record",
+    "license": "Public domain (U.S. federal government work)",
+    "license_url": "https://commons.wikimedia.org/wiki/Template:PD-USGov-NPS",
+    "credit_required": false,
+    "credit": "Historic American Engineering Record image by David G. De Vries; public domain.",
+    "restrictions": "Public domain in the United States; retain descriptive credit and archival context.",
+    "alt": "Archival view of the Prado Dam Bicentennial Mural near Corona California",
+    "caption": "An archival 1996 view of the Prado Dam Bicentennial Mural near Corona, included as local public-art context and not as Corona Art Association work.",
+    "rights_verified_at": "2026-11-17",
+    "direct_url_accessibility": "Verified accessible and rendered successfully on 2026-11-17."
+  },
+  "inline_images": [
+    {
+      "position": 1,
+      "role": "featured-inline",
+      "status": "rights-cleared",
+      "direct_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/CORONA_HIGH_SCHOOL%2C_RIVERSIDE_COUNTY%2C_CA.jpg/1280px-CORONA_HIGH_SCHOOL%2C_RIVERSIDE_COUNTY%2C_CA.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:CORONA_HIGH_SCHOOL,_RIVERSIDE_COUNTY,_CA.jpg",
+      "creator": "JERRYE & ROY KLOTZ, M.D.",
+      "license": "CC BY-SA 4.0",
+      "rights_evidence": "Wikimedia Commons identifies the photographers, describes the image as their own work and states the CC BY-SA 4.0 license."
+    },
+    {
+      "position": 2,
+      "role": "side-inline",
+      "status": "rights-cleared",
+      "direct_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Prado_Dam_Spillway%2C_Santa_Ana_River%2C_Riverside_County%2C_CA.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Prado_Dam_Spillway,_Santa_Ana_River,_Riverside_County,_CA.jpg",
+      "creator": "David G. De Vries for the Historic American Engineering Record",
+      "license": "Public domain (U.S. federal government work)",
+      "rights_evidence": "Wikimedia Commons identifies the image as National Park Service Historic American Engineering Record work in the U.S. public domain."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Corona Art Association home and events",
+      "url": "https://www.coronaartassociation.org/",
+      "retrieved_at": "2026-11-17",
+      "supports": "Current gallery hours, volunteer-staffing caveat, address, nonprofit status, tax ID and event calendar."
+    },
+    {
+      "name": "Corona Art Association gallery location and hours",
+      "url": "https://www.coronaartassociation.org/about-caa",
+      "retrieved_at": "2026-11-17",
+      "supports": "Free gallery viewing, bimonthly shows, media represented, gift shop, parking directions and Sunday member Open Studio."
+    },
+    {
+      "name": "City of Corona nonprofit directory",
+      "url": "https://www.coronaca.gov/community/getting-involved/non-profits",
+      "retrieved_at": "2026-11-17",
+      "supports": "1963 founding, nonprofit status, community involvement and visual-arts education purpose."
+    },
+    {
+      "name": "Corona Art Association membership application",
+      "url": "https://www.coronaartassociation.org/join-or-renew-membership",
+      "retrieved_at": "2026-11-17",
+      "supports": "Current dues, active volunteer expectations and exhibiting-artist gallery staffing requirement."
+    },
+    {
+      "name": "Corona Art Association art services",
+      "url": "https://www.coronaartassociation.org/art-classes-and-services",
+      "retrieved_at": "2026-11-17",
+      "supports": "Adult classes do not require membership and youth offerings depend on teachers and funding."
+    },
+    {
+      "name": "Explorations in Painting and Drawing for Adults",
+      "url": "https://www.coronaartassociation.org/event-details/explorations-in-painting-and-drawing-for-adults-with-mary-lou-2026-11-23-15-30",
+      "retrieved_at": "2026-11-17",
+      "supports": "November 23 date, time, address, adult age restriction, four-session price and class format."
+    }
+  ],
+  "link_verification": [
+    {
+      "href": "/a/corona-weather",
+      "label": "Corona Weather Hub",
+      "status": "publisher-provided; not independently retrievable",
+      "action": "Verify in Letterman preview before publication."
+    },
+    {
+      "href": "/articles/prep-sports-roundup",
+      "label": "daily Corona prep sports briefings",
+      "status": "verified published destination",
+      "verified_at": "2026-11-17"
+    },
+    {
+      "href": "https://www.coronaartassociation.org/",
+      "label": "official events calendar",
+      "status": "verified",
+      "verified_at": "2026-11-17"
+    },
+    {
+      "href": "https://www.coronaartassociation.org/event-details/explorations-in-painting-and-drawing-for-adults-with-mary-lou-2026-11-23-15-30",
+      "label": "Explorations in Painting and Drawing for Adults",
+      "status": "verified",
+      "verified_at": "2026-11-17"
+    }
+  ],
+  "verification": {
+    "nonempty_full_article": true,
+    "headline_present": true,
+    "subheadline_present": true,
+    "answer_first": true,
+    "specific_local_details": true,
+    "meta_description_under_155_characters": true,
+    "exactly_two_figures": true,
+    "exactly_two_inline_images": true,
+    "featured_image_metadata_present": true,
+    "side_image_metadata_present": true,
+    "rights_evidence_present": true,
+    "draft_status_html": true,
+    "draft_status_json": true,
+    "weather_link_present": true,
+    "sports_link_present": true,
+    "scripts_present": false
+  },
+  "remaining_gaps": [
+    "Confirm gallery hours before publication because the association says they depend on volunteer staffing.",
+    "Recheck November 23 class ticket availability and the posted $60 four-session price immediately before publication.",
+    "Confirm both rights-cleared image URLs render in Letterman preview.",
+    "Verify the publisher-provided Weather Hub route in Letterman preview.",
+    "The second image is an archival public-art photograph and is not Corona Art Association work."
+  ],
+  "handoff": {
+    "destination": "GitHub repository for Hermes/OpenClaw/Letterman consumption",
+    "direct_letterman_delivery": false,
+    "published": false,
+    "newsletter_sent": false
+  }
+}
