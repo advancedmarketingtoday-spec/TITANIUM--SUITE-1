@@ -1,0 +1,162 @@
+{
+  "status": "draft",
+  "publication": "Corona Shoutouts",
+  "title": "Corona Weekend Planner: Coding, Cars and the First Tree Lighting",
+  "date": "2026-11-19",
+  "timezone": "America/Los_Angeles",
+  "generated_at": "2026-11-19T06:57:01-08:00",
+  "seo_summary": "Plan a Corona weekend with library coding, Dos Lagos cars, makerspace hours and a free Crossings tree lighting November 20–22.",
+  "theme": "Dos Lagos & Corona Weekend Planner",
+  "coverage_window": {
+    "start": "2026-11-20",
+    "end": "2026-11-22",
+    "timezone": "America/Los_Angeles"
+  },
+  "readiness": "READY FOR HUMAN REVIEW — DRAFT ONLY",
+  "publication_ready": false,
+  "draft_only_policy": "Human approval is required. Do not auto-publish, send a newsletter, deploy, or change the live site.",
+  "sources": [
+    {
+      "name": "Cars and Coffee Corona",
+      "url": "https://carsandcoffeecorona.com/",
+      "retrieved_at": "2026-11-19",
+      "facts_used": "Weekly Saturday schedule, 7–9 a.m., Dos Lagos address, family-friendly description, spectator and parking guidance, rain/Christmas exception."
+    },
+    {
+      "name": "The Shops at Dos Lagos official events calendar",
+      "url": "https://shopdoslagos.com/event/",
+      "retrieved_at": "2026-11-19",
+      "facts_used": "No separate November 20–22 event was listed; the next posted holiday activity begins November 27."
+    },
+    {
+      "name": "Corona Public Library Coding Class",
+      "url": "https://coronacalibrary.libcal.com/event/17908070",
+      "retrieved_at": "2026-11-19",
+      "facts_used": "November 20 date, 4:45–5:45 p.m., Computer Learning Center, coding and robotics introduction, ages 6–12."
+    },
+    {
+      "name": "Corona Public Library Friday Open Create",
+      "url": "https://coronacalibrary.libcal.com/event/17745700",
+      "retrieved_at": "2026-11-19",
+      "facts_used": "November 20 date, split hours, Innovation Center/Makerspace, equipment examples and age 13+."
+    },
+    {
+      "name": "Corona Public Library Saturday Open Create",
+      "url": "https://coronacalibrary.libcal.com/event/17745711",
+      "retrieved_at": "2026-11-19",
+      "facts_used": "November 21 date, 10 a.m.–1:30 p.m., Innovation Center/Makerspace, equipment examples and age 13+."
+    },
+    {
+      "name": "City of Corona Public Library",
+      "url": "https://www.coronaca.gov/government/departments-divisions/library-recreation-services/library",
+      "retrieved_at": "2026-11-19",
+      "facts_used": "Library street address."
+    },
+    {
+      "name": "The Crossings at Corona Tree Lighting and Santa’s Arrival",
+      "url": "https://shopcrossingsatcorona.com/event/tree-lighting-santas-arrival/",
+      "retrieved_at": "2026-11-19",
+      "facts_used": "November 21 date, 5–7:30 p.m., venue address, free admission and event activities."
+    },
+    {
+      "name": "Corona Chamber community calendar",
+      "url": "https://member.mychamber.org/community-events/Details/tree-lighting-photos-with-santa-and-the-grinch-1978053?rendermode=print",
+      "retrieved_at": "2026-11-19",
+      "facts_used": "Festivities begin at 5 p.m.; tree lighting follows performances at 6 p.m.; open-to-public confirmation."
+    },
+    {
+      "name": "City of Corona calendar and parks pages",
+      "url": "https://www.coronaca.gov/government/departments-divisions/library-recreation-services/parks",
+      "retrieved_at": "2026-11-19",
+      "facts_used": "No scheduled city park program for November 20–22 was verified."
+    },
+    {
+      "name": "Corona Shoutouts Prep Sports Roundup",
+      "url": "https://coronashoutouts.com/articles/prep-sports-roundup",
+      "retrieved_at": "2026-11-19",
+      "facts_used": "Published sports index destination verified in search results."
+    }
+  ],
+  "featured_image": {
+    "status": "rights-cleared",
+    "role": "featured",
+    "direct_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/2021-10-05_14_12_40_View_southwest_along_Interstate_15_towards_Corona_in_western_Riverside_County%2C_California_from_an_airplane_heading_for_Los_Angeles_International_Airport.jpg/960px-thumbnail.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:2021-10-05_14_12_40_View_southwest_along_Interstate_15_towards_Corona_in_western_Riverside_County,_California_from_an_airplane_heading_for_Los_Angeles_International_Airport.jpg",
+    "creator": "Famartin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "credit": "Famartin / Wikimedia Commons / CC BY-SA 4.0",
+    "changes": "None",
+    "alt": "Aerial view southwest along Interstate 15 toward Corona California",
+    "caption": "An aerial view along Interstate 15 toward Corona. Illustrative photo; no changes made.",
+    "retrieved_at": "2026-11-19",
+    "direct_url_accessibility": "Rendered successfully during verification."
+  },
+  "side_image": {
+    "status": "rights-cleared",
+    "role": "side",
+    "direct_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/2025-08-08_23_26_42_UTC_View_of_the_western_portion_of_Corona%2C_Riverside_County%2C_California_from_an_airplane_heading_to_John_Wayne_Airport.jpg/1280px-2025-08-08_23_26_42_UTC_View_of_the_western_portion_of_Corona%2C_Riverside_County%2C_California_from_an_airplane_heading_to_John_Wayne_Airport.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:2025-08-08_23_26_42_UTC_View_of_the_western_portion_of_Corona,_Riverside_County,_California_from_an_airplane_heading_to_John_Wayne_Airport.jpg",
+    "creator": "Famartin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "credit": "Famartin / Wikimedia Commons / CC BY-SA 4.0",
+    "changes": "None",
+    "alt": "Aerial view of western Corona California and surrounding hills",
+    "caption": "Western Corona and the surrounding hills from the air. Illustrative photo; no changes made.",
+    "retrieved_at": "2026-11-19",
+    "direct_url_accessibility": "Rendered successfully during verification."
+  },
+  "inline_images": [
+    {
+      "slot": 1,
+      "status": "rights-cleared",
+      "uses_featured_image": true,
+      "placeholder": false
+    },
+    {
+      "slot": 2,
+      "status": "rights-cleared",
+      "uses_side_image": true,
+      "placeholder": false
+    }
+  ],
+  "counts": {
+    "word_count": 649,
+    "figure_count": 2,
+    "inline_photo_count": 2,
+    "image_placeholder_count": 0,
+    "verified_activity_count": 4,
+    "verified_scheduled_event_count": 3,
+    "verified_recurring_activity_count": 1
+  },
+  "link_verification": {
+    "weather_hub": {
+      "href": "/a/corona-weather",
+      "status": "publisher-provided; independent retrieval not confirmed",
+      "review_action": "Confirm the route in Letterman preview before publication."
+    },
+    "sports_briefing": {
+      "href": "/articles/prep-sports-roundup",
+      "status": "published destination verified",
+      "verified_at": "2026-11-19"
+    }
+  },
+  "coverage_gaps": [
+    "No separate Dos Lagos Amphitheater event was listed for November 20–22 on the official center calendar.",
+    "No scheduled City of Corona park program for November 20–22 was verified.",
+    "The library event pages do not state price, registration requirements or remaining capacity.",
+    "Cars and Coffee on November 21 is derived from the organizer’s every-Saturday schedule and remains subject to its rain/Christmas exception.",
+    "The two rights-cleared photos are current local illustrative images, not photographs of the listed events."
+  ],
+  "remaining_gaps": [
+    "Confirm the Weather Hub route in Letterman preview.",
+    "Human editor must confirm event availability again before publication.",
+    "Human editor must approve the draft before any live action."
+  ],
+  "handoff": {
+    "destination": "GitHub repository handoff for Hermes/OpenClaw/Letterman consumption",
+    "direct_letterman_delivery": false,
+    "api_status": "draft"
+  }
+}
