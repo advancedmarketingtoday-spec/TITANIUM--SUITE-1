@@ -1,0 +1,143 @@
+{
+  "status": "draft",
+  "publication": "Corona Shoutouts",
+  "title": "Corona-Norco Settlement House Turns Local Donations Into Everyday Help",
+  "date": "2026-11-24",
+  "timezone": "America/Los_Angeles",
+  "generated_at": "2026-11-24T07:01:30-08:00",
+  "seo_summary": "See how Corona-Norco Settlement House provides food, clothing and holiday help, plus practical ways local residents can contribute.",
+  "theme": "Corona Local Business & Community Spotlight",
+  "subject_type": "nonprofit",
+  "readiness": "READY FOR HUMAN REVIEW — DRAFT ONLY",
+  "publication_ready": false,
+  "draft_only_policy": "Human approval is required. Do not auto-publish, send a newsletter, deploy, or change the live site.",
+  "sources": [
+    {
+      "name": "Corona-Norco Settlement House home page",
+      "url": "https://settlementhouse.net/",
+      "retrieved_at": "2026-11-24",
+      "facts_used": "Address, phone, general hours, service area, mission summary and documented emergency-support programs."
+    },
+    {
+      "name": "Corona-Norco Settlement House programs",
+      "url": "https://settlementhouse.net/our-mission/",
+      "retrieved_at": "2026-11-24",
+      "facts_used": "Food pantry schedule and eligibility, thrift-store hours and access, holiday food-basket and toy-program descriptions, annual organization-stated figures and requested items."
+    },
+    {
+      "name": "Corona-Norco Settlement House donation page",
+      "url": "https://settlementhouse.net/donate/",
+      "retrieved_at": "2026-11-24",
+      "facts_used": "Online and check donation methods, current urgent needs, in-person donation hours and toy age range."
+    },
+    {
+      "name": "Corona-Norco Settlement House volunteer page",
+      "url": "https://settlementhouse.net/volunteer/",
+      "retrieved_at": "2026-11-24",
+      "facts_used": "Volunteer roles and rule that volunteers under 16 must be accompanied by an adult."
+    },
+    {
+      "name": "City of Corona nonprofit directory",
+      "url": "https://www.coronaca.gov/community/getting-involved/non-profits",
+      "retrieved_at": "2026-11-24",
+      "facts_used": "Independent municipal directory confirmation of Settlement House location and food, clothing, hotel-voucher and rent-assistance services."
+    },
+    {
+      "name": "Corona Shoutouts Prep Sports Roundup",
+      "url": "https://coronashoutouts.com/articles/prep-sports-roundup",
+      "retrieved_at": "2026-11-24",
+      "facts_used": "Published sports index destination verified in current search results."
+    }
+  ],
+  "featured_image": {
+    "status": "rights-cleared",
+    "role": "featured",
+    "direct_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Volunteers_assist_food_bank_DVIDS1099792.jpg/1280px-Volunteers_assist_food_bank_DVIDS1099792.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Volunteers_assist_food_bank_DVIDS1099792.jpg",
+    "creator": "Petty Officer 3rd Class Robert Brazzell, U.S. Coast Guard",
+    "license": "Public domain, work of the United States federal government",
+    "license_url": "https://commons.wikimedia.org/wiki/File:Volunteers_assist_food_bank_DVIDS1099792.jpg#Licensing",
+    "credit": "U.S. Coast Guard photo by Petty Officer 3rd Class Robert Brazzell / Public domain",
+    "restrictions": "No known copyright restrictions; do not imply the people or Maryland Food Bank endorse Corona-Norco Settlement House.",
+    "changes": "None",
+    "alt": "Volunteers organizing donated food at a community food bank",
+    "caption": "An illustrative view of volunteers organizing food donations. This is not Corona-Norco Settlement House.",
+    "locality_disclosure": "Illustrative image made in Baltimore, Maryland; not a Corona event or facility.",
+    "retrieved_at": "2026-11-24",
+    "direct_url_accessibility": "Rendered successfully during verification."
+  },
+  "side_image": {
+    "status": "rights-cleared",
+    "role": "side",
+    "direct_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Clothing_donation.jpg/960px-Clothing_donation.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Clothing_donation.jpg",
+    "creator": "Arunrajfoundation",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "credit": "Arunrajfoundation / Wikimedia Commons / CC BY 4.0",
+    "restrictions": "Attribution required; do not imply endorsement by the creator or depicted organization.",
+    "changes": "None",
+    "alt": "Neatly organized clothing donations ready for community distribution",
+    "caption": "Illustrative clothing donations, not a photograph of the Corona facility.",
+    "locality_disclosure": "Illustrative image made in Bangkok, Thailand; not a Corona event or facility.",
+    "retrieved_at": "2026-11-24",
+    "direct_url_accessibility": "Rendered successfully during verification."
+  },
+  "inline_images": [
+    {
+      "slot": 1,
+      "status": "rights-cleared",
+      "uses_featured_image": true,
+      "placeholder": false,
+      "rights_evidence": "Wikimedia Commons file page identifies the image as a U.S. Coast Guard federal work in the public domain."
+    },
+    {
+      "slot": 2,
+      "status": "rights-cleared",
+      "uses_side_image": true,
+      "placeholder": false,
+      "rights_evidence": "Wikimedia Commons file page identifies the creator and CC BY 4.0 license."
+    }
+  ],
+  "counts": {
+    "word_count": 698,
+    "figure_count": 2,
+    "inline_photo_count": 2,
+    "image_placeholder_count": 0,
+    "source_count": 6,
+    "action_option_count": 5
+  },
+  "link_verification": {
+    "weather_hub": {
+      "href": "/a/corona-weather",
+      "status": "publisher-provided; independent retrieval not confirmed",
+      "review_action": "Confirm the route in Letterman preview before publication."
+    },
+    "sports_briefing": {
+      "href": "/articles/prep-sports-roundup",
+      "status": "published destination verified",
+      "verified_at": "2026-11-24"
+    },
+    "organization_home": {
+      "href": "https://settlementhouse.net/",
+      "status": "verified official organization site",
+      "verified_at": "2026-11-24"
+    }
+  },
+  "coverage_gaps": [
+    "Settlement House did not provide reusable local event or facility photos with explicit publication permission, so both images are clearly labeled rights-cleared illustrations from outside Corona.",
+    "Holiday basket and toy-recipient figures are attributed to the organization’s current program page and were not independently audited.",
+    "The organization’s pages do not state Thanksgiving-week closures; readers are advised to call before visiting.",
+    "Eligibility documentation and appointment requirements are not fully described on the public pages."
+  ],
+  "remaining_gaps": [
+    "Confirm the Weather Hub route in Letterman preview.",
+    "Confirm holiday-week operating hours and current donation priorities before publication.",
+    "Human editor must approve the illustrative, nonlocal images and the complete draft before any live action."
+  ],
+  "handoff": {
+    "destination": "GitHub repository handoff for Hermes/OpenClaw/Letterman consumption",
+    "direct_letterman_delivery": false,
+    "api_status": "draft"
+  }
+}
