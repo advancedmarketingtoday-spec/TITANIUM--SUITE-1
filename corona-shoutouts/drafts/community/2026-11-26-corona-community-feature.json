@@ -1,0 +1,168 @@
+{
+  "status": "draft",
+  "publication": "Corona Shoutouts",
+  "title": "Corona Weekend Planner: Dos Lagos Lights Up Thanksgiving Weekend",
+  "date": "2026-11-26",
+  "timezone": "America/Los_Angeles",
+  "generated_at": "2026-11-26T07:00:03-08:00",
+  "theme": "Dos Lagos & Corona Weekend Planner",
+  "coverage_window": {
+    "start": "2026-11-27",
+    "end": "2026-11-29",
+    "timezone": "America/Los_Angeles"
+  },
+  "seo_summary": "Plan Corona's November 27-29 weekend with the Dos Lagos light show, free tree lighting concert and library makerspace hours.",
+  "readiness": "READY FOR HUMAN REVIEW — DRAFT ONLY",
+  "publication_ready": false,
+  "sources": [
+    {
+      "name": "The Shops at Dos Lagos — Christmas Comes Alive event page",
+      "url": "https://shopdoslagos.com/event/christmas-comes-alive-dos-lagos-christmas-light-show/",
+      "publisher": "The Shops at Dos Lagos",
+      "retrieved_at": "2026-11-26",
+      "supports": "Opening dates, hours, address, attraction details and ticket guidance"
+    },
+    {
+      "name": "Dos Lagos Christmas Light Show official site",
+      "url": "https://doslagoschristmas.com/",
+      "publisher": "Dos Lagos Christmas Light Show",
+      "retrieved_at": "2026-11-26",
+      "supports": "Show format, synchronized lighting schedule, age and train policies"
+    },
+    {
+      "name": "Dos Lagos Christmas Light Show ticket page",
+      "url": "https://tickets.doslagoschristmas.com/",
+      "publisher": "Dos Lagos Christmas Light Show",
+      "retrieved_at": "2026-11-26",
+      "supports": "Current starting ticket prices and availability guidance"
+    },
+    {
+      "name": "Dos Lagos Annual Tree Lighting & Holiday Concert",
+      "url": "https://shopdoslagos.com/event/dos-lagos-annual-tree-lighting-holiday-concert/",
+      "publisher": "The Shops at Dos Lagos",
+      "retrieved_at": "2026-11-26",
+      "supports": "Date, schedule, central-plaza location, performers, admission and optional VIP seating"
+    },
+    {
+      "name": "Corona Public Library — Open Create",
+      "url": "https://coronacalibrary.libcal.com/event/17745712",
+      "publisher": "Corona Public Library",
+      "retrieved_at": "2026-11-26",
+      "supports": "Date, time, makerspace room, equipment and ages"
+    },
+    {
+      "name": "Corona Public Library LibCal profile and upcoming events",
+      "url": "https://coronacalibrary.libcal.com/profile/349b525d0f06",
+      "publisher": "Corona Public Library",
+      "retrieved_at": "2026-11-26",
+      "supports": "Friday holiday closure and Saturday Open Create listing"
+    },
+    {
+      "name": "City of Corona calendar",
+      "url": "https://www.coronaca.gov/departments/library/calendar",
+      "publisher": "City of Corona",
+      "retrieved_at": "2026-11-26",
+      "supports": "No listed City calendar items for the covered weekend at retrieval"
+    },
+    {
+      "name": "Corona aerial photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:CoronaCA.jpg",
+      "publisher": "Wikimedia Commons",
+      "retrieved_at": "2026-11-26",
+      "supports": "Image authorship, description and public-domain dedication"
+    },
+    {
+      "name": "Holiday lights photograph",
+      "url": "https://commons.wikimedia.org/wiki/File:Lights-1088141_1920.jpg",
+      "publisher": "Wikimedia Commons",
+      "retrieved_at": "2026-11-26",
+      "supports": "Image source and CC0/public-domain license"
+    }
+  ],
+  "featured_image": {
+    "status": "rights-cleared",
+    "role": "featured",
+    "direct_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/CoronaCA.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:CoronaCA.jpg",
+    "creator": "FredBren",
+    "license": "Public domain dedication",
+    "credit": "Photo by FredBren, public domain, via Wikimedia Commons",
+    "restrictions": "None stated; archival image must not be represented as a current event photograph",
+    "alt": "Archival aerial view of Corona California with the 91 and 15 interchange and mountains in the distance",
+    "caption": "Archival aerial view of Corona, including the 91/15 interchange; not an event photo.",
+    "accessibility_checked": true
+  },
+  "side_image": {
+    "status": "rights-cleared",
+    "role": "side",
+    "direct_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Lights-1088141_1920.jpg/1280px-Lights-1088141_1920.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Lights-1088141_1920.jpg",
+    "creator": "Public Domain (Pixabay)",
+    "license": "CC0 1.0 / public domain",
+    "credit": "Public-domain image from Pixabay via Wikimedia Commons",
+    "restrictions": "Illustrative image only; must not be represented as a photograph of Dos Lagos",
+    "alt": "Illustrative close-up of warm white holiday lights against a dark background",
+    "caption": "Illustrative holiday lights; not a photograph of the Dos Lagos event.",
+    "accessibility_checked": true
+  },
+  "inline_images": [
+    {
+      "position": 1,
+      "status": "rights-cleared",
+      "source_page": "https://commons.wikimedia.org/wiki/File:CoronaCA.jpg",
+      "creator": "FredBren",
+      "license": "Public domain dedication",
+      "rights_evidence": "Wikimedia Commons file page identifies own work and a worldwide public-domain release",
+      "direct_url_accessible": true,
+      "is_placeholder": false
+    },
+    {
+      "position": 2,
+      "status": "rights-cleared",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lights-1088141_1920.jpg",
+      "creator": "Public Domain (Pixabay)",
+      "license": "CC0 1.0 / public domain",
+      "rights_evidence": "Wikimedia Commons file page records a CC0 public-domain dedication",
+      "direct_url_accessible": true,
+      "is_placeholder": false
+    }
+  ],
+  "counts": {
+    "word_count": 673,
+    "inline_figure_count": 2,
+    "inline_image_count": 2,
+    "image_placeholder_count": 0,
+    "verified_scheduled_activities": 3
+  },
+  "link_verification": [
+    {
+      "label": "Corona Weather Hub",
+      "url": "/a/corona-weather",
+      "status": "publisher-provided route; manual preview required"
+    },
+    {
+      "label": "Corona prep sports roundup",
+      "url": "/articles/prep-sports-roundup",
+      "status": "published destination verified on 2026-11-26"
+    }
+  ],
+  "coverage_gaps": [
+    "No separate Dos Lagos Amphitheater event was verified for November 27-29; the official tree-lighting page explicitly places its temporary stage in the central shopping plaza.",
+    "No scheduled City of Corona park program for November 27-29 appeared on the official calendar reviewed November 26.",
+    "The Open Create listing does not state a fee, registration requirement or remaining capacity.",
+    "The two rights-cleared images are illustrative or archival and are not photographs of this weekend's events.",
+    "Ticket prices are listed as starting prices and event availability remains subject to organizer changes."
+  ],
+  "remaining_gaps": [
+    "Preview the publisher-provided Corona Weather Hub route in the production environment.",
+    "Reconfirm event availability and ticket prices before publication.",
+    "Obtain human editorial approval before any Letterman insertion or publication."
+  ],
+  "handoff": {
+    "destination": "GitHub repository handoff for Hermes/OpenClaw/Letterman consumption",
+    "direct_letterman_delivery_configured": false,
+    "api_status": "draft",
+    "auto_publish": false,
+    "human_approval_required": true
+  }
+}
