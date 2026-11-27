@@ -8,7 +8,7 @@ reporting_window_start: 2026-11-26T06:30:00-08:00
 reporting_window_end: 2026-11-26T18:15:00-08:00
 generated_at: 2026-11-26T18:27:00-08:00
 readiness: "PARTIAL — MANUAL REVIEW REQUIRED; no new verified final results were posted in the afternoon reporting window"
-word_count: 1043
+word_count: 1135
 featured_image: null
 inline_image_count: 0
 ---
@@ -35,15 +35,11 @@ The afternoon check-in is intentionally short on scores because reliable scoreke
 
 That quiet window fits the official calendars. Corona’s official CIF Southern Section calendar identified Thursday, November 26 as Thanksgiving, while the current school-calendar listings reviewed for Centennial and Norco also identified the holiday or no scheduled school events. A holiday notation is not proof that every private practice or club activity is cancelled; it simply means the retrieved public school-event feeds did not provide a verified contest to report this afternoon.
 
-For the families following local teams, the next public schedule markers arrive Friday. Corona’s freshman boys basketball tournament is shown on official school calendar listings beginning Friday, and the morning briefing had already documented the previously verified Friday football, basketball and SilverLakes items. This afternoon edition does not repeat those morning entries as new developments, but it does preserve the confirmed schedule context for editor review.
-
 ## Today's Results So Far
 
 - **No new verified finals after the morning briefing.** On Thursday, November 26, the retrieved official calendar feeds showed Thanksgiving or no scheduled public school event listings for the relevant holiday window. No new Corona, Centennial, Santiago, Norco or Eleanor Roosevelt varsity final was posted in the sources reviewed by approximately 6:15 p.m. PT. **Location:** not applicable. **Key players:** none reported. **Takeaway:** no score is being published without a final from MaxPreps or an official school/league source.
 
 - **Corona freshman basketball tournament remains a schedule item, not a reported result.** Corona’s official CIF-SS calendar shows the Corona High Freshman Basketball Tournament with a TBA listing on Thursday and again on Friday. The retrieved listing did not identify an opponent, court, start time or final score for a Thursday game. **Location:** Corona High School is named for the tournament listing, but no individual game site was confirmed. **Key players:** none reported. **Takeaway:** the tournament belongs in the coverage-gaps list until a verifiable matchup and result are posted.
-
-- **No correction to this morning’s report was found.** The morning briefing’s confirmed Wednesday Santiago–Carlsbad boys basketball final, 67–57, was not altered by a later authoritative source during this afternoon review. It is therefore not repeated here as a new result. **Takeaway:** the afternoon file adds only post-morning developments or correction checks.
 
 ## Tonight's Games
 
@@ -57,15 +53,13 @@ For the families following local teams, the next public schedule markers arrive 
 
 ## Players and Teams to Know
 
-No genuinely new player performance, team streak, roster update or official result was confirmed during the afternoon window. The appropriate local shoutout is for the school communities doing the behind-the-scenes work that makes the holiday weekend possible: athletes, coaches, athletic trainers, family members, game workers, officials and transportation teams. This is an editorial acknowledgment, not a claim about a particular team’s activity.
-
-The verified competitive context remains the one from the morning edition. Santiago’s boys basketball win over Carlsbad was a Wednesday final already covered earlier today; Centennial football’s Division 1 championship assignment is a Friday schedule item; and the remaining tournament feeds must be allowed to post complete results before individual athletes are named. That restraint is especially important in multi-game holiday tournaments, where partial brackets and social posts can easily lead to an incorrect opponent, site or win/loss direction.
+No new player performance, roster update or official result was confirmed during the afternoon window. Individual athletes are intentionally not named until an official result identifies their contribution; partial tournament brackets and social posts can otherwise create an incorrect opponent, site or win/loss direction.
 
 ## Eastvale Soccer
 
 No new Eastvale high-school soccer score, SilverLakes field assignment or Eastvale youth-club result was verified in the afternoon reporting window. Roosevelt’s official athletics home and the Corona-Norco Unified School District athletics page identify the school and district sports infrastructure, but the retrieved pages did not provide a Thursday final for a Roosevelt soccer team.
 
-SilverLakes in nearby Norco remains the region’s confirmed weekend soccer item. Its Fall Showcase is scheduled for Friday through Sunday, November 27–29, for boys and girls U13–U19 teams. The event’s public information supports the dates and complex; it does not confirm a participating Eastvale team, match opponent, start time or field. Those club-specific details should be added only after the organizer’s live schedule or the club’s official post provides them.
+SilverLakes’ Fall Showcase is scheduled in Norco Friday through Sunday, November 27–29, for boys and girls U13–U19 teams. The public event page supports the dates and venue, not a specific Eastvale club assignment. Club-specific details should wait for the organizer’s live schedule or a club’s official post.
 
 ## Editor Notes
 
