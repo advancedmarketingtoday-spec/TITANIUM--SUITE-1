@@ -15,7 +15,7 @@ inline_image_count: 0
 
 # TITLE and EDITOR METADATA
 
-- **Word count:** 1,043
+- **Word count:** 1,135
 - **Reporting window:** Thursday, November 26, 2026, 6:30 a.m.–6:15 p.m. Pacific Time
 - **Sources retrieved:** Official CIF Southern Section school-calendar widgets for Corona, Centennial, Norco and Eleanor Roosevelt; MaxPreps current-season schedules for Corona, Norco and Eleanor Roosevelt; CNUSD Athletics; the morning Corona Sports Today briefing, which was checked solely to avoid repeating previously reported Wednesday information.
 - **Status:** DRAFT only; no publication, submission, or scheduling.
